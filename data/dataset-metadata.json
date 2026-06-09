@@ -1,0 +1,27 @@
+{
+  "title": "Central Asia Fintech Fraud Detection Dataset",
+  "id": "safar1/central-asia-fintech-fraud",
+  "licenses": [{"name": "CC0-1.0"}],
+  "keywords": [
+    "fraud detection",
+    "finance",
+    "banking",
+    "classification",
+    "tabular data",
+    "imbalanced data",
+    "anomaly detection",
+    "uzbekistan",
+    "central asia",
+    "mobile payments",
+    "fintech",
+    "time series",
+    "customer segmentation"
+  ],
+  "collaborators": [],
+  "data": [
+    {"description": "Main transactions table with fraud labels", "name": "transactions.csv"},
+    {"description": "User demographics and financial profile", "name": "users.csv"},
+    {"description": "Merchant registry with risk scores", "name": "merchants.csv"},
+    {"description": "Full dataset documentation", "name": "README.md"}
+  ]
+}

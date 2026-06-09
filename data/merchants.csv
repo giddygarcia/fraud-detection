@@ -1,0 +1,2501 @@
+merchant_id,merchant_name,category,city,region,mcc_code,risk_score,avg_transaction_uzs,is_online,years_registered
+M00000,Nur Store,Fuel,Jizzakh,Jizzakh,8073,4.1,288152,1,2
+M00001,Fayz Plus,Telecom,Guliston,Sirdaryo,4443,20.2,190779,0,8
+M00002,Mehr Market,Utilities,Nukus,Karakalpakstan,2872,12.7,37694,1,3
+M00003,Shams Bozor,Clothing,Andijan,Andijan,4679,2.1,439098,0,8
+M00004,Fayz Center,Grocery,Fergana,Fergana,3205,18.5,96090,0,2
+M00005,Oltin Bozor,Fuel,Samarkand,Samarkand,6472,13.0,51390,1,5
+M00006,Fayz Bozor,Pharmacy,Namangan,Namangan,5183,16.3,43213,0,7
+M00007,Baraka Store,ATM,Guliston,Sirdaryo,2745,14.4,34271,1,9
+M00008,Nur Center,Telecom,Tashkent,Tashkent City,7013,21.2,81639,1,2
+M00009,Mehr Service,Utilities,Jizzakh,Jizzakh,6227,24.4,66110,1,1
+M00010,Nur Store,Fuel,Jizzakh,Jizzakh,9603,10.2,49003,0,5
+M00011,Kumush Center,Fuel,Namangan,Namangan,9442,21.8,93126,1,1
+M00012,Zafar Service,Restaurant,Fergana,Fergana,4847,16.4,406171,0,2
+M00013,Yulduz Center,Fuel,Termez,Surxondaryo,5301,24.9,68564,0,6
+M00014,Yulduz Bozor,Cash,Bukhara,Bukhara,7660,23.3,92292,0,2
+M00015,Baraka Store,Transport,Termez,Surxondaryo,4750,0.7,189161,0,0
+M00016,Kumush Shop,Telecom,Guliston,Sirdaryo,6343,17.0,507911,1,1
+M00017,Baraka Store,Pharmacy,Nukus,Karakalpakstan,2057,24.4,139337,0,6
+M00018,Nur Center,Restaurant,Jizzakh,Jizzakh,4480,43.0,172985,1,0
+M00019,Oltin Bozor,Electronics,Qarshi,Qashqadaryo,7618,46.8,235603,0,6
+M00020,Baxt Shop,Fuel,Tashkent,Tashkent City,9666,31.4,177070,1,2
+M00021,Baraka Market,ATM,Jizzakh,Jizzakh,7255,11.2,31779,0,6
+M00022,Kumush Center,Electronics,Nukus,Karakalpakstan,1887,21.8,64942,1,9
+M00023,Yulduz Store,Cash,Nukus,Karakalpakstan,6853,28.0,210930,0,1
+M00024,Baxt Shop,Fuel,Bukhara,Bukhara,2649,18.9,78076,0,3
+M00025,Fayz Store,Clothing,Nukus,Karakalpakstan,9621,34.3,42350,1,9
+M00026,Fayz Center,Restaurant,Nukus,Karakalpakstan,5045,9.8,96551,1,3
+M00027,Nur Center,Transport,Termez,Surxondaryo,4525,22.2,186415,1,7
+M00028,Oltin Plus,Restaurant,Fergana,Fergana,7297,9.1,180345,1,5
+M00029,Baraka Bozor,Clothing,Guliston,Sirdaryo,6100,22.4,124629,0,2
+M00030,Kumush Store,Cash,Namangan,Namangan,4271,35.5,27399,1,9
+M00031,Kumush Service,Cash,Guliston,Sirdaryo,9148,29.7,141395,0,5
+M00032,Baraka Shop,Restaurant,Termez,Surxondaryo,6698,17.6,42595,0,6
+M00033,Fayz Store,Clothing,Qarshi,Qashqadaryo,7572,1.2,187219,0,3
+M00034,Shams Trade,Telecom,Qarshi,Qashqadaryo,5445,31.3,161525,0,7
+M00035,Zafar Shop,Fuel,Fergana,Fergana,6795,10.4,77467,0,7
+M00036,Baraka Store,Grocery,Samarkand,Samarkand,9851,53.6,40864,0,5
+M00037,Kumush Express,Clothing,Qarshi,Qashqadaryo,6925,47.2,297330,1,4
+M00038,Yulduz Market,Pharmacy,Namangan,Namangan,4419,4.2,151763,0,4
+M00039,Fayz Store,Electronics,Tashkent,Tashkent City,3466,29.1,56888,0,2
+M00040,Zafar Service,ATM,Andijan,Andijan,8934,28.6,390575,1,5
+M00041,Baxt Trade,Telecom,Jizzakh,Jizzakh,1885,23.3,124278,1,8
+M00042,Yulduz Market,Clothing,Tashkent,Tashkent City,7744,6.7,71527,0,9
+M00043,Baraka Market,Restaurant,Tashkent,Tashkent City,1367,9.0,280201,0,3
+M00044,Oltin Store,Cash,Andijan,Andijan,1878,6.9,227277,0,8
+M00045,Zafar Trade,Transport,Tashkent,Tashkent City,6972,13.7,192125,1,9
+M00046,Baxt Center,ATM,Tashkent,Tashkent City,4426,4.5,146300,0,5
+M00047,Kumush Plus,Utilities,Tashkent,Tashkent City,5361,9.6,49054,0,3
+M00048,Mehr Bozor,Transport,Urgench,Xorazm,7681,18.8,51105,0,5
+M00049,Fayz Plus,Electronics,Termez,Surxondaryo,8976,27.2,87029,1,5
+M00050,Fayz Bozor,Electronics,Bukhara,Bukhara,6956,4.8,24575,0,4
+M00051,Zafar Store,Electronics,Namangan,Namangan,1240,22.3,150551,1,3
+M00052,Baxt Store,Online Shopping,Termez,Surxondaryo,3580,8.2,112470,1,9
+M00053,Baxt Plus,Clothing,Andijan,Andijan,6701,5.4,124918,0,5
+M00054,Zafar Plus,Restaurant,Andijan,Andijan,5404,39.3,419576,0,0
+M00055,Nur Store,Telecom,Bukhara,Bukhara,2573,10.8,48009,1,9
+M00056,Oltin Service,Grocery,Nukus,Karakalpakstan,9037,12.3,133750,0,1
+M00057,Baraka Bozor,Restaurant,Guliston,Sirdaryo,5027,27.1,48299,0,1
+M00058,Zafar Market,ATM,Bukhara,Bukhara,8316,11.0,332399,0,4
+M00059,Kumush Service,Telecom,Guliston,Sirdaryo,8623,3.1,52682,0,8
+M00060,Kumush Bozor,Fuel,Bukhara,Bukhara,3770,22.9,545624,0,8
+M00061,Kumush Market,Transport,Nukus,Karakalpakstan,4555,16.8,55437,0,8
+M00062,Mehr Market,Clothing,Fergana,Fergana,7277,7.8,153816,0,5
+M00063,Baraka Center,Cash,Urgench,Xorazm,5605,24.0,180486,0,6
+M00064,Shams Market,ATM,Termez,Surxondaryo,7891,11.9,239566,1,2
+M00065,Shams Center,Cash,Namangan,Namangan,7964,14.4,50881,1,4
+M00066,Mehr Store,Electronics,Termez,Surxondaryo,2845,6.4,46403,0,9
+M00067,Kumush Center,Electronics,Qarshi,Qashqadaryo,1165,27.6,82693,0,5
+M00068,Kumush Store,Transport,Tashkent,Tashkent City,5853,36.5,208895,1,1
+M00069,Nur Market,Transport,Samarkand,Samarkand,1060,12.7,120557,0,6
+M00070,Baraka Express,Restaurant,Andijan,Andijan,8308,24.1,284814,1,7
+M00071,Yulduz Center,Online Shopping,Jizzakh,Jizzakh,7944,22.8,61589,0,9
+M00072,Kumush Plus,Clothing,Urgench,Xorazm,7700,38.3,97988,0,8
+M00073,Oltin Bozor,Utilities,Nukus,Karakalpakstan,4625,13.7,112842,0,3
+M00074,Fayz Shop,Pharmacy,Andijan,Andijan,3765,36.1,108257,1,8
+M00075,Baxt Shop,Restaurant,Termez,Surxondaryo,8618,8.2,192142,1,9
+M00076,Zafar Trade,Telecom,Tashkent,Tashkent City,8785,29.1,323218,0,8
+M00077,Kumush Express,Restaurant,Qarshi,Qashqadaryo,8301,22.0,75049,0,2
+M00078,Kumush Market,Online Shopping,Qarshi,Qashqadaryo,4931,13.0,82779,0,4
+M00079,Kumush Store,Electronics,Urgench,Xorazm,7779,11.8,152379,1,4
+M00080,Fayz Store,Telecom,Guliston,Sirdaryo,1151,7.4,156849,1,9
+M00081,Oltin Trade,Electronics,Andijan,Andijan,9730,9.9,284476,0,4
+M00082,Zafar Express,Restaurant,Guliston,Sirdaryo,1357,9.1,129364,0,2
+M00083,Mehr Shop,Utilities,Qarshi,Qashqadaryo,5697,12.7,101973,0,1
+M00084,Shams Center,Fuel,Andijan,Andijan,9928,6.7,486507,1,5
+M00085,Kumush Trade,Utilities,Qarshi,Qashqadaryo,2435,10.3,156331,0,1
+M00086,Zafar Market,Transport,Samarkand,Samarkand,8340,20.9,212880,0,0
+M00087,Oltin Store,Pharmacy,Bukhara,Bukhara,4350,11.6,33979,1,8
+M00088,Nur Service,Pharmacy,Namangan,Namangan,4021,6.2,107493,1,1
+M00089,Shams Store,Pharmacy,Bukhara,Bukhara,8966,4.1,296356,1,9
+M00090,Oltin Trade,Pharmacy,Urgench,Xorazm,9208,49.9,131571,0,4
+M00091,Zafar Bozor,Telecom,Termez,Surxondaryo,6949,22.2,113642,0,9
+M00092,Nur Shop,Grocery,Urgench,Xorazm,2849,5.5,26526,0,5
+M00093,Yulduz Market,Grocery,Bukhara,Bukhara,6400,9.3,108146,0,2
+M00094,Kumush Express,Transport,Tashkent,Tashkent City,5753,12.0,326885,0,4
+M00095,Oltin Express,Clothing,Qarshi,Qashqadaryo,1517,8.5,121222,0,2
+M00096,Fayz Bozor,Utilities,Andijan,Andijan,6344,37.6,176101,1,2
+M00097,Nur Plus,Restaurant,Guliston,Sirdaryo,7330,47.5,93066,0,1
+M00098,Kumush Trade,Restaurant,Bukhara,Bukhara,4032,15.1,92401,0,5
+M00099,Zafar Center,Restaurant,Namangan,Namangan,7057,31.5,126189,1,6
+M00100,Baraka Shop,ATM,Andijan,Andijan,1176,53.3,179754,0,6
+M00101,Kumush Market,Online Shopping,Jizzakh,Jizzakh,8083,10.9,224496,0,0
+M00102,Yulduz Plus,Pharmacy,Guliston,Sirdaryo,8975,8.7,212702,0,1
+M00103,Oltin Service,Telecom,Fergana,Fergana,7828,29.2,92354,0,6
+M00104,Baxt Center,Electronics,Bukhara,Bukhara,9265,20.5,142600,0,5
+M00105,Baraka Plus,Pharmacy,Qarshi,Qashqadaryo,4762,10.3,43684,0,2
+M00106,Baraka Express,Electronics,Tashkent,Tashkent City,9819,17.6,147884,0,5
+M00107,Fayz Store,Utilities,Namangan,Namangan,2060,8.5,24282,0,7
+M00108,Yulduz Bozor,Utilities,Andijan,Andijan,5627,20.4,35909,0,2
+M00109,Mehr Store,Telecom,Guliston,Sirdaryo,3284,18.8,141438,0,1
+M00110,Baraka Express,Fuel,Samarkand,Samarkand,1035,14.0,184930,1,0
+M00111,Baraka Service,Electronics,Termez,Surxondaryo,3545,9.6,45683,0,9
+M00112,Baxt Express,Clothing,Namangan,Namangan,1825,24.5,187531,0,2
+M00113,Baraka Bozor,Transport,Termez,Surxondaryo,9598,21.4,105373,0,1
+M00114,Mehr Bozor,ATM,Nukus,Karakalpakstan,3957,18.6,297748,0,3
+M00115,Baxt Shop,Electronics,Jizzakh,Jizzakh,4092,21.8,385201,0,0
+M00116,Shams Plus,Utilities,Samarkand,Samarkand,9369,9.8,20095,0,1
+M00117,Nur Service,Restaurant,Samarkand,Samarkand,2103,12.0,559308,0,1
+M00118,Zafar Market,Restaurant,Qarshi,Qashqadaryo,4714,24.6,249971,1,6
+M00119,Fayz Service,Cash,Samarkand,Samarkand,9668,18.9,195223,0,2
+M00120,Shams Plus,Electronics,Jizzakh,Jizzakh,9945,4.9,92254,0,1
+M00121,Nur Service,ATM,Tashkent,Tashkent City,7670,13.1,182224,0,6
+M00122,Yulduz Service,Clothing,Namangan,Namangan,3862,18.0,161540,0,5
+M00123,Baraka Market,Telecom,Jizzakh,Jizzakh,4170,10.9,239483,1,4
+M00124,Shams Center,Grocery,Nukus,Karakalpakstan,1396,12.7,161373,1,0
+M00125,Baraka Service,Restaurant,Jizzakh,Jizzakh,1059,7.0,189039,0,4
+M00126,Nur Plus,Cash,Termez,Surxondaryo,1234,22.8,219749,1,1
+M00127,Mehr Market,Pharmacy,Nukus,Karakalpakstan,1036,23.1,25708,1,5
+M00128,Baxt Bozor,Utilities,Jizzakh,Jizzakh,7020,4.6,96466,0,0
+M00129,Fayz Express,Telecom,Qarshi,Qashqadaryo,5120,15.4,121720,0,6
+M00130,Baxt Market,Online Shopping,Qarshi,Qashqadaryo,3956,17.1,89464,0,4
+M00131,Oltin Service,Electronics,Jizzakh,Jizzakh,8774,16.7,299174,1,7
+M00132,Kumush Service,Cash,Samarkand,Samarkand,1588,29.8,443070,0,4
+M00133,Kumush Service,Fuel,Andijan,Andijan,6861,10.2,136089,1,4
+M00134,Yulduz Service,Online Shopping,Andijan,Andijan,3104,12.1,135728,0,9
+M00135,Fayz Shop,Telecom,Namangan,Namangan,1386,22.6,133099,0,1
+M00136,Shams Shop,Telecom,Namangan,Namangan,5585,11.8,34686,0,5
+M00137,Yulduz Market,ATM,Guliston,Sirdaryo,2424,12.1,60104,0,0
+M00138,Oltin Bozor,Grocery,Tashkent,Tashkent City,4952,23.7,60643,1,1
+M00139,Fayz Shop,Electronics,Bukhara,Bukhara,7533,3.8,231251,1,2
+M00140,Baraka Express,Utilities,Fergana,Fergana,6320,20.4,88417,0,1
+M00141,Oltin Store,ATM,Fergana,Fergana,4992,5.7,114013,0,1
+M00142,Kumush Store,Cash,Jizzakh,Jizzakh,2956,14.8,105693,1,7
+M00143,Fayz Plus,Clothing,Qarshi,Qashqadaryo,7419,27.5,98113,0,3
+M00144,Baraka Trade,Clothing,Guliston,Sirdaryo,4270,12.4,644122,0,7
+M00145,Fayz Trade,Electronics,Andijan,Andijan,9120,23.0,131635,0,9
+M00146,Shams Market,Clothing,Guliston,Sirdaryo,8022,3.5,371345,0,2
+M00147,Oltin Market,ATM,Nukus,Karakalpakstan,7598,7.4,68787,1,3
+M00148,Baxt Market,Clothing,Samarkand,Samarkand,6468,11.4,49616,1,2
+M00149,Kumush Plus,Restaurant,Urgench,Xorazm,6903,6.0,246383,0,9
+M00150,Baraka Trade,Cash,Bukhara,Bukhara,5539,19.3,136781,1,0
+M00151,Baxt Store,Utilities,Termez,Surxondaryo,8598,23.3,199529,0,6
+M00152,Oltin Service,Restaurant,Jizzakh,Jizzakh,8213,45.7,510996,0,2
+M00153,Mehr Service,Pharmacy,Urgench,Xorazm,4972,17.9,140096,1,0
+M00154,Oltin Store,Utilities,Namangan,Namangan,5744,34.8,164950,0,5
+M00155,Zafar Market,Grocery,Namangan,Namangan,6821,9.0,92080,0,7
+M00156,Nur Plus,Fuel,Samarkand,Samarkand,5706,8.6,134168,1,8
+M00157,Shams Express,Online Shopping,Namangan,Namangan,8334,34.1,148912,1,7
+M00158,Zafar Trade,Utilities,Fergana,Fergana,7211,17.5,178206,0,0
+M00159,Shams Bozor,Clothing,Namangan,Namangan,8766,40.1,151963,1,7
+M00160,Nur Center,Grocery,Jizzakh,Jizzakh,6378,41.8,34826,0,0
+M00161,Oltin Shop,Utilities,Fergana,Fergana,4352,5.8,407317,0,1
+M00162,Mehr Market,Online Shopping,Fergana,Fergana,2244,26.3,128903,1,1
+M00163,Zafar Market,Telecom,Samarkand,Samarkand,4024,24.2,427265,1,0
+M00164,Mehr Plus,Electronics,Jizzakh,Jizzakh,8595,10.7,62063,0,9
+M00165,Shams Store,Utilities,Guliston,Sirdaryo,2930,24.4,80539,0,8
+M00166,Fayz Bozor,Online Shopping,Qarshi,Qashqadaryo,2264,4.4,102070,0,8
+M00167,Shams Store,Grocery,Urgench,Xorazm,8800,28.2,86417,0,7
+M00168,Yulduz Market,Utilities,Qarshi,Qashqadaryo,7501,10.7,160247,0,5
+M00169,Oltin Store,Pharmacy,Guliston,Sirdaryo,6200,8.7,287278,0,5
+M00170,Mehr Express,Online Shopping,Andijan,Andijan,8576,8.8,360297,0,6
+M00171,Nur Service,Telecom,Bukhara,Bukhara,6137,21.9,82599,0,7
+M00172,Nur Service,Restaurant,Fergana,Fergana,3296,11.8,74337,0,0
+M00173,Zafar Trade,ATM,Qarshi,Qashqadaryo,3173,13.9,221986,1,5
+M00174,Oltin Express,ATM,Urgench,Xorazm,4436,32.8,51583,0,2
+M00175,Kumush Plus,ATM,Jizzakh,Jizzakh,4182,14.9,205222,0,5
+M00176,Yulduz Trade,Telecom,Tashkent,Tashkent City,3156,2.1,99302,0,2
+M00177,Baraka Store,Pharmacy,Nukus,Karakalpakstan,1709,24.6,84319,0,9
+M00178,Zafar Market,Fuel,Qarshi,Qashqadaryo,1106,3.9,12637,0,0
+M00179,Yulduz Shop,Electronics,Nukus,Karakalpakstan,3850,10.4,148346,1,1
+M00180,Oltin Service,Restaurant,Samarkand,Samarkand,7336,11.5,305384,0,8
+M00181,Nur Plus,Pharmacy,Tashkent,Tashkent City,9756,39.5,46504,0,2
+M00182,Baxt Store,Transport,Termez,Surxondaryo,2457,23.3,150448,0,5
+M00183,Zafar Service,Online Shopping,Guliston,Sirdaryo,6490,44.5,178948,0,1
+M00184,Baraka Shop,Clothing,Qarshi,Qashqadaryo,8117,14.1,78668,1,6
+M00185,Kumush Center,Grocery,Termez,Surxondaryo,7111,25.7,169485,0,2
+M00186,Shams Market,ATM,Fergana,Fergana,7024,34.6,245835,1,7
+M00187,Mehr Express,Cash,Guliston,Sirdaryo,6524,25.6,138913,1,8
+M00188,Fayz Plus,Online Shopping,Andijan,Andijan,8684,7.0,186802,1,4
+M00189,Zafar Bozor,Transport,Bukhara,Bukhara,6895,6.5,97393,0,7
+M00190,Kumush Service,ATM,Termez,Surxondaryo,9951,4.4,229809,0,3
+M00191,Zafar Shop,Pharmacy,Urgench,Xorazm,9183,19.5,30466,1,5
+M00192,Baxt Center,Telecom,Jizzakh,Jizzakh,8456,52.2,222201,0,0
+M00193,Kumush Market,Transport,Bukhara,Bukhara,9336,29.2,321499,0,2
+M00194,Yulduz Express,Telecom,Samarkand,Samarkand,3824,35.7,65805,0,4
+M00195,Yulduz Shop,ATM,Samarkand,Samarkand,1381,6.6,64510,1,4
+M00196,Shams Plus,Fuel,Jizzakh,Jizzakh,3191,34.0,437912,0,2
+M00197,Shams Bozor,Clothing,Jizzakh,Jizzakh,3412,15.2,163412,1,5
+M00198,Zafar Center,Cash,Qarshi,Qashqadaryo,7401,19.1,35478,1,2
+M00199,Baxt Bozor,Fuel,Samarkand,Samarkand,2565,23.3,100697,1,1
+M00200,Zafar Shop,Transport,Termez,Surxondaryo,9001,14.8,30266,1,8
+M00201,Zafar Shop,Online Shopping,Termez,Surxondaryo,9175,6.6,100273,0,0
+M00202,Yulduz Center,ATM,Urgench,Xorazm,4615,15.8,117283,0,1
+M00203,Fayz Express,Grocery,Andijan,Andijan,8154,10.4,195946,1,1
+M00204,Zafar Market,Telecom,Tashkent,Tashkent City,4932,50.8,122827,0,9
+M00205,Kumush Plus,Clothing,Guliston,Sirdaryo,9358,13.3,430391,1,7
+M00206,Baraka Center,Pharmacy,Nukus,Karakalpakstan,4353,2.4,131456,0,8
+M00207,Yulduz Bozor,Fuel,Fergana,Fergana,1345,28.5,26095,0,5
+M00208,Nur Trade,Electronics,Jizzakh,Jizzakh,1286,4.7,196306,0,8
+M00209,Fayz Bozor,Utilities,Qarshi,Qashqadaryo,6449,32.3,130785,0,6
+M00210,Mehr Trade,Cash,Namangan,Namangan,6365,11.3,104669,0,7
+M00211,Mehr Bozor,ATM,Urgench,Xorazm,1435,4.7,279137,0,1
+M00212,Mehr Plus,Online Shopping,Fergana,Fergana,7963,8.9,233569,0,2
+M00213,Kumush Service,Utilities,Andijan,Andijan,2551,7.9,60129,1,3
+M00214,Fayz Bozor,Online Shopping,Nukus,Karakalpakstan,9171,15.4,149055,0,6
+M00215,Fayz Express,Restaurant,Guliston,Sirdaryo,8374,9.2,404835,0,2
+M00216,Nur Express,Transport,Jizzakh,Jizzakh,7217,13.5,127661,0,0
+M00217,Kumush Center,Restaurant,Tashkent,Tashkent City,6635,5.0,42839,0,7
+M00218,Yulduz Store,Clothing,Tashkent,Tashkent City,6503,29.2,164807,1,3
+M00219,Shams Bozor,Cash,Samarkand,Samarkand,5806,5.3,93582,1,1
+M00220,Nur Service,ATM,Bukhara,Bukhara,1992,29.1,123216,1,9
+M00221,Nur Shop,Transport,Termez,Surxondaryo,1247,39.8,55741,0,2
+M00222,Kumush Service,Online Shopping,Termez,Surxondaryo,8229,16.9,157040,1,6
+M00223,Fayz Express,Electronics,Nukus,Karakalpakstan,3542,3.8,75463,0,6
+M00224,Fayz Center,Utilities,Termez,Surxondaryo,9747,8.3,228921,1,8
+M00225,Mehr Market,Transport,Andijan,Andijan,4206,4.7,353554,0,6
+M00226,Nur Shop,Telecom,Namangan,Namangan,5599,50.5,139299,0,5
+M00227,Baraka Store,Online Shopping,Urgench,Xorazm,4838,13.4,56085,1,8
+M00228,Nur Trade,Cash,Fergana,Fergana,5474,25.9,65612,1,0
+M00229,Fayz Center,Online Shopping,Urgench,Xorazm,2129,32.3,138286,0,8
+M00230,Mehr Market,Pharmacy,Andijan,Andijan,1885,34.3,154910,0,9
+M00231,Oltin Plus,Clothing,Jizzakh,Jizzakh,3203,43.2,78749,1,8
+M00232,Kumush Store,Electronics,Termez,Surxondaryo,3892,8.8,102215,1,6
+M00233,Baxt Trade,Transport,Bukhara,Bukhara,7040,7.9,190970,0,7
+M00234,Fayz Plus,Clothing,Termez,Surxondaryo,9086,8.7,282565,1,8
+M00235,Baxt Shop,Restaurant,Urgench,Xorazm,6656,1.2,119180,0,1
+M00236,Nur Center,Telecom,Jizzakh,Jizzakh,7895,18.8,195747,0,6
+M00237,Nur Shop,ATM,Termez,Surxondaryo,4179,12.1,119617,1,5
+M00238,Shams Bozor,Grocery,Bukhara,Bukhara,6409,14.0,154208,0,7
+M00239,Nur Shop,Utilities,Jizzakh,Jizzakh,4174,15.5,71268,0,1
+M00240,Fayz Center,ATM,Qarshi,Qashqadaryo,1746,19.3,164081,0,0
+M00241,Baxt Service,ATM,Qarshi,Qashqadaryo,8382,36.0,358129,0,4
+M00242,Baraka Plus,Restaurant,Guliston,Sirdaryo,9338,8.4,160906,0,0
+M00243,Mehr Plus,Electronics,Jizzakh,Jizzakh,3517,8.3,167851,0,7
+M00244,Baxt Express,Utilities,Samarkand,Samarkand,5207,27.5,58856,0,2
+M00245,Oltin Plus,Fuel,Urgench,Xorazm,1589,14.1,157674,0,5
+M00246,Fayz Plus,Cash,Urgench,Xorazm,2519,49.8,23193,0,0
+M00247,Mehr Shop,Telecom,Guliston,Sirdaryo,3881,40.0,202474,1,3
+M00248,Oltin Store,Clothing,Termez,Surxondaryo,6027,15.1,379263,0,6
+M00249,Oltin Service,Clothing,Qarshi,Qashqadaryo,2377,28.8,78491,0,9
+M00250,Baxt Plus,Pharmacy,Bukhara,Bukhara,8151,12.8,99154,0,6
+M00251,Yulduz Plus,Fuel,Andijan,Andijan,3525,25.7,257790,0,3
+M00252,Mehr Express,Clothing,Bukhara,Bukhara,8615,26.9,62149,0,5
+M00253,Zafar Plus,Utilities,Andijan,Andijan,3846,12.0,174520,1,1
+M00254,Kumush Store,Grocery,Qarshi,Qashqadaryo,5780,24.3,65823,1,4
+M00255,Shams Bozor,Restaurant,Andijan,Andijan,2792,37.7,189804,0,5
+M00256,Mehr Shop,Clothing,Samarkand,Samarkand,9834,27.0,98815,1,1
+M00257,Mehr Trade,Grocery,Termez,Surxondaryo,3663,11.0,13254,0,4
+M00258,Fayz Bozor,Pharmacy,Andijan,Andijan,1493,28.2,51785,1,7
+M00259,Oltin Express,Utilities,Andijan,Andijan,6670,2.3,111355,0,3
+M00260,Oltin Shop,Telecom,Nukus,Karakalpakstan,4430,44.5,534371,0,0
+M00261,Yulduz Store,Fuel,Tashkent,Tashkent City,6118,33.6,98719,1,2
+M00262,Oltin Trade,Grocery,Termez,Surxondaryo,8364,23.0,67651,0,7
+M00263,Mehr Service,ATM,Samarkand,Samarkand,1571,39.3,153917,0,9
+M00264,Yulduz Shop,Utilities,Urgench,Xorazm,8501,5.0,10188,1,8
+M00265,Mehr Trade,Telecom,Urgench,Xorazm,3634,24.5,332760,1,3
+M00266,Mehr Shop,Electronics,Bukhara,Bukhara,3259,46.8,196496,0,5
+M00267,Yulduz Bozor,Transport,Guliston,Sirdaryo,5075,22.5,80107,0,5
+M00268,Zafar Shop,Utilities,Fergana,Fergana,5000,6.9,213954,1,6
+M00269,Mehr Service,Grocery,Tashkent,Tashkent City,1244,58.1,152720,0,0
+M00270,Fayz Express,Online Shopping,Bukhara,Bukhara,8508,18.9,107886,0,4
+M00271,Fayz Bozor,Pharmacy,Namangan,Namangan,9677,39.5,185812,0,4
+M00272,Zafar Express,Clothing,Tashkent,Tashkent City,4608,19.5,111877,0,2
+M00273,Yulduz Store,ATM,Fergana,Fergana,3123,24.0,137395,0,5
+M00274,Baxt Center,Utilities,Bukhara,Bukhara,2807,32.4,187155,0,0
+M00275,Baraka Market,Online Shopping,Urgench,Xorazm,6783,34.1,88764,0,3
+M00276,Zafar Express,Online Shopping,Fergana,Fergana,4478,14.4,108474,0,6
+M00277,Oltin Plus,Electronics,Termez,Surxondaryo,2027,6.8,47102,0,0
+M00278,Baxt Store,Cash,Bukhara,Bukhara,9520,13.8,42915,0,1
+M00279,Shams Center,Grocery,Guliston,Sirdaryo,4429,14.5,30805,0,5
+M00280,Mehr Service,Clothing,Termez,Surxondaryo,9272,25.0,160626,0,5
+M00281,Yulduz Shop,Restaurant,Qarshi,Qashqadaryo,1190,1.1,93327,0,0
+M00282,Fayz Market,Fuel,Guliston,Sirdaryo,6589,25.1,46800,0,2
+M00283,Baxt Service,Utilities,Nukus,Karakalpakstan,2213,18.1,88216,1,2
+M00284,Shams Shop,Fuel,Nukus,Karakalpakstan,2012,29.3,51372,0,0
+M00285,Mehr Express,Pharmacy,Jizzakh,Jizzakh,2134,2.7,138959,0,9
+M00286,Fayz Store,Online Shopping,Jizzakh,Jizzakh,4579,29.3,264185,0,8
+M00287,Baraka Bozor,Pharmacy,Namangan,Namangan,6645,16.4,347023,0,3
+M00288,Oltin Shop,Electronics,Termez,Surxondaryo,8054,10.1,106040,1,4
+M00289,Mehr Trade,ATM,Bukhara,Bukhara,1206,24.5,104170,1,4
+M00290,Mehr Center,Electronics,Tashkent,Tashkent City,6518,6.4,28320,0,0
+M00291,Zafar Bozor,Pharmacy,Namangan,Namangan,3950,49.1,37275,1,5
+M00292,Nur Shop,Fuel,Samarkand,Samarkand,1139,14.2,349278,0,2
+M00293,Mehr Center,Pharmacy,Namangan,Namangan,2671,13.4,137899,1,8
+M00294,Baraka Store,Grocery,Namangan,Namangan,9506,10.4,294836,0,5
+M00295,Mehr Trade,Grocery,Nukus,Karakalpakstan,7034,20.0,26566,0,2
+M00296,Baraka Trade,Grocery,Guliston,Sirdaryo,7681,11.1,112925,1,6
+M00297,Nur Trade,Utilities,Namangan,Namangan,1358,11.3,29955,1,9
+M00298,Oltin Market,Electronics,Andijan,Andijan,9970,20.2,21158,0,8
+M00299,Nur Trade,Pharmacy,Jizzakh,Jizzakh,6608,8.3,58636,0,7
+M00300,Fayz Service,Clothing,Andijan,Andijan,6600,8.7,515808,0,5
+M00301,Mehr Store,Cash,Guliston,Sirdaryo,6299,15.7,62972,0,1
+M00302,Kumush Store,Utilities,Termez,Surxondaryo,6510,21.6,326527,0,3
+M00303,Shams Service,Fuel,Guliston,Sirdaryo,2009,5.5,97631,1,7
+M00304,Yulduz Market,Grocery,Urgench,Xorazm,8850,6.7,321183,1,2
+M00305,Nur Express,Fuel,Termez,Surxondaryo,7279,13.3,206976,0,7
+M00306,Baraka Trade,Fuel,Termez,Surxondaryo,2393,12.1,344476,0,7
+M00307,Oltin Plus,Grocery,Termez,Surxondaryo,2906,25.7,81981,1,6
+M00308,Zafar Store,Online Shopping,Jizzakh,Jizzakh,6404,22.8,148536,1,3
+M00309,Baxt Market,Online Shopping,Tashkent,Tashkent City,1838,41.9,132071,0,3
+M00310,Oltin Store,Telecom,Samarkand,Samarkand,8739,45.8,915322,0,7
+M00311,Kumush Express,Telecom,Nukus,Karakalpakstan,1603,4.2,246270,1,7
+M00312,Baraka Shop,Electronics,Andijan,Andijan,8023,11.0,106951,0,0
+M00313,Fayz Store,Electronics,Qarshi,Qashqadaryo,9734,24.7,610401,0,8
+M00314,Nur Market,Restaurant,Namangan,Namangan,4335,18.1,652272,0,6
+M00315,Baraka Plus,Electronics,Jizzakh,Jizzakh,3527,9.5,71745,0,0
+M00316,Baraka Shop,Clothing,Bukhara,Bukhara,9659,34.7,150061,0,1
+M00317,Zafar Shop,Electronics,Samarkand,Samarkand,8670,29.1,88454,1,3
+M00318,Shams Bozor,ATM,Urgench,Xorazm,2403,3.9,34077,0,8
+M00319,Nur Bozor,Clothing,Fergana,Fergana,5728,15.7,138953,1,5
+M00320,Fayz Shop,Utilities,Jizzakh,Jizzakh,4665,14.7,10428,1,5
+M00321,Oltin Shop,Electronics,Nukus,Karakalpakstan,8701,9.3,127995,0,9
+M00322,Baraka Bozor,ATM,Guliston,Sirdaryo,7757,16.4,115117,0,0
+M00323,Nur Store,Pharmacy,Samarkand,Samarkand,8203,19.9,114062,1,4
+M00324,Mehr Bozor,Utilities,Nukus,Karakalpakstan,4786,17.7,101199,0,1
+M00325,Mehr Shop,ATM,Guliston,Sirdaryo,3350,44.3,84968,0,3
+M00326,Baxt Market,ATM,Samarkand,Samarkand,5150,33.1,30583,1,0
+M00327,Zafar Trade,Telecom,Guliston,Sirdaryo,5371,16.8,39128,0,0
+M00328,Nur Service,Utilities,Jizzakh,Jizzakh,8620,48.2,114636,1,9
+M00329,Shams Plus,Utilities,Samarkand,Samarkand,3017,11.8,115304,1,6
+M00330,Kumush Market,Fuel,Fergana,Fergana,7212,37.6,238779,0,9
+M00331,Baraka Store,Telecom,Bukhara,Bukhara,4248,20.5,82060,0,8
+M00332,Mehr Store,Telecom,Bukhara,Bukhara,9441,6.2,50812,0,3
+M00333,Mehr Plus,Electronics,Fergana,Fergana,9729,38.6,93553,0,9
+M00334,Kumush Plus,Online Shopping,Andijan,Andijan,1695,19.9,20641,0,0
+M00335,Nur Market,Cash,Namangan,Namangan,4534,38.0,138215,0,6
+M00336,Zafar Center,Pharmacy,Jizzakh,Jizzakh,7978,19.2,189697,1,0
+M00337,Zafar Shop,Fuel,Termez,Surxondaryo,2102,36.8,345134,1,6
+M00338,Fayz Bozor,Online Shopping,Namangan,Namangan,3171,29.1,149648,0,6
+M00339,Nur Store,Cash,Urgench,Xorazm,5761,14.1,48648,0,5
+M00340,Baxt Express,Grocery,Jizzakh,Jizzakh,5645,6.8,68963,1,3
+M00341,Kumush Bozor,Cash,Nukus,Karakalpakstan,7425,8.0,103529,0,7
+M00342,Baxt Plus,Online Shopping,Qarshi,Qashqadaryo,9213,30.3,68317,1,6
+M00343,Zafar Express,Fuel,Guliston,Sirdaryo,3979,50.7,46899,0,5
+M00344,Zafar Trade,Clothing,Andijan,Andijan,4301,14.6,73776,0,4
+M00345,Fayz Service,Restaurant,Samarkand,Samarkand,5157,6.7,260185,0,2
+M00346,Yulduz Bozor,Telecom,Tashkent,Tashkent City,8802,26.2,161574,1,4
+M00347,Kumush Center,Electronics,Bukhara,Bukhara,8336,15.5,237224,0,3
+M00348,Baraka Express,Transport,Tashkent,Tashkent City,1972,35.4,63810,1,6
+M00349,Baxt Service,Transport,Termez,Surxondaryo,3781,45.7,359239,0,7
+M00350,Zafar Service,Utilities,Guliston,Sirdaryo,9053,38.4,158204,0,8
+M00351,Yulduz Bozor,Pharmacy,Fergana,Fergana,8815,20.5,165525,0,8
+M00352,Fayz Trade,Transport,Guliston,Sirdaryo,7449,5.5,114598,0,4
+M00353,Zafar Trade,ATM,Qarshi,Qashqadaryo,7930,10.5,16549,0,6
+M00354,Baraka Service,Pharmacy,Guliston,Sirdaryo,3519,19.8,361097,1,9
+M00355,Mehr Store,Cash,Fergana,Fergana,7827,13.5,152977,0,7
+M00356,Baraka Express,Pharmacy,Andijan,Andijan,6489,18.2,53036,0,1
+M00357,Yulduz Center,Pharmacy,Jizzakh,Jizzakh,8895,33.3,628382,0,0
+M00358,Yulduz Plus,Transport,Urgench,Xorazm,1968,27.3,121632,0,6
+M00359,Shams Store,Grocery,Andijan,Andijan,6532,6.6,88970,0,9
+M00360,Baxt Market,Telecom,Nukus,Karakalpakstan,6584,20.4,54877,1,7
+M00361,Mehr Center,Cash,Tashkent,Tashkent City,4961,40.5,72376,0,1
+M00362,Yulduz Market,Transport,Andijan,Andijan,3989,14.1,33102,0,0
+M00363,Fayz Express,Pharmacy,Termez,Surxondaryo,8773,4.0,83835,0,2
+M00364,Nur Market,Pharmacy,Namangan,Namangan,9819,3.3,108250,0,7
+M00365,Kumush Bozor,Telecom,Fergana,Fergana,6342,12.4,186692,1,2
+M00366,Baxt Bozor,Restaurant,Urgench,Xorazm,7612,32.4,27946,1,3
+M00367,Nur Trade,Transport,Qarshi,Qashqadaryo,3772,6.4,62953,0,2
+M00368,Nur Market,Restaurant,Namangan,Namangan,2354,9.3,44620,0,7
+M00369,Yulduz Trade,Utilities,Bukhara,Bukhara,3014,9.8,247130,0,1
+M00370,Fayz Express,Restaurant,Qarshi,Qashqadaryo,2769,5.9,205490,0,3
+M00371,Mehr Service,Pharmacy,Urgench,Xorazm,4242,30.2,26002,0,0
+M00372,Nur Market,Cash,Jizzakh,Jizzakh,8997,18.3,96108,0,2
+M00373,Zafar Express,Grocery,Tashkent,Tashkent City,7784,20.8,367291,0,9
+M00374,Oltin Shop,Grocery,Namangan,Namangan,5121,13.1,216218,0,1
+M00375,Oltin Market,Transport,Bukhara,Bukhara,2922,29.8,90826,1,4
+M00376,Oltin Bozor,Online Shopping,Qarshi,Qashqadaryo,9638,5.4,168778,0,2
+M00377,Mehr Shop,Pharmacy,Tashkent,Tashkent City,7026,32.4,226877,0,1
+M00378,Nur Shop,Fuel,Bukhara,Bukhara,9513,18.7,491503,0,2
+M00379,Kumush Trade,Telecom,Termez,Surxondaryo,4827,21.8,84745,0,4
+M00380,Mehr Plus,Online Shopping,Termez,Surxondaryo,6101,27.2,356418,0,0
+M00381,Oltin Bozor,Electronics,Urgench,Xorazm,2450,10.7,77258,0,5
+M00382,Baraka Shop,Restaurant,Tashkent,Tashkent City,2847,37.1,74297,1,4
+M00383,Mehr Express,Grocery,Fergana,Fergana,6786,22.1,103593,1,7
+M00384,Yulduz Plus,Cash,Termez,Surxondaryo,6539,26.9,136338,1,6
+M00385,Baraka Bozor,Restaurant,Bukhara,Bukhara,9792,17.1,219391,1,5
+M00386,Baxt Center,Transport,Termez,Surxondaryo,9882,44.8,111088,0,4
+M00387,Baxt Trade,Telecom,Tashkent,Tashkent City,1284,37.6,79842,0,6
+M00388,Baxt Center,Telecom,Jizzakh,Jizzakh,8867,43.6,60433,1,6
+M00389,Baxt Shop,Transport,Namangan,Namangan,6722,23.0,192849,1,1
+M00390,Mehr Center,Fuel,Jizzakh,Jizzakh,3127,23.0,123791,0,3
+M00391,Zafar Service,Restaurant,Andijan,Andijan,2381,26.2,151975,1,8
+M00392,Yulduz Express,Telecom,Urgench,Xorazm,9087,14.5,164556,0,6
+M00393,Baraka Service,Pharmacy,Nukus,Karakalpakstan,1270,13.4,366186,1,8
+M00394,Nur Express,Telecom,Bukhara,Bukhara,5748,17.3,293779,0,1
+M00395,Baxt Service,Transport,Urgench,Xorazm,2757,22.3,218367,0,0
+M00396,Fayz Service,Cash,Termez,Surxondaryo,9700,12.6,106282,1,7
+M00397,Mehr Bozor,Pharmacy,Guliston,Sirdaryo,2294,34.7,43120,0,3
+M00398,Baxt Shop,Online Shopping,Namangan,Namangan,7096,18.1,81705,1,4
+M00399,Baxt Store,Online Shopping,Urgench,Xorazm,3454,10.1,111536,0,8
+M00400,Kumush Shop,Electronics,Andijan,Andijan,3657,27.7,69457,0,1
+M00401,Baxt Bozor,Cash,Andijan,Andijan,6593,33.2,188551,0,2
+M00402,Mehr Trade,ATM,Bukhara,Bukhara,3557,4.9,126616,1,2
+M00403,Zafar Market,Electronics,Tashkent,Tashkent City,9010,24.6,58486,0,0
+M00404,Oltin Service,Clothing,Fergana,Fergana,5418,8.8,356178,0,9
+M00405,Baxt Shop,Utilities,Guliston,Sirdaryo,1679,18.6,170857,0,0
+M00406,Kumush Service,Online Shopping,Qarshi,Qashqadaryo,5593,7.1,130097,0,7
+M00407,Yulduz Shop,Fuel,Termez,Surxondaryo,3155,36.6,286558,1,1
+M00408,Yulduz Plus,Fuel,Termez,Surxondaryo,9229,10.5,63924,0,3
+M00409,Yulduz Trade,Telecom,Namangan,Namangan,1194,37.1,72925,0,2
+M00410,Baxt Shop,Online Shopping,Guliston,Sirdaryo,2098,27.8,90047,1,0
+M00411,Fayz Trade,ATM,Guliston,Sirdaryo,5469,6.5,182538,0,7
+M00412,Zafar Plus,Clothing,Urgench,Xorazm,3518,33.7,156264,1,1
+M00413,Yulduz Market,ATM,Samarkand,Samarkand,4259,5.4,1465436,0,0
+M00414,Kumush Market,Utilities,Tashkent,Tashkent City,2976,28.0,55258,1,3
+M00415,Fayz Bozor,Pharmacy,Andijan,Andijan,9199,22.5,128637,1,5
+M00416,Baxt Plus,Utilities,Guliston,Sirdaryo,1006,6.3,97029,1,1
+M00417,Baraka Service,Utilities,Nukus,Karakalpakstan,2135,7.1,170974,0,9
+M00418,Baraka Market,ATM,Jizzakh,Jizzakh,9578,28.7,240238,0,2
+M00419,Shams Plus,Pharmacy,Namangan,Namangan,5434,6.2,144594,0,9
+M00420,Oltin Express,Telecom,Termez,Surxondaryo,9439,19.7,161170,0,2
+M00421,Yulduz Store,Transport,Samarkand,Samarkand,8506,10.9,90019,0,6
+M00422,Kumush Plus,Electronics,Nukus,Karakalpakstan,3734,23.9,443578,0,1
+M00423,Kumush Trade,Telecom,Samarkand,Samarkand,7514,3.5,82291,0,3
+M00424,Yulduz Express,Telecom,Tashkent,Tashkent City,2322,6.8,9795,0,8
+M00425,Zafar Express,Telecom,Qarshi,Qashqadaryo,6514,10.7,74362,1,3
+M00426,Fayz Bozor,Clothing,Bukhara,Bukhara,4113,29.6,807272,1,2
+M00427,Baxt Store,Grocery,Guliston,Sirdaryo,7161,18.1,46584,0,5
+M00428,Fayz Service,Telecom,Guliston,Sirdaryo,2305,29.2,176396,0,3
+M00429,Nur Center,ATM,Guliston,Sirdaryo,8532,56.9,63360,1,8
+M00430,Baxt Shop,Online Shopping,Termez,Surxondaryo,3421,14.6,174152,0,2
+M00431,Yulduz Plus,Electronics,Nukus,Karakalpakstan,5179,14.9,290727,0,2
+M00432,Nur Store,Transport,Bukhara,Bukhara,8561,50.9,83186,0,3
+M00433,Mehr Shop,Restaurant,Urgench,Xorazm,5316,34.5,334068,0,1
+M00434,Nur Shop,Transport,Termez,Surxondaryo,5775,5.3,285420,0,5
+M00435,Baraka Plus,Clothing,Bukhara,Bukhara,2063,26.7,154876,0,1
+M00436,Baraka Bozor,Telecom,Bukhara,Bukhara,7406,23.9,113261,1,2
+M00437,Baxt Shop,Grocery,Termez,Surxondaryo,9723,29.3,100408,0,4
+M00438,Baraka Trade,Pharmacy,Termez,Surxondaryo,7619,2.6,62576,0,2
+M00439,Fayz Center,Grocery,Nukus,Karakalpakstan,9238,29.5,48841,1,3
+M00440,Mehr Trade,Utilities,Samarkand,Samarkand,9877,19.8,191522,1,2
+M00441,Oltin Store,Clothing,Qarshi,Qashqadaryo,7022,18.3,158062,0,9
+M00442,Shams Service,Cash,Samarkand,Samarkand,8773,6.0,167334,1,5
+M00443,Shams Service,Pharmacy,Tashkent,Tashkent City,5670,8.8,269075,0,4
+M00444,Fayz Service,Restaurant,Guliston,Sirdaryo,4173,5.7,117782,0,2
+M00445,Kumush Bozor,ATM,Urgench,Xorazm,6177,28.1,349627,0,6
+M00446,Kumush Trade,Pharmacy,Termez,Surxondaryo,8687,6.7,32572,0,5
+M00447,Baxt Center,Clothing,Fergana,Fergana,2571,22.3,505174,1,8
+M00448,Fayz Bozor,Online Shopping,Termez,Surxondaryo,6622,19.9,117038,1,0
+M00449,Baraka Plus,Utilities,Fergana,Fergana,7223,14.4,68293,1,8
+M00450,Oltin Store,Online Shopping,Guliston,Sirdaryo,7399,17.0,109686,1,7
+M00451,Zafar Store,Transport,Bukhara,Bukhara,7559,5.1,425356,0,1
+M00452,Nur Market,Cash,Nukus,Karakalpakstan,6879,3.2,70724,0,5
+M00453,Fayz Center,Pharmacy,Andijan,Andijan,6522,13.4,129865,0,7
+M00454,Fayz Market,Pharmacy,Andijan,Andijan,9357,20.3,52435,0,6
+M00455,Shams Express,Grocery,Tashkent,Tashkent City,1061,27.8,165491,0,6
+M00456,Mehr Plus,Telecom,Jizzakh,Jizzakh,5070,14.8,326902,1,1
+M00457,Oltin Bozor,ATM,Andijan,Andijan,1678,16.5,150986,0,4
+M00458,Mehr Center,Electronics,Fergana,Fergana,8933,3.1,89831,0,8
+M00459,Nur Trade,Transport,Namangan,Namangan,2301,21.1,86505,1,8
+M00460,Baraka Shop,Utilities,Samarkand,Samarkand,7934,12.4,131297,1,1
+M00461,Baraka Center,Fuel,Urgench,Xorazm,7412,46.9,185991,1,3
+M00462,Oltin Center,Grocery,Nukus,Karakalpakstan,3909,16.5,240581,0,8
+M00463,Zafar Bozor,Electronics,Samarkand,Samarkand,4838,46.8,52194,1,0
+M00464,Shams Market,Grocery,Qarshi,Qashqadaryo,2839,12.6,81434,0,5
+M00465,Kumush Store,Online Shopping,Samarkand,Samarkand,8301,22.0,382227,1,0
+M00466,Baraka Center,Electronics,Jizzakh,Jizzakh,7357,5.9,178728,0,9
+M00467,Nur Service,Utilities,Urgench,Xorazm,9674,9.9,135035,0,6
+M00468,Nur Service,Utilities,Termez,Surxondaryo,6401,17.6,224587,0,8
+M00469,Zafar Service,Online Shopping,Qarshi,Qashqadaryo,5649,35.5,18471,0,4
+M00470,Zafar Center,Electronics,Guliston,Sirdaryo,9347,10.9,205624,0,0
+M00471,Nur Express,Fuel,Qarshi,Qashqadaryo,3837,16.5,904625,0,7
+M00472,Zafar Trade,Electronics,Tashkent,Tashkent City,8919,20.0,127463,0,9
+M00473,Mehr Express,Grocery,Samarkand,Samarkand,6210,24.0,150074,0,8
+M00474,Baxt Plus,Clothing,Termez,Surxondaryo,8071,19.3,92447,0,1
+M00475,Baxt Market,Pharmacy,Qarshi,Qashqadaryo,3929,9.7,55889,1,6
+M00476,Fayz Plus,Telecom,Andijan,Andijan,5400,34.3,80643,1,1
+M00477,Shams Store,Telecom,Qarshi,Qashqadaryo,4537,1.0,245895,1,5
+M00478,Yulduz Express,Utilities,Andijan,Andijan,7926,60.1,188783,1,3
+M00479,Mehr Center,Telecom,Nukus,Karakalpakstan,1619,16.6,59769,0,1
+M00480,Baxt Store,Utilities,Bukhara,Bukhara,9538,44.6,72365,1,5
+M00481,Oltin Market,Telecom,Guliston,Sirdaryo,4008,19.3,73511,1,5
+M00482,Kumush Trade,Fuel,Qarshi,Qashqadaryo,4604,38.1,137050,1,5
+M00483,Yulduz Center,Online Shopping,Namangan,Namangan,9762,49.4,102391,0,5
+M00484,Yulduz Express,Cash,Termez,Surxondaryo,1907,14.2,113516,0,3
+M00485,Baxt Center,Telecom,Fergana,Fergana,7726,28.3,50813,0,6
+M00486,Fayz Market,Transport,Namangan,Namangan,1879,30.0,439783,0,0
+M00487,Shams Shop,Fuel,Samarkand,Samarkand,9419,12.0,152504,0,4
+M00488,Fayz Center,Utilities,Termez,Surxondaryo,3536,30.7,78994,1,5
+M00489,Fayz Store,Grocery,Andijan,Andijan,3825,23.1,63496,1,5
+M00490,Fayz Express,Online Shopping,Namangan,Namangan,7846,51.0,88216,0,9
+M00491,Oltin Plus,Pharmacy,Namangan,Namangan,2992,27.1,306220,0,7
+M00492,Shams Express,Cash,Samarkand,Samarkand,1834,12.1,401261,0,7
+M00493,Baxt Market,Fuel,Termez,Surxondaryo,1641,16.7,72268,1,8
+M00494,Zafar Market,Pharmacy,Guliston,Sirdaryo,9225,48.3,84539,0,9
+M00495,Kumush Trade,Clothing,Urgench,Xorazm,6024,7.8,31500,1,5
+M00496,Mehr Market,Utilities,Bukhara,Bukhara,9595,19.2,33076,0,4
+M00497,Nur Shop,Fuel,Jizzakh,Jizzakh,8296,2.0,133545,1,8
+M00498,Nur Market,Clothing,Nukus,Karakalpakstan,4300,13.2,93314,0,8
+M00499,Nur Service,Pharmacy,Bukhara,Bukhara,9786,2.2,90014,0,5
+M00500,Mehr Store,Telecom,Nukus,Karakalpakstan,8206,7.1,80728,1,7
+M00501,Baxt Store,Fuel,Qarshi,Qashqadaryo,2866,32.4,155129,0,3
+M00502,Mehr Plus,Clothing,Qarshi,Qashqadaryo,2433,18.3,133133,0,2
+M00503,Shams Service,Electronics,Fergana,Fergana,1635,11.4,275971,0,3
+M00504,Nur Shop,Restaurant,Nukus,Karakalpakstan,1534,9.2,961594,0,6
+M00505,Oltin Trade,Fuel,Fergana,Fergana,5005,16.1,50965,1,7
+M00506,Mehr Bozor,Fuel,Termez,Surxondaryo,4805,18.7,44662,0,4
+M00507,Fayz Plus,Transport,Bukhara,Bukhara,4569,32.2,437074,1,4
+M00508,Kumush Service,Online Shopping,Namangan,Namangan,1554,38.0,114603,1,8
+M00509,Yulduz Service,Online Shopping,Termez,Surxondaryo,6520,33.0,228897,0,7
+M00510,Fayz Market,Grocery,Termez,Surxondaryo,1470,14.9,48911,0,4
+M00511,Kumush Plus,Telecom,Qarshi,Qashqadaryo,6211,24.4,51402,1,5
+M00512,Baraka Trade,Fuel,Urgench,Xorazm,2057,15.5,240196,1,6
+M00513,Yulduz Express,Cash,Jizzakh,Jizzakh,6211,6.8,44121,1,0
+M00514,Zafar Shop,Restaurant,Andijan,Andijan,3671,19.5,378574,1,4
+M00515,Baxt Shop,Pharmacy,Qarshi,Qashqadaryo,9654,24.0,235778,0,4
+M00516,Baraka Shop,Telecom,Jizzakh,Jizzakh,2317,6.1,69303,1,9
+M00517,Fayz Express,Fuel,Termez,Surxondaryo,8282,36.0,417356,0,4
+M00518,Shams Center,Grocery,Bukhara,Bukhara,6242,21.5,185496,1,0
+M00519,Zafar Service,Utilities,Andijan,Andijan,5459,18.2,102262,0,7
+M00520,Oltin Shop,Electronics,Qarshi,Qashqadaryo,8497,32.1,129493,0,8
+M00521,Baxt Bozor,Pharmacy,Bukhara,Bukhara,2742,29.8,25576,0,7
+M00522,Kumush Bozor,Online Shopping,Urgench,Xorazm,8722,30.7,41282,1,7
+M00523,Mehr Bozor,Clothing,Guliston,Sirdaryo,8542,22.4,223182,1,1
+M00524,Shams Store,Pharmacy,Fergana,Fergana,8884,48.6,143240,0,5
+M00525,Yulduz Plus,Telecom,Qarshi,Qashqadaryo,1492,24.5,387619,1,6
+M00526,Yulduz Express,Utilities,Termez,Surxondaryo,5919,28.5,164996,0,8
+M00527,Oltin Trade,Restaurant,Nukus,Karakalpakstan,4301,26.5,46107,1,6
+M00528,Baxt Store,Cash,Termez,Surxondaryo,3249,34.7,52573,0,5
+M00529,Yulduz Plus,ATM,Guliston,Sirdaryo,3960,2.3,62433,0,8
+M00530,Baxt Trade,Transport,Namangan,Namangan,6095,14.3,75291,0,3
+M00531,Mehr Plus,Utilities,Namangan,Namangan,1311,1.3,135936,0,4
+M00532,Nur Plus,Online Shopping,Nukus,Karakalpakstan,6695,30.0,310823,1,8
+M00533,Baxt Shop,Cash,Termez,Surxondaryo,4094,19.3,198355,1,0
+M00534,Fayz Market,Grocery,Urgench,Xorazm,7501,1.6,329528,1,7
+M00535,Baraka Plus,Pharmacy,Bukhara,Bukhara,2858,29.6,165975,0,0
+M00536,Oltin Express,Cash,Guliston,Sirdaryo,7402,9.9,85802,0,2
+M00537,Kumush Plus,Electronics,Nukus,Karakalpakstan,6728,6.2,39589,0,4
+M00538,Kumush Bozor,ATM,Nukus,Karakalpakstan,2736,59.9,198834,1,2
+M00539,Nur Service,Restaurant,Andijan,Andijan,3628,3.8,111281,0,7
+M00540,Shams Express,Grocery,Tashkent,Tashkent City,3319,25.0,226261,0,4
+M00541,Baxt Plus,Transport,Urgench,Xorazm,9324,14.2,74026,0,9
+M00542,Zafar Market,Cash,Nukus,Karakalpakstan,6849,0.9,443439,0,6
+M00543,Oltin Bozor,Fuel,Nukus,Karakalpakstan,7596,12.5,445002,1,3
+M00544,Yulduz Service,Utilities,Fergana,Fergana,1801,35.1,59728,0,0
+M00545,Zafar Express,Electronics,Andijan,Andijan,2155,24.3,156140,1,6
+M00546,Baraka Store,Cash,Samarkand,Samarkand,9991,8.5,34175,0,0
+M00547,Mehr Trade,Grocery,Namangan,Namangan,8010,6.5,62258,0,7
+M00548,Zafar Market,Online Shopping,Fergana,Fergana,8159,9.4,59658,1,0
+M00549,Yulduz Center,Cash,Jizzakh,Jizzakh,9364,1.1,74036,1,0
+M00550,Nur Service,Telecom,Nukus,Karakalpakstan,8590,27.1,96506,0,6
+M00551,Kumush Express,ATM,Bukhara,Bukhara,1432,16.7,64423,0,5
+M00552,Baraka Shop,Grocery,Namangan,Namangan,3754,12.7,135676,0,9
+M00553,Shams Market,Online Shopping,Nukus,Karakalpakstan,4649,49.3,35274,0,0
+M00554,Baraka Plus,Grocery,Jizzakh,Jizzakh,2353,20.6,265540,0,3
+M00555,Oltin Service,Utilities,Nukus,Karakalpakstan,9044,39.8,51275,1,4
+M00556,Zafar Market,Fuel,Namangan,Namangan,9398,31.6,105852,1,9
+M00557,Zafar Center,Utilities,Nukus,Karakalpakstan,2434,42.1,85424,1,8
+M00558,Mehr Trade,Telecom,Jizzakh,Jizzakh,7866,21.3,273293,1,9
+M00559,Baraka Center,Fuel,Termez,Surxondaryo,8322,16.1,92284,0,7
+M00560,Oltin Trade,Utilities,Termez,Surxondaryo,1259,2.3,385350,0,4
+M00561,Oltin Center,Pharmacy,Jizzakh,Jizzakh,2125,12.3,159798,0,6
+M00562,Mehr Market,Cash,Tashkent,Tashkent City,9524,2.0,56784,1,6
+M00563,Zafar Shop,Pharmacy,Samarkand,Samarkand,3253,7.3,101189,1,9
+M00564,Oltin Trade,Pharmacy,Bukhara,Bukhara,8212,15.0,115836,0,0
+M00565,Mehr Express,Grocery,Termez,Surxondaryo,6935,3.4,215946,0,3
+M00566,Zafar Express,Fuel,Bukhara,Bukhara,5854,17.4,137323,0,3
+M00567,Kumush Service,Transport,Samarkand,Samarkand,1239,10.5,100490,0,4
+M00568,Baxt Plus,Electronics,Nukus,Karakalpakstan,6155,29.2,65100,0,7
+M00569,Kumush Bozor,Restaurant,Tashkent,Tashkent City,8052,7.3,175840,0,2
+M00570,Fayz Shop,Fuel,Jizzakh,Jizzakh,3503,22.4,90463,0,3
+M00571,Shams Trade,Telecom,Tashkent,Tashkent City,7061,29.7,67387,0,3
+M00572,Zafar Bozor,Clothing,Samarkand,Samarkand,4628,21.4,52701,0,5
+M00573,Baxt Store,Online Shopping,Jizzakh,Jizzakh,9528,37.1,272578,0,6
+M00574,Baxt Market,Cash,Guliston,Sirdaryo,5538,23.7,36561,0,3
+M00575,Nur Trade,Restaurant,Jizzakh,Jizzakh,1053,36.5,176207,0,6
+M00576,Shams Bozor,Grocery,Nukus,Karakalpakstan,2432,19.0,122052,0,6
+M00577,Oltin Express,Fuel,Namangan,Namangan,2750,10.3,77493,1,1
+M00578,Baxt Service,Grocery,Guliston,Sirdaryo,4183,21.3,67616,0,0
+M00579,Oltin Express,ATM,Qarshi,Qashqadaryo,4759,15.9,121766,0,8
+M00580,Baxt Trade,Online Shopping,Tashkent,Tashkent City,5547,6.6,78062,0,7
+M00581,Nur Store,Online Shopping,Samarkand,Samarkand,7449,42.6,75637,0,2
+M00582,Nur Trade,Cash,Jizzakh,Jizzakh,7570,18.5,265774,0,4
+M00583,Shams Plus,Utilities,Urgench,Xorazm,5392,9.7,106081,0,2
+M00584,Baraka Center,Utilities,Tashkent,Tashkent City,5929,32.6,120718,0,0
+M00585,Nur Center,Restaurant,Guliston,Sirdaryo,1985,32.7,63167,0,3
+M00586,Nur Plus,ATM,Fergana,Fergana,8190,28.8,265942,1,2
+M00587,Nur Market,Online Shopping,Guliston,Sirdaryo,1449,28.5,318845,0,3
+M00588,Baxt Express,Restaurant,Guliston,Sirdaryo,9739,17.5,142924,0,9
+M00589,Baxt Store,Restaurant,Qarshi,Qashqadaryo,4120,40.2,375902,0,6
+M00590,Nur Store,Online Shopping,Tashkent,Tashkent City,5065,21.3,77670,0,5
+M00591,Oltin Center,Pharmacy,Nukus,Karakalpakstan,2432,16.2,250366,0,6
+M00592,Fayz Express,Electronics,Jizzakh,Jizzakh,3855,20.2,88589,1,4
+M00593,Nur Center,Grocery,Andijan,Andijan,2588,7.6,81591,0,6
+M00594,Kumush Shop,Clothing,Namangan,Namangan,4033,7.2,367348,1,5
+M00595,Mehr Express,Electronics,Namangan,Namangan,3655,26.4,89772,0,5
+M00596,Oltin Bozor,Electronics,Termez,Surxondaryo,7526,23.6,55856,0,9
+M00597,Kumush Express,Cash,Samarkand,Samarkand,6242,13.1,28096,0,2
+M00598,Nur Trade,Fuel,Nukus,Karakalpakstan,7762,36.5,120790,1,7
+M00599,Oltin Shop,Online Shopping,Bukhara,Bukhara,8058,7.2,52801,1,2
+M00600,Oltin Shop,Transport,Jizzakh,Jizzakh,8803,13.6,582455,0,1
+M00601,Nur Service,Grocery,Fergana,Fergana,2874,12.9,482805,0,9
+M00602,Mehr Bozor,Grocery,Namangan,Namangan,4203,17.3,10892,1,7
+M00603,Nur Service,Utilities,Namangan,Namangan,4876,39.1,443923,0,1
+M00604,Shams Plus,Telecom,Termez,Surxondaryo,4870,21.0,64201,1,8
+M00605,Shams Service,Clothing,Termez,Surxondaryo,7509,29.2,326742,0,4
+M00606,Yulduz Bozor,Pharmacy,Jizzakh,Jizzakh,1350,35.3,280057,1,3
+M00607,Yulduz Trade,Electronics,Urgench,Xorazm,8736,64.3,350904,1,8
+M00608,Fayz Store,Cash,Samarkand,Samarkand,6094,5.8,506169,0,6
+M00609,Yulduz Trade,Fuel,Nukus,Karakalpakstan,2880,2.9,47525,0,5
+M00610,Fayz Market,Fuel,Tashkent,Tashkent City,4025,29.8,51972,0,4
+M00611,Baxt Shop,Pharmacy,Jizzakh,Jizzakh,8563,8.0,229327,1,9
+M00612,Zafar Market,Restaurant,Urgench,Xorazm,6326,21.9,131288,0,3
+M00613,Mehr Center,Electronics,Urgench,Xorazm,4914,17.4,206095,0,9
+M00614,Nur Shop,Transport,Termez,Surxondaryo,9093,14.7,90700,1,4
+M00615,Kumush Express,Cash,Tashkent,Tashkent City,6824,14.3,243610,0,8
+M00616,Yulduz Store,Grocery,Termez,Surxondaryo,2385,12.2,42562,0,0
+M00617,Nur Plus,Online Shopping,Urgench,Xorazm,5178,51.0,575890,0,4
+M00618,Kumush Center,Fuel,Qarshi,Qashqadaryo,9845,13.9,864944,1,4
+M00619,Baraka Store,ATM,Urgench,Xorazm,7705,5.5,28334,1,8
+M00620,Kumush Service,Online Shopping,Qarshi,Qashqadaryo,6849,25.7,419211,0,1
+M00621,Mehr Trade,Grocery,Andijan,Andijan,7487,2.8,29902,0,6
+M00622,Yulduz Market,Online Shopping,Andijan,Andijan,4986,23.8,191145,0,9
+M00623,Oltin Service,Grocery,Nukus,Karakalpakstan,5659,7.7,55923,0,8
+M00624,Nur Center,Clothing,Namangan,Namangan,1698,29.0,173335,1,4
+M00625,Oltin Store,Transport,Tashkent,Tashkent City,9582,17.5,44140,1,2
+M00626,Yulduz Bozor,ATM,Nukus,Karakalpakstan,2444,3.7,166203,0,8
+M00627,Nur Center,Transport,Namangan,Namangan,9131,26.3,103287,1,0
+M00628,Zafar Market,Utilities,Fergana,Fergana,9167,32.6,97001,0,8
+M00629,Shams Express,Online Shopping,Guliston,Sirdaryo,4041,20.2,159835,1,5
+M00630,Baxt Center,Restaurant,Termez,Surxondaryo,9768,28.7,30611,0,2
+M00631,Nur Market,Telecom,Guliston,Sirdaryo,2079,17.3,196954,0,4
+M00632,Nur Shop,Restaurant,Urgench,Xorazm,1878,47.7,93398,1,2
+M00633,Kumush Center,Grocery,Termez,Surxondaryo,2321,71.1,34747,1,5
+M00634,Baraka Trade,ATM,Samarkand,Samarkand,9017,28.8,206665,1,2
+M00635,Fayz Express,Online Shopping,Tashkent,Tashkent City,3330,21.7,72946,1,8
+M00636,Nur Service,Grocery,Samarkand,Samarkand,9939,5.0,114990,1,8
+M00637,Fayz Express,Utilities,Tashkent,Tashkent City,6885,0.4,155879,0,8
+M00638,Zafar Service,ATM,Nukus,Karakalpakstan,3502,2.7,113581,1,4
+M00639,Baxt Trade,Online Shopping,Qarshi,Qashqadaryo,2683,19.6,116906,0,0
+M00640,Yulduz Plus,Pharmacy,Fergana,Fergana,7707,31.3,192208,0,0
+M00641,Kumush Bozor,Utilities,Bukhara,Bukhara,6062,15.0,96261,1,1
+M00642,Mehr Store,Cash,Nukus,Karakalpakstan,2272,40.7,271992,0,2
+M00643,Baraka Plus,Pharmacy,Qarshi,Qashqadaryo,7744,6.6,300390,0,6
+M00644,Baraka Market,Electronics,Namangan,Namangan,8912,11.6,75136,0,1
+M00645,Fayz Shop,Restaurant,Samarkand,Samarkand,2864,23.6,76659,0,5
+M00646,Zafar Center,Electronics,Samarkand,Samarkand,5746,10.6,197945,0,8
+M00647,Baraka Center,ATM,Guliston,Sirdaryo,3767,26.8,458114,0,1
+M00648,Kumush Plus,Transport,Bukhara,Bukhara,3098,11.8,288671,0,3
+M00649,Shams Shop,Utilities,Samarkand,Samarkand,1406,14.5,58493,1,0
+M00650,Zafar Plus,Restaurant,Jizzakh,Jizzakh,9832,12.3,95037,1,8
+M00651,Nur Center,Telecom,Andijan,Andijan,2031,6.5,62405,0,2
+M00652,Baxt Shop,Electronics,Guliston,Sirdaryo,4179,12.7,388704,0,4
+M00653,Fayz Express,Restaurant,Samarkand,Samarkand,4368,20.5,168434,0,2
+M00654,Nur Store,Online Shopping,Tashkent,Tashkent City,8194,20.0,53843,0,8
+M00655,Oltin Bozor,Fuel,Andijan,Andijan,3472,11.4,84563,0,1
+M00656,Shams Shop,ATM,Jizzakh,Jizzakh,9234,20.7,56384,0,9
+M00657,Baraka Center,Fuel,Andijan,Andijan,2921,21.2,87152,0,9
+M00658,Shams Market,Transport,Termez,Surxondaryo,8112,24.6,188801,0,9
+M00659,Nur Express,Restaurant,Qarshi,Qashqadaryo,3940,18.1,73088,0,9
+M00660,Shams Trade,Electronics,Tashkent,Tashkent City,2229,26.0,129273,1,0
+M00661,Kumush Store,Utilities,Jizzakh,Jizzakh,1978,21.0,153761,1,1
+M00662,Shams Express,ATM,Samarkand,Samarkand,6675,12.5,26036,0,2
+M00663,Fayz Store,Pharmacy,Urgench,Xorazm,7547,33.9,30704,0,6
+M00664,Oltin Store,Fuel,Samarkand,Samarkand,6671,17.2,81788,0,5
+M00665,Kumush Bozor,Electronics,Termez,Surxondaryo,6342,16.6,58827,1,7
+M00666,Oltin Service,Telecom,Jizzakh,Jizzakh,5769,58.4,166816,1,6
+M00667,Zafar Market,Clothing,Guliston,Sirdaryo,3359,11.3,90909,1,5
+M00668,Fayz Trade,Utilities,Termez,Surxondaryo,7976,47.0,212949,1,8
+M00669,Nur Trade,Electronics,Tashkent,Tashkent City,2220,8.5,179078,1,5
+M00670,Nur Center,Clothing,Tashkent,Tashkent City,2415,13.7,238987,0,4
+M00671,Nur Plus,Telecom,Urgench,Xorazm,1375,15.3,78655,0,2
+M00672,Zafar Shop,Electronics,Nukus,Karakalpakstan,6779,9.9,100604,1,8
+M00673,Shams Store,Pharmacy,Samarkand,Samarkand,7116,21.0,598080,0,7
+M00674,Fayz Shop,Electronics,Namangan,Namangan,8517,10.9,51892,1,7
+M00675,Nur Express,ATM,Qarshi,Qashqadaryo,2920,14.9,204810,0,0
+M00676,Yulduz Bozor,Pharmacy,Samarkand,Samarkand,6115,23.8,269463,0,0
+M00677,Mehr Express,Fuel,Urgench,Xorazm,4879,55.4,175366,0,5
+M00678,Baraka Center,Fuel,Urgench,Xorazm,9790,4.3,245464,0,6
+M00679,Fayz Service,ATM,Qarshi,Qashqadaryo,6310,7.9,120020,1,4
+M00680,Yulduz Market,Pharmacy,Fergana,Fergana,6927,7.8,176600,0,7
+M00681,Kumush Plus,Electronics,Samarkand,Samarkand,4205,25.8,143378,1,8
+M00682,Baraka Center,Clothing,Andijan,Andijan,7576,15.5,38895,0,4
+M00683,Zafar Express,Cash,Bukhara,Bukhara,1332,26.1,100816,1,8
+M00684,Fayz Express,Clothing,Fergana,Fergana,8851,6.3,35586,1,2
+M00685,Fayz Store,Online Shopping,Jizzakh,Jizzakh,5716,20.5,199030,1,5
+M00686,Fayz Shop,Electronics,Jizzakh,Jizzakh,6237,31.1,143444,0,2
+M00687,Mehr Express,Cash,Jizzakh,Jizzakh,9449,8.1,257228,0,2
+M00688,Kumush Service,Online Shopping,Andijan,Andijan,2469,48.8,48292,0,6
+M00689,Baxt Trade,ATM,Termez,Surxondaryo,2154,5.9,129866,0,5
+M00690,Zafar Store,Electronics,Nukus,Karakalpakstan,6735,30.9,133444,1,4
+M00691,Yulduz Express,Pharmacy,Namangan,Namangan,4384,15.8,599952,0,5
+M00692,Baraka Center,Electronics,Urgench,Xorazm,6199,28.6,102760,0,4
+M00693,Baraka Express,Pharmacy,Namangan,Namangan,3830,15.0,77226,1,5
+M00694,Nur Bozor,Electronics,Qarshi,Qashqadaryo,4669,14.4,123110,0,6
+M00695,Zafar Bozor,Fuel,Tashkent,Tashkent City,3168,24.7,449789,1,4
+M00696,Baraka Service,Clothing,Qarshi,Qashqadaryo,6736,14.9,238388,1,7
+M00697,Oltin Shop,Clothing,Nukus,Karakalpakstan,6680,5.6,202286,0,1
+M00698,Nur Express,Telecom,Tashkent,Tashkent City,7081,5.7,99581,0,5
+M00699,Kumush Plus,Electronics,Andijan,Andijan,4331,1.8,100609,0,5
+M00700,Yulduz Plus,Restaurant,Jizzakh,Jizzakh,4981,12.8,395807,0,1
+M00701,Shams Store,Clothing,Bukhara,Bukhara,3826,21.0,85824,0,3
+M00702,Shams Express,Online Shopping,Andijan,Andijan,6475,9.1,80579,1,9
+M00703,Kumush Bozor,Fuel,Qarshi,Qashqadaryo,2534,16.6,31320,0,4
+M00704,Fayz Bozor,Clothing,Samarkand,Samarkand,1652,39.2,34521,0,7
+M00705,Shams Shop,Fuel,Bukhara,Bukhara,4270,3.4,298033,0,7
+M00706,Baraka Store,Transport,Namangan,Namangan,6863,25.8,23731,0,2
+M00707,Baxt Store,Utilities,Samarkand,Samarkand,9924,11.4,435203,0,6
+M00708,Mehr Service,ATM,Nukus,Karakalpakstan,3037,7.6,97791,1,3
+M00709,Zafar Service,Utilities,Nukus,Karakalpakstan,8808,18.2,161149,1,8
+M00710,Nur Plus,Grocery,Bukhara,Bukhara,3015,32.5,280634,1,9
+M00711,Yulduz Store,ATM,Termez,Surxondaryo,1863,22.8,74103,1,3
+M00712,Fayz Trade,ATM,Fergana,Fergana,2544,5.5,193761,1,3
+M00713,Oltin Trade,Fuel,Bukhara,Bukhara,6689,17.3,52912,0,3
+M00714,Baxt Service,Pharmacy,Namangan,Namangan,4426,17.5,71864,0,7
+M00715,Nur Express,Cash,Qarshi,Qashqadaryo,5342,28.4,170307,0,3
+M00716,Kumush Bozor,Transport,Namangan,Namangan,3494,31.9,167459,0,4
+M00717,Kumush Shop,Electronics,Samarkand,Samarkand,7108,9.1,160197,0,1
+M00718,Nur Store,Telecom,Urgench,Xorazm,5883,19.6,391268,0,4
+M00719,Yulduz Express,Fuel,Namangan,Namangan,9462,16.1,112817,0,1
+M00720,Mehr Market,Pharmacy,Qarshi,Qashqadaryo,5460,16.9,434400,0,6
+M00721,Kumush Plus,Restaurant,Jizzakh,Jizzakh,1815,9.8,125932,0,8
+M00722,Shams Plus,Utilities,Tashkent,Tashkent City,8246,24.7,194423,1,1
+M00723,Yulduz Plus,Restaurant,Samarkand,Samarkand,5985,7.3,215687,0,9
+M00724,Fayz Plus,Grocery,Namangan,Namangan,3311,10.5,80114,1,9
+M00725,Baxt Service,Electronics,Qarshi,Qashqadaryo,1622,32.0,141980,0,1
+M00726,Zafar Trade,Clothing,Tashkent,Tashkent City,3680,27.8,37544,1,4
+M00727,Nur Store,Cash,Tashkent,Tashkent City,4347,23.3,130857,1,0
+M00728,Fayz Bozor,Transport,Urgench,Xorazm,2578,22.7,126924,0,2
+M00729,Shams Trade,Online Shopping,Fergana,Fergana,5055,33.8,184508,0,2
+M00730,Baxt Express,Online Shopping,Samarkand,Samarkand,6276,20.1,108684,1,0
+M00731,Baraka Market,Telecom,Bukhara,Bukhara,1763,10.6,500453,0,8
+M00732,Yulduz Store,Grocery,Fergana,Fergana,1032,19.0,30837,0,8
+M00733,Baxt Express,Clothing,Bukhara,Bukhara,3189,21.9,46873,0,7
+M00734,Nur Service,Online Shopping,Samarkand,Samarkand,8771,19.2,55808,0,7
+M00735,Shams Center,Transport,Fergana,Fergana,6150,8.2,116207,1,9
+M00736,Kumush Center,Clothing,Tashkent,Tashkent City,5378,24.9,64327,0,0
+M00737,Yulduz Express,Pharmacy,Guliston,Sirdaryo,3029,35.8,47002,0,9
+M00738,Yulduz Center,Grocery,Termez,Surxondaryo,6276,16.9,80150,0,2
+M00739,Nur Market,ATM,Bukhara,Bukhara,7477,56.0,36937,1,3
+M00740,Oltin Plus,Electronics,Guliston,Sirdaryo,3250,6.6,160483,0,4
+M00741,Oltin Shop,Electronics,Fergana,Fergana,6998,21.4,153365,0,2
+M00742,Zafar Market,Electronics,Namangan,Namangan,2128,14.3,43480,1,9
+M00743,Nur Trade,Fuel,Andijan,Andijan,5476,25.2,240870,1,1
+M00744,Oltin Bozor,Pharmacy,Urgench,Xorazm,7268,10.0,41269,0,5
+M00745,Baxt Center,Electronics,Termez,Surxondaryo,6031,24.5,77934,1,5
+M00746,Nur Market,Telecom,Andijan,Andijan,9753,39.0,143753,0,0
+M00747,Shams Service,Online Shopping,Guliston,Sirdaryo,3908,13.5,126446,1,8
+M00748,Shams Market,Restaurant,Tashkent,Tashkent City,1433,33.0,34368,0,5
+M00749,Zafar Shop,Telecom,Nukus,Karakalpakstan,5944,5.0,171360,0,7
+M00750,Baraka Shop,Restaurant,Namangan,Namangan,9740,18.0,115521,0,8
+M00751,Baraka Center,Online Shopping,Jizzakh,Jizzakh,3891,7.3,546246,0,2
+M00752,Fayz Bozor,Pharmacy,Bukhara,Bukhara,8241,17.5,193153,0,3
+M00753,Shams Store,Pharmacy,Guliston,Sirdaryo,9160,10.9,389162,0,4
+M00754,Oltin Shop,Electronics,Termez,Surxondaryo,2648,41.4,56457,0,3
+M00755,Baraka Trade,Clothing,Jizzakh,Jizzakh,1749,11.1,33964,0,7
+M00756,Nur Service,Clothing,Andijan,Andijan,3842,21.6,346520,0,2
+M00757,Nur Center,Electronics,Bukhara,Bukhara,2829,10.2,158540,0,3
+M00758,Zafar Shop,ATM,Bukhara,Bukhara,9889,30.4,518012,0,1
+M00759,Baraka Center,Utilities,Termez,Surxondaryo,3268,13.8,295052,0,3
+M00760,Zafar Center,Electronics,Samarkand,Samarkand,9082,25.9,282046,1,0
+M00761,Mehr Plus,Clothing,Andijan,Andijan,8089,3.1,172805,0,7
+M00762,Shams Center,Online Shopping,Nukus,Karakalpakstan,9301,6.0,60475,0,5
+M00763,Nur Express,Grocery,Bukhara,Bukhara,5069,36.5,53448,0,4
+M00764,Nur Service,Fuel,Nukus,Karakalpakstan,7008,10.3,23717,1,9
+M00765,Baraka Service,Electronics,Nukus,Karakalpakstan,5995,11.8,78934,0,0
+M00766,Oltin Market,Restaurant,Samarkand,Samarkand,5429,25.5,119008,0,4
+M00767,Baxt Trade,Restaurant,Nukus,Karakalpakstan,3658,17.5,110732,1,8
+M00768,Baxt Service,Telecom,Fergana,Fergana,2916,11.2,121594,1,9
+M00769,Mehr Center,Telecom,Qarshi,Qashqadaryo,3419,12.1,21860,0,9
+M00770,Yulduz Trade,Online Shopping,Namangan,Namangan,3584,9.5,140580,0,6
+M00771,Zafar Service,Pharmacy,Namangan,Namangan,6836,44.0,407697,0,8
+M00772,Baraka Express,Electronics,Guliston,Sirdaryo,1652,19.4,63483,0,8
+M00773,Mehr Trade,Pharmacy,Tashkent,Tashkent City,7174,12.9,38092,0,5
+M00774,Zafar Center,Cash,Namangan,Namangan,7245,12.7,34068,0,4
+M00775,Yulduz Center,Electronics,Namangan,Namangan,5663,64.0,72336,0,7
+M00776,Oltin Trade,ATM,Bukhara,Bukhara,8932,15.2,88784,0,4
+M00777,Mehr Market,Restaurant,Urgench,Xorazm,7333,20.8,139367,0,7
+M00778,Yulduz Express,Online Shopping,Jizzakh,Jizzakh,6538,16.4,221790,0,1
+M00779,Mehr Trade,Restaurant,Jizzakh,Jizzakh,7957,9.2,55280,1,4
+M00780,Shams Bozor,ATM,Bukhara,Bukhara,5868,28.6,79032,0,3
+M00781,Zafar Center,Clothing,Tashkent,Tashkent City,1915,32.4,32196,0,3
+M00782,Baraka Express,Electronics,Jizzakh,Jizzakh,7166,18.0,188557,1,7
+M00783,Shams Bozor,Transport,Bukhara,Bukhara,3112,21.1,87398,0,9
+M00784,Nur Bozor,Pharmacy,Urgench,Xorazm,1568,13.7,98508,0,6
+M00785,Oltin Market,Grocery,Tashkent,Tashkent City,6595,8.9,338413,0,4
+M00786,Kumush Express,Online Shopping,Qarshi,Qashqadaryo,3609,28.8,129380,1,6
+M00787,Fayz Store,Grocery,Nukus,Karakalpakstan,8864,12.0,460674,1,1
+M00788,Kumush Shop,Utilities,Jizzakh,Jizzakh,4524,14.2,216039,0,7
+M00789,Nur Trade,Restaurant,Bukhara,Bukhara,8300,11.1,84351,0,1
+M00790,Kumush Express,ATM,Tashkent,Tashkent City,8504,20.8,48665,1,9
+M00791,Mehr Service,Telecom,Urgench,Xorazm,6245,36.9,104614,0,3
+M00792,Shams Market,Restaurant,Andijan,Andijan,3424,16.8,268773,0,4
+M00793,Baraka Express,Electronics,Urgench,Xorazm,4993,6.8,39104,0,4
+M00794,Shams Market,Fuel,Namangan,Namangan,1849,23.0,73247,1,2
+M00795,Mehr Market,Pharmacy,Nukus,Karakalpakstan,1291,11.1,61151,1,1
+M00796,Oltin Plus,Cash,Fergana,Fergana,1376,19.6,84862,1,6
+M00797,Nur Store,Electronics,Nukus,Karakalpakstan,9294,14.9,163649,1,4
+M00798,Baxt Service,Telecom,Qarshi,Qashqadaryo,2180,12.0,139586,0,6
+M00799,Baraka Market,Online Shopping,Fergana,Fergana,7699,32.1,137360,0,2
+M00800,Baraka Store,Utilities,Nukus,Karakalpakstan,9517,17.3,39089,1,9
+M00801,Yulduz Market,Electronics,Bukhara,Bukhara,3557,2.8,210525,1,9
+M00802,Baraka Service,Restaurant,Bukhara,Bukhara,2857,26.2,265122,1,5
+M00803,Fayz Bozor,Fuel,Termez,Surxondaryo,5551,10.5,98626,0,6
+M00804,Shams Express,Transport,Jizzakh,Jizzakh,6395,23.7,58389,1,4
+M00805,Mehr Trade,Utilities,Termez,Surxondaryo,3152,6.1,229543,0,4
+M00806,Zafar Center,Transport,Samarkand,Samarkand,5036,18.4,348788,0,1
+M00807,Mehr Service,Cash,Samarkand,Samarkand,9238,43.3,162026,0,7
+M00808,Mehr Center,Telecom,Andijan,Andijan,5165,11.6,66982,1,9
+M00809,Nur Center,Telecom,Namangan,Namangan,5035,16.7,51258,1,9
+M00810,Yulduz Market,Grocery,Bukhara,Bukhara,3583,47.2,188519,0,7
+M00811,Shams Plus,Grocery,Nukus,Karakalpakstan,8684,11.8,34281,1,0
+M00812,Oltin Center,Cash,Nukus,Karakalpakstan,9488,30.9,39244,0,1
+M00813,Oltin Bozor,Utilities,Jizzakh,Jizzakh,6577,39.6,141980,1,6
+M00814,Baxt Trade,Utilities,Urgench,Xorazm,3020,29.3,420957,0,0
+M00815,Zafar Store,Pharmacy,Samarkand,Samarkand,5726,9.7,300978,0,3
+M00816,Shams Center,Restaurant,Fergana,Fergana,2329,45.3,162606,0,6
+M00817,Kumush Store,Online Shopping,Tashkent,Tashkent City,9160,35.5,22557,0,6
+M00818,Fayz Market,Grocery,Guliston,Sirdaryo,9318,4.1,16808,0,9
+M00819,Baxt Plus,Telecom,Samarkand,Samarkand,2243,17.0,104411,1,5
+M00820,Kumush Bozor,Clothing,Guliston,Sirdaryo,5432,39.5,492343,0,3
+M00821,Mehr Shop,Telecom,Bukhara,Bukhara,1579,17.2,58779,0,0
+M00822,Baxt Store,Restaurant,Guliston,Sirdaryo,5582,9.9,239232,1,5
+M00823,Oltin Store,Clothing,Qarshi,Qashqadaryo,6966,9.1,153635,0,6
+M00824,Yulduz Market,Clothing,Fergana,Fergana,7641,7.8,75825,0,8
+M00825,Fayz Express,Fuel,Tashkent,Tashkent City,9237,40.5,86391,0,1
+M00826,Yulduz Plus,Transport,Termez,Surxondaryo,9830,41.0,31200,0,9
+M00827,Baraka Plus,Clothing,Tashkent,Tashkent City,2201,28.5,170585,0,8
+M00828,Kumush Plus,Clothing,Fergana,Fergana,7431,16.1,71061,0,6
+M00829,Oltin Shop,Restaurant,Jizzakh,Jizzakh,3185,17.2,236609,1,2
+M00830,Baxt Service,Fuel,Urgench,Xorazm,7877,27.0,100196,1,2
+M00831,Yulduz Market,Online Shopping,Samarkand,Samarkand,4597,5.5,94672,1,3
+M00832,Fayz Shop,Online Shopping,Samarkand,Samarkand,6429,26.1,22111,0,9
+M00833,Fayz Bozor,Restaurant,Namangan,Namangan,9387,37.2,151117,1,8
+M00834,Shams Service,Electronics,Termez,Surxondaryo,9355,34.2,180570,0,2
+M00835,Nur Service,Online Shopping,Andijan,Andijan,8673,18.7,328505,1,2
+M00836,Nur Trade,Fuel,Qarshi,Qashqadaryo,5169,17.0,61043,0,0
+M00837,Baraka Trade,Utilities,Urgench,Xorazm,9743,17.1,148337,0,6
+M00838,Kumush Bozor,ATM,Termez,Surxondaryo,1005,17.3,165223,0,4
+M00839,Yulduz Express,Transport,Jizzakh,Jizzakh,7963,25.0,43226,0,0
+M00840,Oltin Center,Pharmacy,Jizzakh,Jizzakh,2939,14.3,72717,1,7
+M00841,Mehr Market,Utilities,Urgench,Xorazm,4135,22.8,46436,0,0
+M00842,Fayz Service,Online Shopping,Bukhara,Bukhara,9377,23.8,49651,1,0
+M00843,Shams Center,Clothing,Fergana,Fergana,1474,11.1,87426,1,9
+M00844,Shams Service,Cash,Urgench,Xorazm,2825,12.1,68968,1,9
+M00845,Mehr Plus,Pharmacy,Fergana,Fergana,6537,10.4,118366,0,0
+M00846,Fayz Market,Pharmacy,Urgench,Xorazm,9911,15.0,198091,0,8
+M00847,Shams Store,Telecom,Nukus,Karakalpakstan,9051,26.7,192724,0,2
+M00848,Shams Center,ATM,Guliston,Sirdaryo,5985,18.0,225150,1,5
+M00849,Nur Center,Transport,Guliston,Sirdaryo,5020,14.8,97026,0,8
+M00850,Kumush Center,Cash,Namangan,Namangan,4585,17.1,79475,0,6
+M00851,Yulduz Service,Pharmacy,Guliston,Sirdaryo,4530,5.3,44819,1,5
+M00852,Baraka Shop,Clothing,Andijan,Andijan,8082,44.6,210014,0,5
+M00853,Nur Trade,Grocery,Urgench,Xorazm,8133,15.9,262068,0,2
+M00854,Fayz Bozor,Utilities,Qarshi,Qashqadaryo,3677,25.3,326972,0,2
+M00855,Kumush Market,Telecom,Jizzakh,Jizzakh,4593,12.7,154302,1,2
+M00856,Zafar Store,Pharmacy,Jizzakh,Jizzakh,8392,23.7,82607,0,8
+M00857,Baxt Plus,Grocery,Fergana,Fergana,7601,23.3,50318,0,2
+M00858,Shams Store,Telecom,Samarkand,Samarkand,5693,17.2,41063,1,8
+M00859,Shams Express,Pharmacy,Fergana,Fergana,2871,9.9,24984,1,3
+M00860,Oltin Center,Pharmacy,Qarshi,Qashqadaryo,3146,63.5,273131,0,7
+M00861,Fayz Store,Grocery,Termez,Surxondaryo,6700,17.3,162943,0,3
+M00862,Oltin Service,Telecom,Termez,Surxondaryo,7289,3.0,777740,0,2
+M00863,Shams Trade,Pharmacy,Andijan,Andijan,6128,19.7,108972,0,4
+M00864,Baraka Express,Utilities,Urgench,Xorazm,5994,59.4,125625,0,7
+M00865,Zafar Service,Clothing,Qarshi,Qashqadaryo,4947,15.3,160288,0,3
+M00866,Nur Service,Restaurant,Termez,Surxondaryo,7758,10.3,193660,1,9
+M00867,Zafar Store,Telecom,Nukus,Karakalpakstan,3959,11.2,69909,0,7
+M00868,Yulduz Shop,Transport,Andijan,Andijan,6822,19.1,116046,1,3
+M00869,Shams Bozor,Telecom,Guliston,Sirdaryo,6540,31.0,222387,0,8
+M00870,Yulduz Shop,Restaurant,Termez,Surxondaryo,3126,4.0,428251,0,6
+M00871,Baraka Center,Utilities,Andijan,Andijan,9527,18.5,57712,0,5
+M00872,Baraka Shop,Telecom,Andijan,Andijan,7671,30.4,140244,1,3
+M00873,Shams Service,Cash,Qarshi,Qashqadaryo,3765,13.9,129156,0,0
+M00874,Baxt Service,Fuel,Nukus,Karakalpakstan,3546,17.3,96172,1,9
+M00875,Mehr Market,Fuel,Tashkent,Tashkent City,1504,40.0,269485,0,5
+M00876,Baxt Bozor,Grocery,Samarkand,Samarkand,5161,28.1,743656,0,9
+M00877,Yulduz Shop,ATM,Fergana,Fergana,8904,14.8,160870,1,3
+M00878,Fayz Market,Telecom,Bukhara,Bukhara,3407,25.6,64236,1,8
+M00879,Fayz Trade,Clothing,Urgench,Xorazm,1164,25.0,38349,1,2
+M00880,Baraka Trade,Restaurant,Andijan,Andijan,5069,32.5,113137,0,7
+M00881,Zafar Service,Restaurant,Urgench,Xorazm,1574,18.3,255298,0,5
+M00882,Shams Service,Grocery,Urgench,Xorazm,8139,22.2,101635,0,5
+M00883,Oltin Shop,Transport,Jizzakh,Jizzakh,2290,31.1,147651,0,9
+M00884,Mehr Service,Pharmacy,Qarshi,Qashqadaryo,4595,18.7,573019,1,3
+M00885,Kumush Trade,Clothing,Fergana,Fergana,7721,14.2,201555,0,3
+M00886,Baxt Express,Utilities,Termez,Surxondaryo,3256,7.4,125563,0,6
+M00887,Zafar Store,Electronics,Qarshi,Qashqadaryo,1617,27.5,40913,0,1
+M00888,Fayz Trade,Clothing,Jizzakh,Jizzakh,8093,15.4,228417,1,7
+M00889,Mehr Trade,Transport,Namangan,Namangan,5461,26.9,187545,0,1
+M00890,Zafar Plus,Transport,Samarkand,Samarkand,1663,34.9,232291,0,9
+M00891,Baxt Store,Online Shopping,Guliston,Sirdaryo,2243,13.8,44044,0,3
+M00892,Mehr Express,Transport,Urgench,Xorazm,9038,9.8,117004,0,6
+M00893,Fayz Service,Pharmacy,Qarshi,Qashqadaryo,6003,16.0,190865,0,5
+M00894,Baxt Shop,Clothing,Samarkand,Samarkand,3326,49.9,37095,0,5
+M00895,Baxt Service,Electronics,Namangan,Namangan,5375,14.2,133393,0,1
+M00896,Mehr Plus,Grocery,Namangan,Namangan,9870,17.4,286140,1,4
+M00897,Shams Bozor,Utilities,Jizzakh,Jizzakh,3796,35.9,71813,0,7
+M00898,Kumush Express,Transport,Andijan,Andijan,2899,2.2,280062,0,4
+M00899,Kumush Trade,Transport,Qarshi,Qashqadaryo,6146,7.7,122668,0,9
+M00900,Yulduz Market,Utilities,Guliston,Sirdaryo,8418,17.4,129642,1,6
+M00901,Oltin Bozor,Transport,Termez,Surxondaryo,3758,13.0,263697,0,9
+M00902,Baxt Store,Grocery,Fergana,Fergana,1794,18.8,69490,1,7
+M00903,Oltin Store,Cash,Samarkand,Samarkand,8563,8.7,42657,1,5
+M00904,Baxt Trade,Grocery,Namangan,Namangan,8456,17.7,97029,1,1
+M00905,Zafar Center,Cash,Tashkent,Tashkent City,9339,27.0,156016,1,0
+M00906,Fayz Bozor,Fuel,Samarkand,Samarkand,4161,2.8,158762,1,2
+M00907,Baxt Store,Grocery,Qarshi,Qashqadaryo,5667,15.3,154481,1,8
+M00908,Baxt Service,Cash,Termez,Surxondaryo,5250,6.3,66161,0,4
+M00909,Nur Plus,Electronics,Bukhara,Bukhara,2110,7.8,175519,0,8
+M00910,Nur Service,Transport,Namangan,Namangan,6622,19.6,110326,0,4
+M00911,Baraka Express,Utilities,Termez,Surxondaryo,3901,42.1,407028,0,2
+M00912,Baraka Trade,Clothing,Tashkent,Tashkent City,9067,13.4,244440,0,8
+M00913,Shams Market,Restaurant,Qarshi,Qashqadaryo,8388,38.4,181788,1,5
+M00914,Yulduz Bozor,Electronics,Nukus,Karakalpakstan,2998,12.1,103799,0,1
+M00915,Fayz Bozor,Grocery,Namangan,Namangan,2872,24.2,90262,1,3
+M00916,Fayz Store,Clothing,Nukus,Karakalpakstan,2124,20.8,100110,1,1
+M00917,Yulduz Center,Electronics,Nukus,Karakalpakstan,2147,5.9,149552,1,6
+M00918,Mehr Trade,Transport,Jizzakh,Jizzakh,5079,26.2,262516,1,7
+M00919,Baxt Market,Utilities,Urgench,Xorazm,9663,46.1,37127,0,7
+M00920,Kumush Service,ATM,Guliston,Sirdaryo,5753,5.7,80364,0,2
+M00921,Baxt Bozor,Clothing,Termez,Surxondaryo,5958,13.9,325289,0,3
+M00922,Nur Market,Clothing,Nukus,Karakalpakstan,4632,18.2,76041,0,4
+M00923,Fayz Plus,Fuel,Namangan,Namangan,5158,6.6,60979,0,0
+M00924,Baxt Trade,Transport,Qarshi,Qashqadaryo,5444,9.6,281987,0,9
+M00925,Fayz Center,Fuel,Fergana,Fergana,9309,23.6,179251,0,3
+M00926,Fayz Bozor,ATM,Jizzakh,Jizzakh,1567,19.0,143195,0,1
+M00927,Yulduz Shop,Telecom,Nukus,Karakalpakstan,5827,26.3,195469,1,2
+M00928,Fayz Plus,ATM,Termez,Surxondaryo,6214,14.7,95588,0,0
+M00929,Yulduz Express,Clothing,Tashkent,Tashkent City,5453,41.3,123349,0,4
+M00930,Kumush Plus,Cash,Nukus,Karakalpakstan,4855,16.6,129311,0,9
+M00931,Baxt Service,Transport,Andijan,Andijan,3701,30.9,92493,0,9
+M00932,Baraka Express,Pharmacy,Qarshi,Qashqadaryo,4984,19.7,92048,1,3
+M00933,Oltin Express,Utilities,Samarkand,Samarkand,7080,22.4,59437,1,0
+M00934,Baxt Service,Online Shopping,Samarkand,Samarkand,3818,38.4,80410,1,1
+M00935,Shams Shop,Grocery,Bukhara,Bukhara,7425,12.0,84458,1,3
+M00936,Nur Center,Restaurant,Fergana,Fergana,8353,25.7,26926,0,6
+M00937,Shams Bozor,Electronics,Andijan,Andijan,2218,13.1,194214,1,4
+M00938,Baraka Center,Pharmacy,Tashkent,Tashkent City,6852,11.1,148542,0,7
+M00939,Kumush Plus,Telecom,Guliston,Sirdaryo,8025,32.3,393058,1,4
+M00940,Kumush Service,ATM,Qarshi,Qashqadaryo,7902,12.7,41804,1,5
+M00941,Oltin Trade,Online Shopping,Qarshi,Qashqadaryo,4979,13.5,53321,1,2
+M00942,Oltin Bozor,Clothing,Qarshi,Qashqadaryo,3592,9.7,253535,0,4
+M00943,Nur Shop,Electronics,Namangan,Namangan,4771,26.1,45591,0,7
+M00944,Shams Trade,Fuel,Tashkent,Tashkent City,7985,21.8,115496,1,1
+M00945,Yulduz Service,Pharmacy,Samarkand,Samarkand,9140,14.0,98562,0,2
+M00946,Mehr Service,Cash,Urgench,Xorazm,5830,14.9,408335,0,6
+M00947,Nur Shop,Restaurant,Andijan,Andijan,2408,3.4,114959,0,1
+M00948,Fayz Service,Grocery,Guliston,Sirdaryo,1772,11.5,114606,0,4
+M00949,Baraka Center,Restaurant,Namangan,Namangan,5408,6.8,142913,0,8
+M00950,Shams Express,Telecom,Nukus,Karakalpakstan,5769,22.3,60163,0,2
+M00951,Mehr Service,ATM,Jizzakh,Jizzakh,5057,22.8,79741,1,8
+M00952,Shams Service,Transport,Termez,Surxondaryo,7764,49.7,49719,0,4
+M00953,Kumush Trade,Telecom,Fergana,Fergana,6413,15.5,201377,0,5
+M00954,Shams Store,Online Shopping,Fergana,Fergana,5750,6.3,208333,0,4
+M00955,Yulduz Center,Pharmacy,Guliston,Sirdaryo,3000,31.9,60957,0,2
+M00956,Oltin Shop,Cash,Nukus,Karakalpakstan,7038,30.0,97548,0,8
+M00957,Kumush Plus,Pharmacy,Namangan,Namangan,3221,13.4,136133,0,9
+M00958,Oltin Shop,Utilities,Urgench,Xorazm,9587,71.3,39563,0,5
+M00959,Fayz Shop,Cash,Samarkand,Samarkand,1460,37.4,183772,0,2
+M00960,Shams Market,Pharmacy,Tashkent,Tashkent City,2567,15.3,50926,0,3
+M00961,Nur Shop,Pharmacy,Jizzakh,Jizzakh,8287,33.0,30966,0,4
+M00962,Baxt Center,Transport,Jizzakh,Jizzakh,9840,15.8,125698,1,3
+M00963,Yulduz Plus,Electronics,Qarshi,Qashqadaryo,1851,35.0,194574,1,9
+M00964,Oltin Bozor,Utilities,Bukhara,Bukhara,2401,19.5,246063,0,2
+M00965,Baxt Plus,Restaurant,Termez,Surxondaryo,6516,24.4,173445,1,7
+M00966,Baxt Express,Online Shopping,Guliston,Sirdaryo,9891,33.2,69509,1,6
+M00967,Mehr Store,Utilities,Samarkand,Samarkand,1269,35.2,526191,0,4
+M00968,Shams Shop,Electronics,Bukhara,Bukhara,4541,60.2,126200,1,7
+M00969,Baxt Bozor,Cash,Namangan,Namangan,6319,19.3,57155,1,4
+M00970,Shams Center,Cash,Namangan,Namangan,6632,2.8,260115,1,1
+M00971,Oltin Plus,Cash,Tashkent,Tashkent City,3058,37.3,151288,0,2
+M00972,Baraka Market,Grocery,Samarkand,Samarkand,1152,7.4,609626,0,7
+M00973,Fayz Express,Fuel,Namangan,Namangan,6988,12.8,413727,0,7
+M00974,Nur Center,Telecom,Namangan,Namangan,9827,11.8,87346,0,6
+M00975,Baraka Center,Transport,Termez,Surxondaryo,7904,16.1,45178,0,9
+M00976,Kumush Bozor,Transport,Urgench,Xorazm,9169,27.7,80497,0,7
+M00977,Kumush Trade,Telecom,Urgench,Xorazm,9809,1.0,18836,0,8
+M00978,Zafar Center,Restaurant,Jizzakh,Jizzakh,7067,17.5,123445,0,2
+M00979,Baxt Plus,Clothing,Guliston,Sirdaryo,7706,39.6,263309,1,4
+M00980,Yulduz Market,Pharmacy,Termez,Surxondaryo,2548,29.0,122370,0,6
+M00981,Mehr Service,Utilities,Andijan,Andijan,9517,13.9,176025,1,9
+M00982,Yulduz Bozor,ATM,Bukhara,Bukhara,6429,50.3,222563,1,7
+M00983,Nur Express,ATM,Namangan,Namangan,9378,29.1,396496,0,0
+M00984,Zafar Store,Cash,Termez,Surxondaryo,9804,6.5,137003,0,7
+M00985,Nur Bozor,Restaurant,Jizzakh,Jizzakh,3530,15.0,100809,1,3
+M00986,Yulduz Trade,ATM,Tashkent,Tashkent City,7956,16.3,76010,0,1
+M00987,Kumush Store,Grocery,Andijan,Andijan,4596,1.7,432482,0,7
+M00988,Fayz Shop,Grocery,Nukus,Karakalpakstan,1711,13.2,74773,0,7
+M00989,Baxt Market,Fuel,Andijan,Andijan,4710,7.5,528008,0,9
+M00990,Shams Trade,Restaurant,Fergana,Fergana,5206,16.2,92154,1,5
+M00991,Kumush Bozor,Utilities,Bukhara,Bukhara,4112,24.2,61480,1,9
+M00992,Nur Bozor,Electronics,Samarkand,Samarkand,4769,12.0,168947,1,7
+M00993,Baxt Trade,ATM,Tashkent,Tashkent City,7653,29.6,146068,0,5
+M00994,Mehr Center,Transport,Tashkent,Tashkent City,7433,19.2,31834,0,9
+M00995,Mehr Service,Online Shopping,Bukhara,Bukhara,4450,33.3,209738,0,9
+M00996,Nur Market,Restaurant,Urgench,Xorazm,7381,21.7,27503,0,7
+M00997,Shams Bozor,Grocery,Bukhara,Bukhara,9289,9.4,512147,0,6
+M00998,Kumush Center,Restaurant,Andijan,Andijan,9079,9.1,38532,0,1
+M00999,Baraka Shop,Telecom,Termez,Surxondaryo,6026,28.9,151934,1,7
+M01000,Baxt Bozor,ATM,Guliston,Sirdaryo,8681,1.6,185190,1,4
+M01001,Zafar Shop,Pharmacy,Qarshi,Qashqadaryo,3751,23.6,259318,1,5
+M01002,Shams Plus,Telecom,Samarkand,Samarkand,2356,34.9,38058,0,2
+M01003,Nur Service,Utilities,Tashkent,Tashkent City,8597,16.0,182235,1,2
+M01004,Fayz Trade,Fuel,Samarkand,Samarkand,7534,3.8,50988,0,1
+M01005,Fayz Store,Utilities,Tashkent,Tashkent City,7154,14.7,146640,0,1
+M01006,Nur Center,Online Shopping,Bukhara,Bukhara,7806,21.2,25486,0,3
+M01007,Fayz Market,Fuel,Nukus,Karakalpakstan,3851,49.5,182487,1,6
+M01008,Shams Plus,Clothing,Jizzakh,Jizzakh,3478,36.3,341538,1,3
+M01009,Nur Market,Electronics,Fergana,Fergana,9056,19.1,95621,1,8
+M01010,Oltin Service,Cash,Jizzakh,Jizzakh,7979,11.9,129218,0,6
+M01011,Kumush Trade,Fuel,Termez,Surxondaryo,5021,34.9,196735,0,6
+M01012,Kumush Bozor,Cash,Samarkand,Samarkand,4715,21.9,157497,1,5
+M01013,Baraka Center,Telecom,Namangan,Namangan,1953,22.3,33392,0,5
+M01014,Fayz Trade,Grocery,Nukus,Karakalpakstan,1454,1.6,45199,0,5
+M01015,Mehr Market,Grocery,Fergana,Fergana,8332,17.6,86832,0,4
+M01016,Shams Plus,Restaurant,Urgench,Xorazm,4124,5.3,131483,0,4
+M01017,Zafar Plus,Transport,Qarshi,Qashqadaryo,7347,26.8,82126,0,3
+M01018,Yulduz Store,ATM,Urgench,Xorazm,9082,55.7,129690,1,6
+M01019,Oltin Trade,Pharmacy,Tashkent,Tashkent City,1346,16.1,269014,0,9
+M01020,Fayz Plus,Clothing,Andijan,Andijan,3493,30.1,89879,0,4
+M01021,Fayz Market,Telecom,Guliston,Sirdaryo,2232,12.7,49649,1,0
+M01022,Fayz Store,Fuel,Samarkand,Samarkand,5766,16.5,178771,1,7
+M01023,Baraka Store,ATM,Guliston,Sirdaryo,9039,17.7,320007,0,5
+M01024,Nur Trade,Electronics,Andijan,Andijan,2863,44.7,150953,0,0
+M01025,Fayz Trade,Pharmacy,Andijan,Andijan,1365,11.1,82585,0,1
+M01026,Nur Shop,Fuel,Samarkand,Samarkand,7020,14.4,104330,0,8
+M01027,Kumush Bozor,Utilities,Qarshi,Qashqadaryo,5949,18.3,81692,0,5
+M01028,Mehr Express,Transport,Bukhara,Bukhara,7597,11.1,151273,0,4
+M01029,Baxt Plus,Cash,Andijan,Andijan,1533,26.6,22218,0,3
+M01030,Oltin Plus,Utilities,Termez,Surxondaryo,2954,13.1,129573,1,8
+M01031,Baraka Bozor,Restaurant,Jizzakh,Jizzakh,8486,20.8,104301,1,0
+M01032,Baxt Service,Transport,Termez,Surxondaryo,3876,49.6,246548,1,3
+M01033,Yulduz Trade,Grocery,Samarkand,Samarkand,2423,14.8,38542,1,0
+M01034,Kumush Shop,Transport,Qarshi,Qashqadaryo,9505,16.5,47849,1,8
+M01035,Yulduz Express,Fuel,Bukhara,Bukhara,6398,8.9,159169,0,7
+M01036,Oltin Store,Fuel,Guliston,Sirdaryo,9824,8.8,340110,1,2
+M01037,Baraka Bozor,Online Shopping,Termez,Surxondaryo,9871,30.6,106922,1,0
+M01038,Mehr Bozor,Fuel,Fergana,Fergana,2427,29.1,99710,0,1
+M01039,Nur Store,Transport,Bukhara,Bukhara,6980,6.7,64156,1,9
+M01040,Baraka Trade,Fuel,Guliston,Sirdaryo,7350,43.8,123773,1,9
+M01041,Nur Market,Transport,Guliston,Sirdaryo,4617,18.3,55460,1,3
+M01042,Baraka Shop,Cash,Qarshi,Qashqadaryo,8710,21.6,41490,0,2
+M01043,Nur Market,Online Shopping,Jizzakh,Jizzakh,4296,30.9,184951,1,9
+M01044,Mehr Trade,Fuel,Termez,Surxondaryo,1438,16.0,59770,0,9
+M01045,Yulduz Market,Pharmacy,Urgench,Xorazm,9559,15.4,204627,1,4
+M01046,Oltin Service,Fuel,Samarkand,Samarkand,5909,9.2,114091,1,9
+M01047,Mehr Express,Electronics,Bukhara,Bukhara,6286,15.1,262307,0,7
+M01048,Fayz Bozor,Pharmacy,Namangan,Namangan,7738,27.2,50416,0,1
+M01049,Yulduz Store,Fuel,Bukhara,Bukhara,9966,31.5,226896,1,1
+M01050,Nur Shop,Electronics,Termez,Surxondaryo,6811,18.8,120796,0,2
+M01051,Mehr Plus,Cash,Urgench,Xorazm,1552,16.1,36760,1,2
+M01052,Oltin Market,Online Shopping,Termez,Surxondaryo,4502,6.2,67474,0,3
+M01053,Nur Trade,Fuel,Nukus,Karakalpakstan,8296,27.4,69094,0,6
+M01054,Zafar Bozor,Grocery,Termez,Surxondaryo,7811,19.4,164330,1,0
+M01055,Shams Plus,Clothing,Termez,Surxondaryo,2672,41.5,55920,0,9
+M01056,Baxt Service,Restaurant,Samarkand,Samarkand,2602,15.3,44738,0,2
+M01057,Fayz Shop,Online Shopping,Qarshi,Qashqadaryo,4066,28.2,86839,0,9
+M01058,Oltin Trade,Pharmacy,Tashkent,Tashkent City,8586,5.4,251100,0,0
+M01059,Baxt Market,Utilities,Jizzakh,Jizzakh,6839,23.8,132555,1,7
+M01060,Kumush Plus,Utilities,Tashkent,Tashkent City,7000,12.6,95265,1,5
+M01061,Kumush Center,Telecom,Urgench,Xorazm,8259,11.7,191695,1,8
+M01062,Shams Center,Utilities,Tashkent,Tashkent City,3853,28.1,55070,1,3
+M01063,Baxt Plus,Telecom,Termez,Surxondaryo,6117,27.1,501966,1,9
+M01064,Mehr Market,Transport,Tashkent,Tashkent City,5502,24.3,453402,0,7
+M01065,Zafar Store,Cash,Qarshi,Qashqadaryo,1941,12.0,82191,0,7
+M01066,Oltin Market,Cash,Bukhara,Bukhara,3936,10.2,128398,1,2
+M01067,Zafar Shop,Pharmacy,Urgench,Xorazm,1036,10.0,108956,0,3
+M01068,Yulduz Bozor,Telecom,Guliston,Sirdaryo,3873,14.0,78146,0,0
+M01069,Baxt Market,ATM,Nukus,Karakalpakstan,8850,7.2,247149,0,3
+M01070,Kumush Center,Grocery,Bukhara,Bukhara,1643,16.2,36816,0,2
+M01071,Baraka Express,Cash,Fergana,Fergana,3467,30.9,88075,0,5
+M01072,Baraka Trade,Transport,Samarkand,Samarkand,5561,30.4,178133,0,7
+M01073,Nur Service,Grocery,Guliston,Sirdaryo,7039,25.5,411210,1,9
+M01074,Oltin Plus,Telecom,Tashkent,Tashkent City,1836,11.9,351411,0,4
+M01075,Shams Express,Transport,Urgench,Xorazm,7981,44.2,68248,0,0
+M01076,Fayz Center,Telecom,Termez,Surxondaryo,5480,17.0,63055,0,5
+M01077,Fayz Store,Cash,Jizzakh,Jizzakh,7316,12.5,84455,1,9
+M01078,Zafar Store,Pharmacy,Urgench,Xorazm,6181,20.3,370648,0,3
+M01079,Mehr Service,Pharmacy,Termez,Surxondaryo,1910,17.0,162973,0,9
+M01080,Yulduz Express,Fuel,Bukhara,Bukhara,4030,9.2,1149999,0,0
+M01081,Baxt Plus,Clothing,Andijan,Andijan,7974,3.4,195362,0,1
+M01082,Oltin Shop,Telecom,Fergana,Fergana,5445,16.8,453615,0,8
+M01083,Yulduz Bozor,Clothing,Guliston,Sirdaryo,9035,34.1,109397,0,0
+M01084,Kumush Plus,Grocery,Qarshi,Qashqadaryo,7240,25.9,61077,1,5
+M01085,Yulduz Shop,Utilities,Namangan,Namangan,8144,6.4,805707,0,6
+M01086,Kumush Market,Electronics,Andijan,Andijan,5716,45.5,40970,0,8
+M01087,Kumush Bozor,Online Shopping,Namangan,Namangan,5591,21.3,147037,0,0
+M01088,Shams Store,Cash,Termez,Surxondaryo,6020,8.8,129747,0,2
+M01089,Baxt Shop,Pharmacy,Bukhara,Bukhara,2796,13.4,73488,0,7
+M01090,Baraka Bozor,Grocery,Guliston,Sirdaryo,6245,27.4,157290,1,2
+M01091,Yulduz Express,Transport,Termez,Surxondaryo,6624,12.7,104534,0,3
+M01092,Kumush Store,Grocery,Bukhara,Bukhara,1074,5.4,58844,0,1
+M01093,Zafar Trade,Transport,Qarshi,Qashqadaryo,7304,11.3,42081,1,2
+M01094,Shams Market,Cash,Namangan,Namangan,4433,15.3,167635,0,9
+M01095,Oltin Shop,Electronics,Fergana,Fergana,3437,3.7,62962,0,2
+M01096,Nur Trade,Clothing,Nukus,Karakalpakstan,6839,11.3,77598,0,7
+M01097,Kumush Express,Grocery,Termez,Surxondaryo,6773,20.6,60900,0,8
+M01098,Baraka Express,Electronics,Bukhara,Bukhara,2546,1.3,62229,0,4
+M01099,Baraka Service,Grocery,Urgench,Xorazm,8875,10.0,104504,0,9
+M01100,Fayz Shop,Telecom,Urgench,Xorazm,8054,19.9,43497,0,4
+M01101,Mehr Store,Pharmacy,Namangan,Namangan,4433,8.3,91485,0,0
+M01102,Fayz Plus,Transport,Urgench,Xorazm,1573,18.4,186171,0,9
+M01103,Fayz Market,Online Shopping,Urgench,Xorazm,5789,22.2,191337,0,1
+M01104,Fayz Shop,Grocery,Namangan,Namangan,9899,26.0,78748,0,0
+M01105,Baxt Market,Cash,Fergana,Fergana,7454,8.5,65441,0,7
+M01106,Kumush Service,Electronics,Tashkent,Tashkent City,3963,25.6,304086,0,9
+M01107,Mehr Trade,ATM,Jizzakh,Jizzakh,7673,10.3,162643,0,9
+M01108,Kumush Center,Cash,Termez,Surxondaryo,8210,4.4,177440,0,9
+M01109,Shams Center,Clothing,Tashkent,Tashkent City,6800,6.1,321086,0,9
+M01110,Shams Plus,Utilities,Urgench,Xorazm,2916,5.2,271753,0,2
+M01111,Mehr Market,Telecom,Bukhara,Bukhara,5752,16.4,238461,1,8
+M01112,Fayz Service,Transport,Fergana,Fergana,3175,30.3,28590,0,8
+M01113,Nur Express,Pharmacy,Bukhara,Bukhara,7326,22.3,74534,0,3
+M01114,Mehr Center,Restaurant,Tashkent,Tashkent City,1182,46.2,39825,1,7
+M01115,Yulduz Plus,Fuel,Tashkent,Tashkent City,8618,14.6,346527,1,0
+M01116,Kumush Bozor,Fuel,Tashkent,Tashkent City,5350,30.9,88791,1,6
+M01117,Baxt Bozor,Fuel,Termez,Surxondaryo,9074,22.6,63986,0,0
+M01118,Baraka Center,Online Shopping,Guliston,Sirdaryo,9612,20.5,151094,0,3
+M01119,Fayz Market,ATM,Urgench,Xorazm,4860,33.4,194770,1,0
+M01120,Shams Trade,Restaurant,Guliston,Sirdaryo,9060,24.8,172469,0,5
+M01121,Mehr Store,Restaurant,Fergana,Fergana,7407,2.4,119572,0,5
+M01122,Mehr Bozor,Clothing,Andijan,Andijan,5258,12.1,307404,1,8
+M01123,Nur Center,Grocery,Jizzakh,Jizzakh,4635,8.9,90267,1,2
+M01124,Kumush Market,Cash,Bukhara,Bukhara,8994,31.7,35416,0,7
+M01125,Shams Express,Electronics,Qarshi,Qashqadaryo,8747,16.7,86059,1,9
+M01126,Baraka Express,Utilities,Samarkand,Samarkand,8816,23.3,83414,0,6
+M01127,Baraka Plus,Pharmacy,Qarshi,Qashqadaryo,8476,8.6,197165,1,6
+M01128,Shams Service,Clothing,Namangan,Namangan,9473,21.4,249088,0,8
+M01129,Oltin Express,Grocery,Bukhara,Bukhara,7777,13.5,64497,1,8
+M01130,Yulduz Market,Pharmacy,Urgench,Xorazm,3702,5.5,21273,0,6
+M01131,Baxt Store,Clothing,Guliston,Sirdaryo,5404,23.2,573080,0,9
+M01132,Shams Shop,Fuel,Termez,Surxondaryo,1180,22.7,139150,0,6
+M01133,Fayz Service,Utilities,Nukus,Karakalpakstan,5841,38.6,22886,0,3
+M01134,Zafar Shop,Grocery,Termez,Surxondaryo,3036,4.3,32152,0,1
+M01135,Oltin Market,Clothing,Guliston,Sirdaryo,8206,14.6,142757,1,1
+M01136,Yulduz Market,Grocery,Urgench,Xorazm,8986,11.7,78916,0,9
+M01137,Zafar Plus,Transport,Andijan,Andijan,1432,6.9,321513,0,0
+M01138,Mehr Plus,Telecom,Fergana,Fergana,5991,10.5,79158,0,8
+M01139,Zafar Center,Cash,Nukus,Karakalpakstan,6108,22.8,112363,1,8
+M01140,Yulduz Store,Restaurant,Fergana,Fergana,7264,29.8,73830,0,9
+M01141,Oltin Service,Online Shopping,Termez,Surxondaryo,3159,15.8,106908,1,0
+M01142,Oltin Service,Utilities,Bukhara,Bukhara,1090,12.5,125427,0,9
+M01143,Mehr Market,Online Shopping,Urgench,Xorazm,6426,36.3,348984,0,5
+M01144,Baraka Center,Cash,Fergana,Fergana,3143,29.6,152188,1,9
+M01145,Mehr Express,Cash,Bukhara,Bukhara,5288,13.8,128064,0,5
+M01146,Nur Bozor,Grocery,Jizzakh,Jizzakh,7769,9.0,217304,0,8
+M01147,Shams Plus,Restaurant,Guliston,Sirdaryo,6740,18.4,341850,1,4
+M01148,Shams Trade,Fuel,Fergana,Fergana,9092,13.7,41279,0,3
+M01149,Baxt Service,Cash,Tashkent,Tashkent City,1846,16.7,70492,0,9
+M01150,Fayz Service,Fuel,Qarshi,Qashqadaryo,1103,8.2,141165,0,2
+M01151,Mehr Plus,Restaurant,Tashkent,Tashkent City,9337,26.6,119756,0,0
+M01152,Yulduz Trade,Telecom,Jizzakh,Jizzakh,8796,17.8,73359,0,3
+M01153,Nur Trade,Grocery,Samarkand,Samarkand,6250,55.6,25056,1,6
+M01154,Baraka Service,Online Shopping,Termez,Surxondaryo,8760,4.5,95546,0,4
+M01155,Kumush Center,Pharmacy,Fergana,Fergana,3649,29.9,161886,1,1
+M01156,Nur Trade,Cash,Termez,Surxondaryo,9609,28.9,379701,1,4
+M01157,Baraka Plus,ATM,Qarshi,Qashqadaryo,8170,25.1,122674,1,1
+M01158,Zafar Plus,Telecom,Namangan,Namangan,4532,4.5,120644,1,0
+M01159,Oltin Shop,Electronics,Jizzakh,Jizzakh,7141,24.2,64083,1,6
+M01160,Baraka Bozor,Grocery,Urgench,Xorazm,3235,22.1,120148,1,4
+M01161,Oltin Bozor,Restaurant,Nukus,Karakalpakstan,5031,21.4,80558,0,4
+M01162,Baraka Center,Grocery,Jizzakh,Jizzakh,5219,11.0,188495,1,2
+M01163,Nur Bozor,Grocery,Urgench,Xorazm,3509,15.2,172864,1,0
+M01164,Yulduz Center,Pharmacy,Andijan,Andijan,3535,31.0,371778,1,1
+M01165,Shams Shop,Clothing,Qarshi,Qashqadaryo,3877,52.7,150415,0,5
+M01166,Baxt Shop,Restaurant,Bukhara,Bukhara,7028,18.1,184806,1,6
+M01167,Shams Plus,Cash,Andijan,Andijan,1459,3.3,40086,0,9
+M01168,Baraka Plus,Cash,Andijan,Andijan,5404,9.5,157293,0,5
+M01169,Fayz Center,Online Shopping,Fergana,Fergana,4460,2.1,216810,0,0
+M01170,Baxt Store,ATM,Namangan,Namangan,8580,9.3,131551,1,6
+M01171,Nur Market,Telecom,Bukhara,Bukhara,5612,24.4,115813,0,2
+M01172,Kumush Trade,Clothing,Andijan,Andijan,6790,16.5,104080,0,9
+M01173,Yulduz Express,Fuel,Urgench,Xorazm,8576,38.2,447786,0,6
+M01174,Zafar Service,Transport,Tashkent,Tashkent City,8867,4.0,32620,0,9
+M01175,Baxt Shop,Cash,Fergana,Fergana,6826,26.8,327860,1,8
+M01176,Nur Trade,Cash,Fergana,Fergana,6610,8.6,165682,0,7
+M01177,Shams Plus,Grocery,Urgench,Xorazm,2958,40.2,81160,1,5
+M01178,Shams Market,Grocery,Bukhara,Bukhara,2041,42.5,184683,0,3
+M01179,Fayz Store,Grocery,Andijan,Andijan,9672,18.8,166906,0,3
+M01180,Nur Center,Restaurant,Tashkent,Tashkent City,4083,28.3,54407,1,0
+M01181,Nur Service,Electronics,Bukhara,Bukhara,2993,20.8,280098,1,1
+M01182,Shams Store,Telecom,Termez,Surxondaryo,5107,44.3,141766,0,9
+M01183,Zafar Express,Pharmacy,Nukus,Karakalpakstan,6559,7.1,64305,0,1
+M01184,Kumush Plus,Online Shopping,Termez,Surxondaryo,2635,13.2,412383,0,1
+M01185,Shams Store,ATM,Nukus,Karakalpakstan,3955,23.6,195421,0,9
+M01186,Fayz Express,Grocery,Termez,Surxondaryo,7673,7.0,164402,1,5
+M01187,Fayz Service,Online Shopping,Namangan,Namangan,2098,27.0,276509,0,0
+M01188,Nur Plus,Transport,Qarshi,Qashqadaryo,5070,3.8,123166,1,4
+M01189,Kumush Bozor,Clothing,Qarshi,Qashqadaryo,8409,9.8,240436,1,6
+M01190,Fayz Center,Online Shopping,Qarshi,Qashqadaryo,3507,35.4,228852,1,4
+M01191,Baraka Center,Transport,Namangan,Namangan,6302,29.5,77899,1,5
+M01192,Yulduz Express,Electronics,Namangan,Namangan,8554,42.3,105990,0,4
+M01193,Fayz Express,Online Shopping,Qarshi,Qashqadaryo,5722,11.7,83280,0,7
+M01194,Kumush Trade,Clothing,Jizzakh,Jizzakh,4140,29.8,367696,0,1
+M01195,Baraka Bozor,Fuel,Fergana,Fergana,3703,27.4,36894,0,1
+M01196,Shams Express,Cash,Nukus,Karakalpakstan,8326,43.0,159599,0,3
+M01197,Fayz Shop,Clothing,Tashkent,Tashkent City,8009,27.3,359619,1,6
+M01198,Yulduz Bozor,Telecom,Samarkand,Samarkand,8384,11.1,45499,0,9
+M01199,Zafar Center,Fuel,Termez,Surxondaryo,8674,13.3,126606,0,6
+M01200,Mehr Market,Telecom,Samarkand,Samarkand,4817,13.9,316935,1,2
+M01201,Oltin Store,Utilities,Andijan,Andijan,8528,17.8,90283,0,8
+M01202,Mehr Service,Electronics,Samarkand,Samarkand,1779,12.4,135178,0,8
+M01203,Mehr Service,ATM,Urgench,Xorazm,1651,8.1,100893,0,9
+M01204,Baxt Plus,Pharmacy,Bukhara,Bukhara,5443,17.1,56313,1,8
+M01205,Zafar Center,ATM,Termez,Surxondaryo,2789,17.6,88952,1,6
+M01206,Zafar Service,Restaurant,Nukus,Karakalpakstan,9797,9.0,71841,1,3
+M01207,Baraka Plus,Transport,Urgench,Xorazm,2114,30.9,35071,0,6
+M01208,Yulduz Market,Utilities,Nukus,Karakalpakstan,3400,14.4,381957,1,6
+M01209,Yulduz Trade,Clothing,Namangan,Namangan,3739,12.1,171661,1,1
+M01210,Zafar Bozor,Transport,Guliston,Sirdaryo,3700,20.5,88392,0,1
+M01211,Oltin Plus,Telecom,Termez,Surxondaryo,2015,12.3,82092,0,4
+M01212,Baxt Trade,Pharmacy,Qarshi,Qashqadaryo,9417,5.8,85604,0,0
+M01213,Baxt Service,ATM,Qarshi,Qashqadaryo,2592,13.9,65783,1,7
+M01214,Zafar Center,Restaurant,Jizzakh,Jizzakh,7560,12.8,88008,0,9
+M01215,Yulduz Trade,Online Shopping,Guliston,Sirdaryo,7355,30.2,57997,0,9
+M01216,Oltin Market,Grocery,Samarkand,Samarkand,2972,15.4,210391,1,3
+M01217,Fayz Plus,Utilities,Qarshi,Qashqadaryo,7020,38.5,27067,1,2
+M01218,Baraka Express,Pharmacy,Jizzakh,Jizzakh,1709,26.5,141043,1,2
+M01219,Zafar Center,Restaurant,Samarkand,Samarkand,3543,27.8,59176,0,0
+M01220,Nur Bozor,Fuel,Jizzakh,Jizzakh,9268,22.2,248651,0,8
+M01221,Yulduz Store,Telecom,Fergana,Fergana,8416,16.1,104612,1,7
+M01222,Baraka Bozor,Transport,Tashkent,Tashkent City,4753,20.1,159345,0,0
+M01223,Baraka Plus,Utilities,Qarshi,Qashqadaryo,7011,49.6,72930,1,1
+M01224,Oltin Service,ATM,Namangan,Namangan,2365,9.4,339455,0,1
+M01225,Baxt Trade,Telecom,Guliston,Sirdaryo,4884,7.9,44380,0,6
+M01226,Yulduz Plus,Fuel,Jizzakh,Jizzakh,1311,37.1,70465,0,0
+M01227,Fayz Market,Electronics,Namangan,Namangan,1195,17.6,54671,1,2
+M01228,Zafar Shop,Online Shopping,Urgench,Xorazm,9598,10.2,113674,1,2
+M01229,Oltin Bozor,Clothing,Andijan,Andijan,6902,22.6,128996,0,9
+M01230,Shams Service,Pharmacy,Bukhara,Bukhara,2296,20.0,43691,0,9
+M01231,Zafar Store,Grocery,Urgench,Xorazm,8043,23.6,51597,1,8
+M01232,Nur Store,Transport,Nukus,Karakalpakstan,5495,9.4,49392,0,1
+M01233,Nur Express,ATM,Qarshi,Qashqadaryo,3015,7.4,37158,1,5
+M01234,Shams Service,Cash,Namangan,Namangan,9522,43.3,69294,1,0
+M01235,Kumush Center,Online Shopping,Nukus,Karakalpakstan,2070,33.5,481742,0,1
+M01236,Nur Center,Restaurant,Urgench,Xorazm,7483,9.4,134253,1,5
+M01237,Mehr Store,ATM,Termez,Surxondaryo,3836,28.4,70582,0,5
+M01238,Oltin Market,Pharmacy,Guliston,Sirdaryo,9079,13.9,96795,0,7
+M01239,Mehr Bozor,Restaurant,Tashkent,Tashkent City,7319,46.9,34489,0,0
+M01240,Baxt Service,Grocery,Urgench,Xorazm,7246,21.2,36183,1,6
+M01241,Shams Trade,Fuel,Andijan,Andijan,9661,20.2,60510,0,0
+M01242,Zafar Store,Grocery,Termez,Surxondaryo,2548,26.6,43430,0,7
+M01243,Kumush Trade,Telecom,Andijan,Andijan,4529,22.7,238147,1,6
+M01244,Baxt Service,Transport,Bukhara,Bukhara,4795,4.6,544700,0,9
+M01245,Kumush Bozor,Restaurant,Samarkand,Samarkand,8469,24.3,239295,0,1
+M01246,Oltin Bozor,Online Shopping,Guliston,Sirdaryo,6784,9.9,63671,1,9
+M01247,Kumush Store,Transport,Guliston,Sirdaryo,7848,12.8,120847,1,0
+M01248,Kumush Service,Utilities,Namangan,Namangan,4622,19.5,180890,1,9
+M01249,Shams Bozor,Electronics,Guliston,Sirdaryo,8981,21.3,165000,0,4
+M01250,Shams Express,Grocery,Urgench,Xorazm,1808,2.1,395720,1,6
+M01251,Kumush Plus,Fuel,Qarshi,Qashqadaryo,6969,22.2,46021,0,9
+M01252,Yulduz Store,Electronics,Fergana,Fergana,9294,27.6,135296,0,3
+M01253,Yulduz Trade,Clothing,Andijan,Andijan,9517,10.8,115004,0,7
+M01254,Baraka Bozor,Pharmacy,Jizzakh,Jizzakh,1776,14.0,91475,1,7
+M01255,Mehr Store,Cash,Qarshi,Qashqadaryo,9254,24.6,34487,0,5
+M01256,Baxt Bozor,Transport,Jizzakh,Jizzakh,7803,12.8,37352,0,4
+M01257,Baxt Express,Transport,Guliston,Sirdaryo,1303,3.0,336769,1,1
+M01258,Fayz Service,ATM,Jizzakh,Jizzakh,9148,11.3,237470,0,5
+M01259,Fayz Market,Transport,Jizzakh,Jizzakh,5649,1.6,48120,0,2
+M01260,Mehr Center,Restaurant,Qarshi,Qashqadaryo,4621,6.6,28250,0,2
+M01261,Zafar Trade,Utilities,Namangan,Namangan,3949,29.6,122724,0,8
+M01262,Fayz Store,Transport,Nukus,Karakalpakstan,1514,12.7,112571,0,6
+M01263,Shams Express,Utilities,Termez,Surxondaryo,8618,10.5,32943,0,0
+M01264,Baxt Trade,Online Shopping,Fergana,Fergana,9971,33.5,621608,0,3
+M01265,Zafar Market,Telecom,Samarkand,Samarkand,4682,13.5,323636,1,5
+M01266,Zafar Store,Grocery,Termez,Surxondaryo,9750,18.7,50591,0,7
+M01267,Nur Plus,Pharmacy,Termez,Surxondaryo,9221,12.7,342695,1,9
+M01268,Mehr Bozor,Fuel,Namangan,Namangan,4834,6.4,144129,1,4
+M01269,Oltin Plus,Restaurant,Bukhara,Bukhara,9169,20.7,214173,1,4
+M01270,Mehr Market,Online Shopping,Termez,Surxondaryo,8080,33.3,61145,0,1
+M01271,Baraka Market,Utilities,Urgench,Xorazm,4277,28.9,196949,0,9
+M01272,Mehr Market,Restaurant,Guliston,Sirdaryo,2236,27.6,709584,1,2
+M01273,Zafar Express,Fuel,Termez,Surxondaryo,6173,26.7,308482,0,7
+M01274,Nur Market,Utilities,Termez,Surxondaryo,5569,26.6,216758,0,8
+M01275,Kumush Center,Restaurant,Tashkent,Tashkent City,1248,21.4,27244,0,7
+M01276,Oltin Market,Online Shopping,Nukus,Karakalpakstan,3357,15.1,237595,1,5
+M01277,Nur Plus,Cash,Fergana,Fergana,4212,19.3,173292,0,4
+M01278,Baraka Service,Cash,Samarkand,Samarkand,8987,26.9,62525,1,5
+M01279,Yulduz Service,Transport,Nukus,Karakalpakstan,6922,24.0,92608,0,1
+M01280,Kumush Trade,Cash,Tashkent,Tashkent City,2290,42.2,111823,1,8
+M01281,Shams Shop,Transport,Guliston,Sirdaryo,2901,8.3,184241,1,2
+M01282,Kumush Bozor,ATM,Samarkand,Samarkand,9883,4.6,37831,0,5
+M01283,Shams Express,Online Shopping,Fergana,Fergana,2429,37.0,125137,0,1
+M01284,Mehr Shop,Clothing,Termez,Surxondaryo,9130,31.0,414362,0,9
+M01285,Zafar Center,Clothing,Samarkand,Samarkand,9585,20.0,183905,0,7
+M01286,Mehr Plus,Online Shopping,Andijan,Andijan,7150,11.4,50746,0,5
+M01287,Yulduz Service,ATM,Urgench,Xorazm,6251,2.6,148998,0,5
+M01288,Yulduz Shop,Clothing,Fergana,Fergana,9514,21.5,176610,0,2
+M01289,Baxt Store,Pharmacy,Jizzakh,Jizzakh,6083,17.8,22975,0,5
+M01290,Yulduz Service,Fuel,Samarkand,Samarkand,5784,14.8,153212,0,0
+M01291,Fayz Trade,Telecom,Fergana,Fergana,8382,8.0,121479,0,3
+M01292,Nur Express,Fuel,Qarshi,Qashqadaryo,2834,33.3,34192,1,7
+M01293,Mehr Service,Clothing,Jizzakh,Jizzakh,6015,51.4,554526,0,2
+M01294,Baxt Bozor,Restaurant,Fergana,Fergana,8537,31.0,153824,0,7
+M01295,Zafar Bozor,Cash,Namangan,Namangan,6815,5.3,101754,0,7
+M01296,Fayz Service,Pharmacy,Bukhara,Bukhara,3937,25.0,60278,1,3
+M01297,Oltin Market,Pharmacy,Namangan,Namangan,3764,37.1,131129,0,2
+M01298,Baxt Center,Clothing,Bukhara,Bukhara,6401,38.8,167733,0,7
+M01299,Yulduz Shop,Grocery,Jizzakh,Jizzakh,4397,15.2,347383,0,1
+M01300,Baxt Market,Telecom,Bukhara,Bukhara,4162,14.7,109346,0,2
+M01301,Nur Service,ATM,Nukus,Karakalpakstan,3462,44.7,40739,0,4
+M01302,Zafar Store,Pharmacy,Samarkand,Samarkand,1825,32.5,112632,0,3
+M01303,Shams Express,Clothing,Guliston,Sirdaryo,6387,28.5,111881,0,7
+M01304,Fayz Trade,Telecom,Nukus,Karakalpakstan,3612,29.8,445886,0,0
+M01305,Baraka Store,Transport,Guliston,Sirdaryo,6358,19.7,151294,1,0
+M01306,Zafar Plus,Transport,Fergana,Fergana,9333,15.5,162985,0,1
+M01307,Fayz Market,Electronics,Fergana,Fergana,2489,23.7,77325,0,2
+M01308,Mehr Market,Fuel,Urgench,Xorazm,8622,9.6,159137,0,3
+M01309,Kumush Express,Grocery,Urgench,Xorazm,7877,6.1,61269,0,6
+M01310,Nur Market,Grocery,Jizzakh,Jizzakh,3128,17.6,136796,0,3
+M01311,Baraka Plus,Restaurant,Urgench,Xorazm,2743,31.9,226343,0,4
+M01312,Oltin Center,ATM,Jizzakh,Jizzakh,4561,43.5,118715,0,8
+M01313,Oltin Trade,Electronics,Andijan,Andijan,7165,17.0,290000,0,0
+M01314,Nur Service,Utilities,Tashkent,Tashkent City,6360,30.9,365222,0,5
+M01315,Zafar Express,Utilities,Nukus,Karakalpakstan,1565,4.7,297810,1,7
+M01316,Kumush Service,ATM,Bukhara,Bukhara,2271,5.4,126046,1,5
+M01317,Baraka Service,Cash,Jizzakh,Jizzakh,9264,7.8,56895,0,2
+M01318,Oltin Shop,Pharmacy,Termez,Surxondaryo,3010,29.1,54109,0,1
+M01319,Zafar Service,Restaurant,Fergana,Fergana,1540,46.9,185363,0,2
+M01320,Oltin Service,ATM,Qarshi,Qashqadaryo,3367,6.7,148702,0,6
+M01321,Nur Center,Transport,Namangan,Namangan,1579,29.4,114536,1,4
+M01322,Baxt Market,Pharmacy,Urgench,Xorazm,5925,39.1,78492,1,8
+M01323,Nur Plus,Cash,Samarkand,Samarkand,1776,38.1,121236,1,9
+M01324,Kumush Service,Pharmacy,Urgench,Xorazm,1052,5.0,39836,1,8
+M01325,Kumush Market,Electronics,Nukus,Karakalpakstan,5086,14.0,71694,1,4
+M01326,Mehr Center,Clothing,Nukus,Karakalpakstan,6900,18.5,102044,0,2
+M01327,Shams Bozor,Cash,Nukus,Karakalpakstan,5956,17.2,210239,0,0
+M01328,Oltin Service,Pharmacy,Guliston,Sirdaryo,2976,23.1,261596,1,4
+M01329,Nur Service,Pharmacy,Nukus,Karakalpakstan,2363,30.0,25349,1,4
+M01330,Nur Shop,Online Shopping,Tashkent,Tashkent City,5772,32.5,33655,0,4
+M01331,Kumush Service,Clothing,Urgench,Xorazm,7756,12.2,212669,0,3
+M01332,Baraka Shop,Restaurant,Guliston,Sirdaryo,5195,7.8,130298,1,6
+M01333,Baxt Plus,Utilities,Guliston,Sirdaryo,2110,30.9,198361,1,1
+M01334,Fayz Store,Online Shopping,Namangan,Namangan,4674,21.6,72946,0,0
+M01335,Nur Center,Restaurant,Andijan,Andijan,9438,21.4,76267,0,1
+M01336,Yulduz Store,Fuel,Namangan,Namangan,9609,5.3,66546,0,0
+M01337,Baxt Bozor,Pharmacy,Urgench,Xorazm,4908,49.1,14089,0,5
+M01338,Mehr Trade,Electronics,Qarshi,Qashqadaryo,9583,8.3,48985,0,4
+M01339,Mehr Service,Fuel,Qarshi,Qashqadaryo,5886,7.8,51092,0,9
+M01340,Kumush Express,Cash,Guliston,Sirdaryo,7654,19.7,57171,0,7
+M01341,Nur Market,Pharmacy,Jizzakh,Jizzakh,7891,3.5,55098,0,8
+M01342,Mehr Trade,Grocery,Samarkand,Samarkand,5678,23.7,57530,0,0
+M01343,Zafar Bozor,Telecom,Nukus,Karakalpakstan,8470,24.0,99323,0,8
+M01344,Kumush Market,Electronics,Guliston,Sirdaryo,9705,12.1,186383,0,3
+M01345,Fayz Trade,Transport,Nukus,Karakalpakstan,8172,33.9,12031,1,2
+M01346,Yulduz Market,Restaurant,Andijan,Andijan,5211,10.7,56554,0,5
+M01347,Nur Store,Restaurant,Namangan,Namangan,4028,28.7,58250,0,5
+M01348,Baxt Express,Restaurant,Termez,Surxondaryo,2686,12.7,35201,0,0
+M01349,Baraka Shop,Utilities,Termez,Surxondaryo,7701,25.6,290978,0,1
+M01350,Nur Store,ATM,Nukus,Karakalpakstan,7104,31.7,49328,1,8
+M01351,Fayz Plus,Cash,Namangan,Namangan,1783,16.2,166911,1,4
+M01352,Baraka Service,Fuel,Tashkent,Tashkent City,7108,24.9,63661,1,9
+M01353,Fayz Store,ATM,Andijan,Andijan,6655,17.4,330162,1,7
+M01354,Kumush Shop,Restaurant,Andijan,Andijan,6375,19.5,60804,0,1
+M01355,Baraka Trade,Telecom,Fergana,Fergana,4205,11.9,57427,0,2
+M01356,Nur Service,Electronics,Tashkent,Tashkent City,7940,34.3,103403,0,1
+M01357,Nur Trade,Online Shopping,Urgench,Xorazm,1154,23.0,397296,0,8
+M01358,Baxt Plus,Electronics,Namangan,Namangan,2959,26.6,177353,0,3
+M01359,Baraka Express,ATM,Qarshi,Qashqadaryo,8121,17.6,70310,0,7
+M01360,Fayz Shop,Telecom,Nukus,Karakalpakstan,7851,29.1,137820,0,5
+M01361,Mehr Shop,Restaurant,Fergana,Fergana,8913,34.8,75483,1,6
+M01362,Oltin Trade,Pharmacy,Jizzakh,Jizzakh,9953,15.9,391875,1,5
+M01363,Yulduz Plus,Online Shopping,Tashkent,Tashkent City,2143,16.1,222951,0,8
+M01364,Fayz Express,Telecom,Andijan,Andijan,2624,16.9,116098,0,9
+M01365,Fayz Shop,Telecom,Tashkent,Tashkent City,2484,21.6,139275,1,2
+M01366,Shams Trade,Pharmacy,Urgench,Xorazm,5594,15.4,71935,0,0
+M01367,Oltin Service,Online Shopping,Andijan,Andijan,2156,26.8,119830,0,9
+M01368,Shams Market,Utilities,Nukus,Karakalpakstan,9616,6.9,189982,0,4
+M01369,Baxt Bozor,Fuel,Tashkent,Tashkent City,9996,12.9,243504,0,3
+M01370,Oltin Center,ATM,Qarshi,Qashqadaryo,8671,19.9,85014,0,2
+M01371,Shams Market,Electronics,Bukhara,Bukhara,1503,16.0,21450,0,4
+M01372,Baxt Service,Restaurant,Tashkent,Tashkent City,5144,0.9,208838,0,9
+M01373,Fayz Shop,Cash,Guliston,Sirdaryo,7255,25.2,72493,1,8
+M01374,Oltin Center,Grocery,Fergana,Fergana,3977,20.6,234926,1,8
+M01375,Nur Service,Restaurant,Bukhara,Bukhara,1358,45.1,35396,0,8
+M01376,Shams Bozor,Transport,Andijan,Andijan,4046,5.9,155245,0,5
+M01377,Nur Plus,Cash,Urgench,Xorazm,6842,4.1,101651,0,7
+M01378,Baxt Express,Clothing,Nukus,Karakalpakstan,4365,10.8,83771,1,7
+M01379,Baxt Shop,Online Shopping,Qarshi,Qashqadaryo,9725,29.5,383138,1,3
+M01380,Nur Store,Utilities,Namangan,Namangan,8223,21.4,66905,0,8
+M01381,Baxt Store,Electronics,Samarkand,Samarkand,2552,9.8,355731,0,8
+M01382,Baraka Service,Cash,Tashkent,Tashkent City,8845,18.3,682007,1,2
+M01383,Baraka Express,Online Shopping,Bukhara,Bukhara,7208,2.4,43715,1,7
+M01384,Baxt Service,Utilities,Guliston,Sirdaryo,3845,15.8,57839,0,2
+M01385,Baraka Express,ATM,Tashkent,Tashkent City,7317,16.1,105351,0,4
+M01386,Kumush Express,Grocery,Tashkent,Tashkent City,9557,16.2,100104,0,0
+M01387,Baraka Bozor,Fuel,Tashkent,Tashkent City,3942,6.2,290336,0,3
+M01388,Nur Bozor,Grocery,Termez,Surxondaryo,3554,37.7,289776,0,4
+M01389,Zafar Plus,Online Shopping,Jizzakh,Jizzakh,8950,12.2,80999,0,5
+M01390,Mehr Store,Transport,Nukus,Karakalpakstan,6201,57.2,64033,0,5
+M01391,Kumush Center,Cash,Guliston,Sirdaryo,7272,6.6,92061,0,8
+M01392,Baxt Bozor,Telecom,Andijan,Andijan,9957,50.2,142793,0,4
+M01393,Yulduz Trade,Electronics,Guliston,Sirdaryo,2925,8.3,47905,0,8
+M01394,Kumush Express,Online Shopping,Nukus,Karakalpakstan,7941,7.6,43820,1,1
+M01395,Shams Trade,ATM,Andijan,Andijan,2279,15.5,65686,0,0
+M01396,Yulduz Shop,Restaurant,Jizzakh,Jizzakh,2981,41.2,83249,0,2
+M01397,Nur Center,Restaurant,Tashkent,Tashkent City,8584,22.0,88981,1,6
+M01398,Baxt Trade,Fuel,Samarkand,Samarkand,4246,18.2,24086,0,5
+M01399,Baraka Market,Online Shopping,Urgench,Xorazm,1314,12.1,85182,0,4
+M01400,Nur Shop,Clothing,Guliston,Sirdaryo,4148,9.2,42163,1,0
+M01401,Baxt Express,Grocery,Namangan,Namangan,8815,23.2,126554,0,1
+M01402,Oltin Express,Cash,Qarshi,Qashqadaryo,4882,28.3,43632,0,2
+M01403,Oltin Service,Telecom,Bukhara,Bukhara,1836,15.7,155460,1,0
+M01404,Yulduz Service,Fuel,Samarkand,Samarkand,7232,9.6,104361,0,3
+M01405,Baxt Store,Grocery,Nukus,Karakalpakstan,8845,15.8,373831,0,4
+M01406,Yulduz Center,Telecom,Guliston,Sirdaryo,6498,17.4,150567,1,9
+M01407,Zafar Bozor,Cash,Tashkent,Tashkent City,3293,21.8,102475,0,2
+M01408,Mehr Express,Electronics,Jizzakh,Jizzakh,4844,8.6,114702,1,5
+M01409,Fayz Store,ATM,Tashkent,Tashkent City,8266,28.2,124878,0,2
+M01410,Kumush Service,Fuel,Guliston,Sirdaryo,2569,16.0,74430,1,3
+M01411,Fayz Plus,ATM,Fergana,Fergana,9993,12.2,97656,0,6
+M01412,Mehr Express,Online Shopping,Urgench,Xorazm,3490,7.5,79700,1,6
+M01413,Shams Market,Cash,Qarshi,Qashqadaryo,3529,68.8,89881,0,4
+M01414,Oltin Service,Telecom,Jizzakh,Jizzakh,9066,47.2,82965,1,2
+M01415,Nur Shop,Online Shopping,Qarshi,Qashqadaryo,8615,18.8,88966,0,2
+M01416,Oltin Center,Fuel,Samarkand,Samarkand,4037,21.4,115385,0,4
+M01417,Mehr Trade,Electronics,Tashkent,Tashkent City,8086,14.5,186401,0,8
+M01418,Oltin Trade,Cash,Urgench,Xorazm,1024,0.9,249144,1,3
+M01419,Mehr Trade,Cash,Samarkand,Samarkand,8086,6.2,72368,0,5
+M01420,Oltin Express,Transport,Termez,Surxondaryo,8970,33.5,38582,0,6
+M01421,Kumush Trade,Clothing,Bukhara,Bukhara,3943,1.9,223445,0,1
+M01422,Baxt Center,Pharmacy,Qarshi,Qashqadaryo,3269,27.5,672178,0,2
+M01423,Kumush Shop,ATM,Andijan,Andijan,8442,38.5,182159,0,1
+M01424,Kumush Plus,Utilities,Jizzakh,Jizzakh,6838,7.2,91380,0,0
+M01425,Zafar Market,Utilities,Termez,Surxondaryo,9511,27.0,142694,0,9
+M01426,Shams Store,Telecom,Nukus,Karakalpakstan,1235,16.5,135167,1,9
+M01427,Baraka Store,Transport,Tashkent,Tashkent City,1112,49.9,115814,0,4
+M01428,Mehr Bozor,Utilities,Namangan,Namangan,1317,5.6,58186,0,2
+M01429,Oltin Shop,Online Shopping,Bukhara,Bukhara,8262,29.9,263198,0,7
+M01430,Yulduz Service,ATM,Termez,Surxondaryo,1871,26.3,63315,0,7
+M01431,Oltin Bozor,Grocery,Termez,Surxondaryo,1768,5.1,257654,0,9
+M01432,Shams Plus,Restaurant,Nukus,Karakalpakstan,3483,45.0,183952,1,8
+M01433,Baraka Bozor,Telecom,Andijan,Andijan,2857,12.7,371006,0,3
+M01434,Yulduz Plus,Transport,Fergana,Fergana,7153,8.4,212401,0,2
+M01435,Fayz Service,Restaurant,Nukus,Karakalpakstan,4431,2.3,18615,1,0
+M01436,Mehr Bozor,Electronics,Nukus,Karakalpakstan,3263,11.3,38698,0,8
+M01437,Oltin Shop,Cash,Samarkand,Samarkand,9883,14.1,125755,0,5
+M01438,Nur Bozor,ATM,Jizzakh,Jizzakh,7182,19.6,456515,0,7
+M01439,Oltin Service,Fuel,Namangan,Namangan,7529,25.0,86933,0,0
+M01440,Yulduz Center,Grocery,Andijan,Andijan,7192,19.5,39735,1,2
+M01441,Baraka Market,ATM,Andijan,Andijan,9915,20.1,225548,0,3
+M01442,Shams Market,Transport,Guliston,Sirdaryo,8767,5.7,441206,1,2
+M01443,Baxt Bozor,Utilities,Guliston,Sirdaryo,4510,5.2,63194,0,1
+M01444,Shams Market,Grocery,Jizzakh,Jizzakh,4772,12.1,78078,1,9
+M01445,Baxt Bozor,Online Shopping,Fergana,Fergana,7510,2.3,441754,0,8
+M01446,Baraka Bozor,Electronics,Namangan,Namangan,5788,15.0,42983,0,4
+M01447,Oltin Plus,Telecom,Samarkand,Samarkand,7022,13.2,50843,1,0
+M01448,Baraka Center,Utilities,Fergana,Fergana,7152,21.0,50245,0,5
+M01449,Fayz Plus,Pharmacy,Termez,Surxondaryo,1044,21.8,136627,1,8
+M01450,Baraka Express,Utilities,Termez,Surxondaryo,4594,14.3,95152,0,3
+M01451,Baraka Bozor,Utilities,Guliston,Sirdaryo,1839,23.7,73772,0,4
+M01452,Oltin Market,Fuel,Guliston,Sirdaryo,6942,16.1,240725,0,6
+M01453,Baxt Trade,Clothing,Tashkent,Tashkent City,1118,10.1,230417,1,4
+M01454,Fayz Express,ATM,Andijan,Andijan,9045,28.0,380214,0,9
+M01455,Shams Trade,Utilities,Fergana,Fergana,5227,25.1,125195,0,0
+M01456,Yulduz Market,Telecom,Qarshi,Qashqadaryo,5086,27.3,221773,0,2
+M01457,Kumush Store,Fuel,Andijan,Andijan,6192,11.1,47854,0,7
+M01458,Fayz Store,Grocery,Qarshi,Qashqadaryo,5023,30.6,212725,0,4
+M01459,Oltin Trade,Utilities,Qarshi,Qashqadaryo,1375,6.3,221199,0,7
+M01460,Nur Plus,ATM,Fergana,Fergana,8206,8.1,63487,0,9
+M01461,Nur Market,Utilities,Samarkand,Samarkand,3232,34.6,193808,1,6
+M01462,Kumush Store,Telecom,Namangan,Namangan,6617,3.6,145302,1,6
+M01463,Kumush Plus,Utilities,Samarkand,Samarkand,8068,6.5,173027,0,1
+M01464,Nur Service,Fuel,Andijan,Andijan,1949,25.5,255433,1,5
+M01465,Nur Plus,Clothing,Fergana,Fergana,2099,12.9,137710,1,4
+M01466,Kumush Bozor,Clothing,Andijan,Andijan,1113,12.8,302604,1,4
+M01467,Oltin Shop,Online Shopping,Nukus,Karakalpakstan,7173,10.1,49079,0,8
+M01468,Baxt Bozor,ATM,Namangan,Namangan,9744,2.7,60010,1,2
+M01469,Fayz Trade,Telecom,Termez,Surxondaryo,5079,12.8,105253,1,0
+M01470,Kumush Market,Pharmacy,Fergana,Fergana,7870,21.1,64645,1,0
+M01471,Zafar Plus,Electronics,Termez,Surxondaryo,1723,25.9,147351,0,7
+M01472,Yulduz Bozor,Fuel,Tashkent,Tashkent City,3385,10.5,91469,0,6
+M01473,Shams Plus,Pharmacy,Urgench,Xorazm,7615,23.7,94355,0,7
+M01474,Yulduz Express,Restaurant,Urgench,Xorazm,9452,13.8,92192,1,3
+M01475,Yulduz Store,Clothing,Urgench,Xorazm,8625,11.0,145037,0,9
+M01476,Kumush Trade,ATM,Tashkent,Tashkent City,2020,7.2,119276,1,1
+M01477,Baraka Shop,Restaurant,Guliston,Sirdaryo,5793,22.7,160752,1,5
+M01478,Baraka Center,Fuel,Qarshi,Qashqadaryo,7630,14.6,87775,0,6
+M01479,Fayz Store,Grocery,Qarshi,Qashqadaryo,5902,23.7,27370,0,3
+M01480,Mehr Trade,Clothing,Tashkent,Tashkent City,3491,12.1,216615,0,3
+M01481,Baxt Trade,Transport,Urgench,Xorazm,1499,28.7,64195,0,0
+M01482,Baxt Service,Cash,Guliston,Sirdaryo,6749,20.7,150016,0,5
+M01483,Oltin Trade,Online Shopping,Jizzakh,Jizzakh,9569,8.4,119651,0,8
+M01484,Nur Express,Electronics,Qarshi,Qashqadaryo,1886,1.3,703293,0,5
+M01485,Zafar Bozor,Electronics,Nukus,Karakalpakstan,8903,14.3,14033,1,5
+M01486,Oltin Center,Clothing,Nukus,Karakalpakstan,8241,19.4,70808,0,7
+M01487,Baraka Plus,Cash,Samarkand,Samarkand,9938,13.2,161755,1,3
+M01488,Yulduz Express,Clothing,Andijan,Andijan,4035,16.5,33209,1,5
+M01489,Baraka Plus,Fuel,Jizzakh,Jizzakh,7649,12.6,115647,0,8
+M01490,Fayz Bozor,ATM,Guliston,Sirdaryo,3095,9.2,31317,1,5
+M01491,Yulduz Trade,Transport,Samarkand,Samarkand,6597,13.7,118834,0,7
+M01492,Mehr Store,Pharmacy,Bukhara,Bukhara,1927,27.9,123348,0,5
+M01493,Nur Plus,Utilities,Andijan,Andijan,8860,3.0,211324,0,0
+M01494,Baxt Market,Clothing,Nukus,Karakalpakstan,5324,17.0,148773,0,6
+M01495,Shams Trade,Online Shopping,Urgench,Xorazm,9435,21.1,55127,1,6
+M01496,Kumush Express,Electronics,Fergana,Fergana,8642,8.3,125205,0,0
+M01497,Fayz Shop,Clothing,Bukhara,Bukhara,9276,19.2,154239,0,8
+M01498,Kumush Center,Utilities,Samarkand,Samarkand,7315,23.8,57759,1,8
+M01499,Baraka Service,ATM,Bukhara,Bukhara,1325,10.4,260406,0,2
+M01500,Kumush Plus,Online Shopping,Bukhara,Bukhara,9764,29.1,187470,0,4
+M01501,Shams Service,Online Shopping,Urgench,Xorazm,7956,4.3,32482,0,2
+M01502,Nur Plus,Electronics,Samarkand,Samarkand,3642,49.7,121512,0,8
+M01503,Oltin Shop,Electronics,Andijan,Andijan,4335,1.2,52340,0,9
+M01504,Nur Store,Telecom,Jizzakh,Jizzakh,8044,34.2,24410,0,4
+M01505,Fayz Express,Online Shopping,Fergana,Fergana,8319,25.5,75474,0,7
+M01506,Baxt Service,Utilities,Tashkent,Tashkent City,2326,26.5,88278,0,1
+M01507,Mehr Express,Electronics,Namangan,Namangan,1541,12.1,654024,0,8
+M01508,Shams Trade,Fuel,Bukhara,Bukhara,7041,42.8,77131,0,3
+M01509,Oltin Bozor,Electronics,Andijan,Andijan,5699,4.7,123010,0,3
+M01510,Baraka Express,Clothing,Fergana,Fergana,6582,3.8,151964,1,1
+M01511,Shams Center,Clothing,Urgench,Xorazm,9821,6.5,88907,1,9
+M01512,Yulduz Center,Cash,Guliston,Sirdaryo,6922,8.2,147770,1,0
+M01513,Mehr Market,Clothing,Jizzakh,Jizzakh,6418,16.9,66960,0,5
+M01514,Shams Center,Grocery,Fergana,Fergana,1954,26.5,49218,0,4
+M01515,Baxt Plus,Grocery,Nukus,Karakalpakstan,1499,5.9,74251,0,5
+M01516,Mehr Shop,Fuel,Andijan,Andijan,9505,4.9,42471,0,8
+M01517,Zafar Bozor,Electronics,Fergana,Fergana,9638,35.2,190954,0,2
+M01518,Shams Express,Grocery,Samarkand,Samarkand,8624,15.8,111168,0,5
+M01519,Yulduz Bozor,Online Shopping,Termez,Surxondaryo,3538,8.7,79334,0,0
+M01520,Shams Store,Cash,Samarkand,Samarkand,8589,35.8,186626,0,6
+M01521,Yulduz Shop,Clothing,Namangan,Namangan,9358,14.5,72659,0,5
+M01522,Baraka Trade,Electronics,Urgench,Xorazm,1340,30.3,10655,1,5
+M01523,Yulduz Trade,Transport,Urgench,Xorazm,3063,30.0,76044,0,9
+M01524,Baxt Trade,Telecom,Andijan,Andijan,2887,14.0,214179,0,3
+M01525,Yulduz Center,Transport,Guliston,Sirdaryo,5410,17.6,259906,1,3
+M01526,Kumush Express,ATM,Nukus,Karakalpakstan,7912,8.1,43665,0,6
+M01527,Yulduz Trade,Cash,Bukhara,Bukhara,2149,54.2,72702,0,9
+M01528,Kumush Service,Electronics,Guliston,Sirdaryo,4046,20.7,208463,0,2
+M01529,Nur Shop,Pharmacy,Andijan,Andijan,8924,24.1,35281,0,0
+M01530,Kumush Center,Restaurant,Andijan,Andijan,2700,9.0,90706,0,4
+M01531,Nur Bozor,Transport,Samarkand,Samarkand,6973,19.1,149084,1,2
+M01532,Fayz Store,Electronics,Bukhara,Bukhara,4533,26.4,356348,0,4
+M01533,Kumush Service,Online Shopping,Samarkand,Samarkand,1987,1.7,80225,0,2
+M01534,Baxt Center,Pharmacy,Nukus,Karakalpakstan,3699,6.3,37621,1,3
+M01535,Mehr Store,Online Shopping,Qarshi,Qashqadaryo,8602,12.6,61965,0,3
+M01536,Shams Center,Pharmacy,Fergana,Fergana,5777,17.8,786186,0,2
+M01537,Yulduz Express,Telecom,Namangan,Namangan,9929,30.0,148795,0,5
+M01538,Baxt Service,Transport,Tashkent,Tashkent City,5282,52.0,307449,1,1
+M01539,Shams Market,Utilities,Namangan,Namangan,9571,26.3,114799,0,8
+M01540,Kumush Shop,Restaurant,Guliston,Sirdaryo,1246,16.4,61336,0,6
+M01541,Shams Market,Transport,Andijan,Andijan,1384,15.6,49262,1,5
+M01542,Oltin Service,Pharmacy,Bukhara,Bukhara,9424,21.0,79910,0,2
+M01543,Zafar Store,Online Shopping,Termez,Surxondaryo,8143,21.4,206350,1,1
+M01544,Baraka Trade,Transport,Nukus,Karakalpakstan,9974,20.9,40661,0,3
+M01545,Kumush Plus,Electronics,Namangan,Namangan,9325,19.0,206594,0,0
+M01546,Baxt Market,Pharmacy,Namangan,Namangan,6903,30.1,45842,0,2
+M01547,Kumush Trade,Utilities,Fergana,Fergana,9949,24.0,90849,0,6
+M01548,Yulduz Plus,Transport,Guliston,Sirdaryo,1003,12.1,110407,0,7
+M01549,Mehr Service,Telecom,Urgench,Xorazm,9486,26.0,187748,0,7
+M01550,Fayz Express,ATM,Fergana,Fergana,6560,17.0,91487,0,3
+M01551,Fayz Plus,ATM,Tashkent,Tashkent City,8884,4.0,176001,0,0
+M01552,Oltin Plus,Grocery,Termez,Surxondaryo,6446,33.4,89900,0,8
+M01553,Fayz Store,Restaurant,Bukhara,Bukhara,9137,12.1,157587,0,0
+M01554,Baraka Center,Online Shopping,Jizzakh,Jizzakh,6634,18.1,113423,0,4
+M01555,Kumush Center,Clothing,Fergana,Fergana,2936,5.5,135058,1,8
+M01556,Oltin Bozor,Cash,Samarkand,Samarkand,5867,18.0,133536,0,8
+M01557,Nur Trade,Online Shopping,Namangan,Namangan,9602,19.0,106513,1,5
+M01558,Zafar Market,Fuel,Nukus,Karakalpakstan,6905,8.2,293277,0,6
+M01559,Nur Trade,ATM,Guliston,Sirdaryo,7923,7.3,185620,0,4
+M01560,Zafar Plus,Restaurant,Qarshi,Qashqadaryo,6413,11.5,132508,1,4
+M01561,Zafar Service,ATM,Tashkent,Tashkent City,3752,7.8,74768,0,0
+M01562,Kumush Market,Utilities,Fergana,Fergana,4631,8.9,799708,1,8
+M01563,Oltin Store,Transport,Namangan,Namangan,5102,7.2,395959,0,2
+M01564,Baraka Plus,Grocery,Urgench,Xorazm,7713,16.1,52081,0,5
+M01565,Baraka Bozor,Online Shopping,Tashkent,Tashkent City,3866,11.4,187820,1,7
+M01566,Fayz Bozor,Pharmacy,Jizzakh,Jizzakh,5050,23.1,314269,1,8
+M01567,Mehr Center,Clothing,Tashkent,Tashkent City,7228,22.8,172430,1,5
+M01568,Zafar Bozor,Transport,Fergana,Fergana,1932,31.5,115468,0,0
+M01569,Kumush Trade,Fuel,Tashkent,Tashkent City,2134,1.0,71081,0,5
+M01570,Baraka Store,Transport,Andijan,Andijan,1878,18.9,169662,1,4
+M01571,Shams Service,Pharmacy,Andijan,Andijan,3777,33.5,56326,1,7
+M01572,Zafar Service,Telecom,Qarshi,Qashqadaryo,6662,4.8,85888,0,4
+M01573,Yulduz Express,Cash,Andijan,Andijan,7509,18.0,76587,1,7
+M01574,Fayz Center,Clothing,Jizzakh,Jizzakh,5374,37.3,175305,0,4
+M01575,Mehr Shop,Clothing,Nukus,Karakalpakstan,8103,10.4,346122,0,2
+M01576,Kumush Express,ATM,Jizzakh,Jizzakh,2078,47.6,79198,1,6
+M01577,Fayz Center,Telecom,Andijan,Andijan,5484,7.2,85607,1,9
+M01578,Yulduz Shop,Cash,Termez,Surxondaryo,8717,8.6,327269,0,3
+M01579,Kumush Plus,Cash,Tashkent,Tashkent City,6507,23.3,75886,0,6
+M01580,Kumush Express,Fuel,Andijan,Andijan,1283,19.4,12184,0,7
+M01581,Zafar Service,Restaurant,Qarshi,Qashqadaryo,7727,46.9,513366,1,1
+M01582,Zafar Shop,Fuel,Andijan,Andijan,8052,28.8,260374,0,0
+M01583,Zafar Service,Grocery,Namangan,Namangan,5264,16.3,221523,0,5
+M01584,Mehr Express,Utilities,Nukus,Karakalpakstan,7012,18.5,157060,0,9
+M01585,Zafar Express,Transport,Fergana,Fergana,6596,31.2,109207,0,4
+M01586,Baraka Shop,Restaurant,Nukus,Karakalpakstan,3482,22.8,26126,0,1
+M01587,Oltin Bozor,Clothing,Urgench,Xorazm,2160,7.4,97830,0,8
+M01588,Shams Express,Grocery,Fergana,Fergana,7084,23.9,96041,1,8
+M01589,Kumush Store,Transport,Jizzakh,Jizzakh,9592,64.7,104640,0,9
+M01590,Oltin Plus,ATM,Bukhara,Bukhara,4023,31.0,184292,1,8
+M01591,Shams Plus,Clothing,Jizzakh,Jizzakh,2932,9.0,388393,0,2
+M01592,Nur Market,Online Shopping,Namangan,Namangan,1522,19.0,109311,1,3
+M01593,Fayz Trade,Telecom,Andijan,Andijan,5056,49.8,98500,1,7
+M01594,Fayz Bozor,Online Shopping,Urgench,Xorazm,1472,12.8,387021,1,6
+M01595,Fayz Trade,Cash,Bukhara,Bukhara,9180,5.6,61530,1,5
+M01596,Shams Service,Clothing,Jizzakh,Jizzakh,7962,12.2,113228,0,4
+M01597,Shams Bozor,Pharmacy,Fergana,Fergana,4435,10.9,118777,0,9
+M01598,Mehr Shop,Clothing,Qarshi,Qashqadaryo,4874,23.7,61567,0,8
+M01599,Baraka Plus,Online Shopping,Jizzakh,Jizzakh,2904,7.4,88410,1,0
+M01600,Zafar Express,Clothing,Fergana,Fergana,7650,10.6,89299,0,6
+M01601,Yulduz Bozor,Cash,Urgench,Xorazm,8626,16.7,215975,1,7
+M01602,Fayz Express,Transport,Namangan,Namangan,8205,12.5,92080,1,4
+M01603,Shams Plus,Clothing,Nukus,Karakalpakstan,2041,7.3,94149,0,9
+M01604,Zafar Service,Pharmacy,Bukhara,Bukhara,5366,19.1,169588,1,3
+M01605,Baraka Trade,Grocery,Urgench,Xorazm,8371,36.2,78685,0,5
+M01606,Yulduz Center,Telecom,Jizzakh,Jizzakh,3327,25.8,56151,1,0
+M01607,Yulduz Shop,Online Shopping,Bukhara,Bukhara,2215,22.4,970475,0,3
+M01608,Shams Express,Fuel,Guliston,Sirdaryo,6749,35.8,111328,0,9
+M01609,Fayz Shop,Transport,Tashkent,Tashkent City,1245,27.0,139358,0,6
+M01610,Baraka Shop,Telecom,Urgench,Xorazm,3560,14.0,93824,1,6
+M01611,Baxt Plus,Clothing,Jizzakh,Jizzakh,2878,25.5,34933,1,0
+M01612,Nur Store,Utilities,Urgench,Xorazm,5072,41.0,76914,0,0
+M01613,Nur Service,Online Shopping,Guliston,Sirdaryo,3940,18.6,47662,0,5
+M01614,Yulduz Plus,Fuel,Jizzakh,Jizzakh,7637,10.2,179850,1,1
+M01615,Nur Service,Utilities,Termez,Surxondaryo,4644,1.9,162305,0,3
+M01616,Zafar Bozor,Fuel,Bukhara,Bukhara,4803,21.5,185064,1,3
+M01617,Oltin Bozor,Fuel,Andijan,Andijan,8202,29.6,52944,1,1
+M01618,Yulduz Bozor,Telecom,Bukhara,Bukhara,2785,11.5,23513,0,9
+M01619,Nur Center,Fuel,Samarkand,Samarkand,8851,13.2,18912,0,9
+M01620,Nur Store,Grocery,Nukus,Karakalpakstan,6967,19.3,160122,1,8
+M01621,Fayz Express,Online Shopping,Tashkent,Tashkent City,4184,26.4,84708,0,4
+M01622,Yulduz Plus,Utilities,Bukhara,Bukhara,4057,25.8,41818,1,1
+M01623,Baxt Shop,Pharmacy,Tashkent,Tashkent City,2506,31.3,180391,0,8
+M01624,Oltin Store,Electronics,Urgench,Xorazm,1453,20.5,233036,1,9
+M01625,Shams Express,Restaurant,Namangan,Namangan,4527,34.1,110780,1,2
+M01626,Zafar Shop,Utilities,Jizzakh,Jizzakh,5123,3.1,72861,0,7
+M01627,Fayz Express,Restaurant,Namangan,Namangan,7958,21.9,97118,0,3
+M01628,Baraka Store,Telecom,Qarshi,Qashqadaryo,6153,10.9,296180,1,8
+M01629,Yulduz Plus,Grocery,Namangan,Namangan,9637,24.0,270493,0,9
+M01630,Zafar Center,Telecom,Fergana,Fergana,1201,25.5,96815,1,3
+M01631,Zafar Service,Grocery,Jizzakh,Jizzakh,3692,43.0,129446,0,5
+M01632,Yulduz Trade,Restaurant,Andijan,Andijan,7585,20.9,4415553,1,6
+M01633,Kumush Trade,Online Shopping,Bukhara,Bukhara,1295,36.0,630158,1,3
+M01634,Fayz Bozor,Electronics,Namangan,Namangan,2414,33.4,120499,0,9
+M01635,Yulduz Trade,Cash,Samarkand,Samarkand,8906,7.7,364909,0,7
+M01636,Baxt Plus,Transport,Termez,Surxondaryo,9014,20.7,158089,0,4
+M01637,Yulduz Service,Utilities,Andijan,Andijan,3984,47.1,380772,0,0
+M01638,Zafar Store,Restaurant,Nukus,Karakalpakstan,2440,6.0,65711,0,2
+M01639,Zafar Bozor,Pharmacy,Urgench,Xorazm,6786,8.2,210508,0,7
+M01640,Kumush Shop,Pharmacy,Fergana,Fergana,4225,22.4,263944,0,0
+M01641,Baraka Market,Online Shopping,Nukus,Karakalpakstan,2275,27.0,114718,0,1
+M01642,Shams Store,Grocery,Samarkand,Samarkand,4991,19.3,83007,0,4
+M01643,Baraka Market,Transport,Qarshi,Qashqadaryo,5089,19.1,139994,0,0
+M01644,Oltin Plus,ATM,Andijan,Andijan,5082,16.5,39505,1,2
+M01645,Kumush Bozor,Fuel,Qarshi,Qashqadaryo,4868,8.2,85306,0,9
+M01646,Nur Trade,Electronics,Tashkent,Tashkent City,7434,1.3,75266,0,9
+M01647,Yulduz Market,Clothing,Samarkand,Samarkand,6445,31.6,231625,0,2
+M01648,Nur Shop,Utilities,Jizzakh,Jizzakh,8882,2.5,176545,0,4
+M01649,Baxt Store,Pharmacy,Termez,Surxondaryo,6555,19.4,196017,1,8
+M01650,Baxt Service,Utilities,Qarshi,Qashqadaryo,9085,6.9,300003,1,0
+M01651,Baxt Express,Electronics,Samarkand,Samarkand,5117,21.3,47856,0,5
+M01652,Oltin Plus,Cash,Fergana,Fergana,4414,12.3,426787,0,8
+M01653,Yulduz Market,Cash,Termez,Surxondaryo,9788,37.1,243325,1,1
+M01654,Yulduz Trade,Electronics,Urgench,Xorazm,1016,33.1,38990,0,9
+M01655,Zafar Store,Electronics,Guliston,Sirdaryo,9726,32.9,218095,0,5
+M01656,Baraka Bozor,Utilities,Jizzakh,Jizzakh,4110,35.8,184387,0,0
+M01657,Baraka Market,Online Shopping,Samarkand,Samarkand,2873,23.4,162755,1,1
+M01658,Mehr Express,Online Shopping,Andijan,Andijan,8023,31.6,55664,1,9
+M01659,Shams Service,Electronics,Samarkand,Samarkand,5021,5.0,116107,0,0
+M01660,Kumush Plus,Transport,Samarkand,Samarkand,9256,26.2,199491,0,7
+M01661,Kumush Shop,Pharmacy,Guliston,Sirdaryo,5057,18.0,121293,1,3
+M01662,Zafar Plus,ATM,Andijan,Andijan,9866,25.7,40876,1,1
+M01663,Yulduz Trade,Online Shopping,Guliston,Sirdaryo,4718,10.4,88171,0,4
+M01664,Nur Express,Transport,Guliston,Sirdaryo,2625,6.5,156425,0,7
+M01665,Kumush Plus,Utilities,Nukus,Karakalpakstan,1303,32.6,101777,0,6
+M01666,Shams Center,Pharmacy,Fergana,Fergana,4294,20.8,530739,0,3
+M01667,Baraka Express,Fuel,Samarkand,Samarkand,6414,12.0,215241,0,3
+M01668,Oltin Service,Telecom,Bukhara,Bukhara,6905,5.3,208648,0,4
+M01669,Oltin Service,Telecom,Qarshi,Qashqadaryo,3499,25.7,136510,1,2
+M01670,Kumush Express,Pharmacy,Jizzakh,Jizzakh,5704,17.5,83288,1,6
+M01671,Oltin Shop,Transport,Fergana,Fergana,1101,5.1,460470,1,4
+M01672,Fayz Plus,Pharmacy,Bukhara,Bukhara,7047,16.8,88226,0,0
+M01673,Fayz Center,Grocery,Andijan,Andijan,7112,4.4,125883,0,4
+M01674,Baxt Center,ATM,Qarshi,Qashqadaryo,1185,38.5,111259,0,1
+M01675,Nur Service,Utilities,Termez,Surxondaryo,8786,37.2,39398,1,8
+M01676,Baxt Service,Cash,Samarkand,Samarkand,7706,14.3,169814,1,4
+M01677,Zafar Service,Transport,Bukhara,Bukhara,1302,37.1,260037,0,1
+M01678,Zafar Center,ATM,Bukhara,Bukhara,1667,19.5,75386,1,2
+M01679,Mehr Shop,Transport,Urgench,Xorazm,8444,21.7,94154,1,0
+M01680,Nur Express,Cash,Namangan,Namangan,8566,48.7,61865,1,1
+M01681,Shams Service,Fuel,Qarshi,Qashqadaryo,6508,13.8,501439,1,5
+M01682,Baxt Market,Electronics,Samarkand,Samarkand,3849,24.3,168714,0,0
+M01683,Fayz Store,Pharmacy,Samarkand,Samarkand,4003,15.8,342324,0,5
+M01684,Baraka Plus,Fuel,Samarkand,Samarkand,5333,55.7,85851,0,9
+M01685,Yulduz Service,Telecom,Nukus,Karakalpakstan,6295,5.6,186457,0,2
+M01686,Yulduz Store,Clothing,Tashkent,Tashkent City,7233,21.6,34190,0,0
+M01687,Mehr Market,Clothing,Fergana,Fergana,5589,21.4,73986,0,2
+M01688,Zafar Service,Clothing,Namangan,Namangan,5036,11.9,607843,0,8
+M01689,Oltin Shop,Online Shopping,Nukus,Karakalpakstan,6806,43.3,166053,1,8
+M01690,Shams Market,Restaurant,Qarshi,Qashqadaryo,9009,11.0,92105,0,4
+M01691,Nur Store,Grocery,Nukus,Karakalpakstan,5669,3.3,27496,0,2
+M01692,Yulduz Market,ATM,Urgench,Xorazm,5468,10.4,138650,1,3
+M01693,Zafar Plus,Telecom,Urgench,Xorazm,4888,51.4,85657,0,6
+M01694,Nur Trade,Utilities,Qarshi,Qashqadaryo,9155,14.0,236359,0,3
+M01695,Nur Service,Grocery,Fergana,Fergana,1214,41.7,37511,0,7
+M01696,Mehr Service,Fuel,Fergana,Fergana,1976,14.3,244510,1,7
+M01697,Kumush Store,Pharmacy,Bukhara,Bukhara,4185,28.2,83473,0,5
+M01698,Zafar Store,Telecom,Nukus,Karakalpakstan,4811,2.7,52347,0,5
+M01699,Kumush Plus,ATM,Qarshi,Qashqadaryo,3901,6.5,139089,0,3
+M01700,Fayz Express,Restaurant,Guliston,Sirdaryo,4677,16.1,513457,0,4
+M01701,Nur Trade,Pharmacy,Namangan,Namangan,2804,34.8,213845,0,8
+M01702,Shams Center,Restaurant,Termez,Surxondaryo,9145,39.8,153690,0,1
+M01703,Baraka Center,Cash,Bukhara,Bukhara,3580,9.7,78045,1,4
+M01704,Kumush Express,Transport,Samarkand,Samarkand,2482,7.2,372833,0,3
+M01705,Fayz Trade,Utilities,Guliston,Sirdaryo,9716,18.6,158467,0,0
+M01706,Yulduz Express,Transport,Namangan,Namangan,9795,10.3,24725,0,0
+M01707,Kumush Express,Cash,Qarshi,Qashqadaryo,2978,49.9,220641,0,0
+M01708,Baxt Bozor,Cash,Namangan,Namangan,3428,44.3,145312,0,6
+M01709,Zafar Trade,ATM,Namangan,Namangan,1886,26.6,108752,0,9
+M01710,Zafar Center,Fuel,Urgench,Xorazm,4051,24.1,323394,1,0
+M01711,Baxt Market,ATM,Namangan,Namangan,8799,18.3,66312,0,8
+M01712,Zafar Bozor,Electronics,Tashkent,Tashkent City,2923,3.3,78452,1,2
+M01713,Oltin Market,Electronics,Andijan,Andijan,5630,5.4,103711,1,8
+M01714,Zafar Shop,Grocery,Urgench,Xorazm,7204,9.4,166166,0,0
+M01715,Shams Center,Utilities,Urgench,Xorazm,9279,26.2,73301,1,2
+M01716,Yulduz Plus,ATM,Qarshi,Qashqadaryo,2654,3.2,53831,0,4
+M01717,Zafar Trade,Clothing,Urgench,Xorazm,1331,15.6,101386,0,2
+M01718,Mehr Trade,Utilities,Urgench,Xorazm,6655,26.2,79657,0,9
+M01719,Oltin Shop,ATM,Fergana,Fergana,5921,15.8,445501,0,5
+M01720,Nur Store,Telecom,Nukus,Karakalpakstan,1631,25.4,22950,0,3
+M01721,Mehr Center,Pharmacy,Urgench,Xorazm,3765,33.6,240690,1,8
+M01722,Nur Center,Transport,Termez,Surxondaryo,4639,47.0,23096,1,9
+M01723,Oltin Trade,Grocery,Fergana,Fergana,4220,19.3,111060,0,8
+M01724,Kumush Service,Pharmacy,Samarkand,Samarkand,8114,19.8,49741,0,7
+M01725,Baxt Trade,ATM,Urgench,Xorazm,7677,15.3,34153,1,3
+M01726,Mehr Plus,Clothing,Tashkent,Tashkent City,5890,2.4,340004,0,7
+M01727,Fayz Market,Online Shopping,Urgench,Xorazm,7685,11.8,211323,1,8
+M01728,Yulduz Express,Grocery,Fergana,Fergana,5805,27.2,123956,0,4
+M01729,Oltin Express,Online Shopping,Fergana,Fergana,5270,49.1,130914,1,3
+M01730,Nur Trade,Electronics,Guliston,Sirdaryo,6515,27.9,63980,0,8
+M01731,Fayz Market,ATM,Bukhara,Bukhara,1313,21.0,81562,0,1
+M01732,Baraka Trade,Online Shopping,Nukus,Karakalpakstan,1055,10.5,67921,0,9
+M01733,Fayz Trade,Cash,Termez,Surxondaryo,9409,28.1,77454,0,1
+M01734,Kumush Store,Restaurant,Jizzakh,Jizzakh,6641,1.2,99509,1,7
+M01735,Baraka Express,Utilities,Jizzakh,Jizzakh,1074,28.7,341905,0,5
+M01736,Oltin Trade,Electronics,Termez,Surxondaryo,9295,18.6,189524,0,1
+M01737,Mehr Market,Telecom,Fergana,Fergana,5748,4.1,151214,1,0
+M01738,Zafar Bozor,Fuel,Jizzakh,Jizzakh,4779,29.3,53295,1,2
+M01739,Zafar Market,Fuel,Termez,Surxondaryo,2814,26.3,168632,0,5
+M01740,Mehr Bozor,ATM,Fergana,Fergana,7366,23.3,16086,1,5
+M01741,Oltin Store,Online Shopping,Nukus,Karakalpakstan,5455,49.6,67734,0,0
+M01742,Fayz Express,Telecom,Namangan,Namangan,9586,11.3,43940,0,5
+M01743,Fayz Service,Telecom,Tashkent,Tashkent City,1705,29.7,87541,0,2
+M01744,Fayz Trade,Telecom,Termez,Surxondaryo,7713,25.5,93666,0,3
+M01745,Baxt Shop,Telecom,Urgench,Xorazm,1203,26.2,83276,1,8
+M01746,Zafar Shop,Utilities,Tashkent,Tashkent City,6489,32.6,116120,0,7
+M01747,Yulduz Express,Transport,Nukus,Karakalpakstan,8609,40.7,132832,1,9
+M01748,Yulduz Bozor,ATM,Namangan,Namangan,6222,31.6,343945,0,6
+M01749,Nur Service,Utilities,Guliston,Sirdaryo,2960,12.2,61629,0,6
+M01750,Zafar Service,Fuel,Urgench,Xorazm,5783,23.1,60475,0,8
+M01751,Baraka Express,Electronics,Tashkent,Tashkent City,3295,16.6,108035,0,0
+M01752,Baxt Plus,Telecom,Andijan,Andijan,5500,38.7,150147,1,4
+M01753,Shams Market,Electronics,Jizzakh,Jizzakh,1169,26.3,121406,0,9
+M01754,Zafar Store,Online Shopping,Qarshi,Qashqadaryo,9433,17.4,507854,0,5
+M01755,Kumush Trade,Fuel,Samarkand,Samarkand,8290,42.2,231880,1,2
+M01756,Yulduz Store,Pharmacy,Nukus,Karakalpakstan,1192,12.2,353397,0,6
+M01757,Baxt Plus,Utilities,Tashkent,Tashkent City,6069,40.0,169118,0,0
+M01758,Shams Shop,Telecom,Bukhara,Bukhara,5698,8.9,125945,1,8
+M01759,Zafar Market,Pharmacy,Andijan,Andijan,8287,27.2,15534,0,3
+M01760,Baraka Shop,Cash,Jizzakh,Jizzakh,4079,8.0,122189,1,4
+M01761,Yulduz Center,Transport,Bukhara,Bukhara,4980,20.9,90370,1,1
+M01762,Fayz Store,Utilities,Fergana,Fergana,4149,26.7,92281,0,2
+M01763,Fayz Shop,Telecom,Qarshi,Qashqadaryo,6765,23.5,258082,0,7
+M01764,Nur Bozor,Transport,Urgench,Xorazm,4320,30.6,40442,0,0
+M01765,Yulduz Center,ATM,Qarshi,Qashqadaryo,5748,10.5,278918,0,3
+M01766,Zafar Plus,Fuel,Samarkand,Samarkand,1572,6.3,193172,0,9
+M01767,Nur Market,Telecom,Jizzakh,Jizzakh,7987,18.3,139134,0,5
+M01768,Kumush Store,Electronics,Guliston,Sirdaryo,2257,4.3,222706,0,9
+M01769,Fayz Trade,Cash,Jizzakh,Jizzakh,4074,23.6,27597,1,9
+M01770,Shams Bozor,Pharmacy,Bukhara,Bukhara,7086,20.7,156886,0,1
+M01771,Mehr Store,Transport,Namangan,Namangan,2045,21.8,35159,0,4
+M01772,Baxt Service,Grocery,Tashkent,Tashkent City,6835,30.8,152911,0,9
+M01773,Zafar Store,Telecom,Urgench,Xorazm,3105,63.4,43943,0,3
+M01774,Kumush Store,Pharmacy,Bukhara,Bukhara,9651,18.6,60593,0,0
+M01775,Shams Plus,Grocery,Guliston,Sirdaryo,6010,44.5,79663,0,5
+M01776,Kumush Express,Grocery,Qarshi,Qashqadaryo,5965,13.3,91178,1,4
+M01777,Oltin Express,Pharmacy,Namangan,Namangan,3496,47.3,133109,1,6
+M01778,Nur Store,ATM,Nukus,Karakalpakstan,8653,21.8,201181,1,4
+M01779,Zafar Trade,Clothing,Andijan,Andijan,2497,31.0,778479,0,5
+M01780,Baxt Express,ATM,Samarkand,Samarkand,6970,25.8,66285,1,1
+M01781,Shams Shop,Telecom,Samarkand,Samarkand,8978,20.6,125914,1,1
+M01782,Kumush Center,Transport,Fergana,Fergana,5646,6.4,105721,1,0
+M01783,Baxt Express,Clothing,Guliston,Sirdaryo,3899,11.8,48349,1,0
+M01784,Kumush Bozor,Utilities,Bukhara,Bukhara,8139,31.0,23489,1,6
+M01785,Baxt Bozor,Electronics,Guliston,Sirdaryo,1317,13.9,52774,0,8
+M01786,Zafar Market,Online Shopping,Samarkand,Samarkand,2781,46.7,72182,0,3
+M01787,Nur Center,Cash,Termez,Surxondaryo,6174,1.6,83167,0,1
+M01788,Baraka Shop,Telecom,Guliston,Sirdaryo,3568,27.1,35943,0,7
+M01789,Kumush Bozor,Electronics,Tashkent,Tashkent City,7690,12.7,88442,1,0
+M01790,Kumush Center,Pharmacy,Namangan,Namangan,2030,5.8,97859,0,0
+M01791,Fayz Express,ATM,Fergana,Fergana,2537,17.1,54822,0,5
+M01792,Kumush Bozor,Telecom,Fergana,Fergana,7877,22.6,206304,1,0
+M01793,Zafar Bozor,Utilities,Jizzakh,Jizzakh,5483,12.7,28690,0,1
+M01794,Yulduz Service,ATM,Namangan,Namangan,8041,38.0,140867,1,2
+M01795,Oltin Express,Electronics,Samarkand,Samarkand,1948,18.0,93888,1,9
+M01796,Fayz Express,Restaurant,Qarshi,Qashqadaryo,5442,17.8,120831,0,4
+M01797,Yulduz Trade,Clothing,Nukus,Karakalpakstan,2743,32.8,157335,0,6
+M01798,Mehr Service,Fuel,Bukhara,Bukhara,8393,11.9,142738,0,3
+M01799,Kumush Trade,Online Shopping,Samarkand,Samarkand,3325,36.3,23577,0,9
+M01800,Shams Plus,Telecom,Namangan,Namangan,7298,3.6,91979,1,8
+M01801,Zafar Plus,Clothing,Jizzakh,Jizzakh,8159,30.7,163962,1,8
+M01802,Nur Plus,Utilities,Tashkent,Tashkent City,7288,39.0,168433,1,2
+M01803,Baxt Express,Grocery,Qarshi,Qashqadaryo,2630,41.5,59653,0,3
+M01804,Baraka Service,Restaurant,Namangan,Namangan,2369,9.0,47536,0,1
+M01805,Kumush Bozor,Telecom,Qarshi,Qashqadaryo,1834,23.6,178280,0,6
+M01806,Fayz Store,Fuel,Jizzakh,Jizzakh,8550,22.8,166983,0,7
+M01807,Baraka Store,Telecom,Namangan,Namangan,4333,10.4,47638,1,4
+M01808,Shams Express,Restaurant,Andijan,Andijan,2713,2.8,40394,0,0
+M01809,Baraka Bozor,Electronics,Andijan,Andijan,9843,13.5,81341,1,2
+M01810,Shams Market,Transport,Termez,Surxondaryo,3208,15.9,59796,0,5
+M01811,Shams Service,Grocery,Urgench,Xorazm,5855,26.7,122853,0,5
+M01812,Baxt Trade,Clothing,Andijan,Andijan,7135,8.1,325850,0,4
+M01813,Mehr Express,Pharmacy,Samarkand,Samarkand,5743,13.2,40672,1,9
+M01814,Baraka Express,Utilities,Fergana,Fergana,5502,8.1,98498,0,1
+M01815,Shams Store,Cash,Termez,Surxondaryo,8146,27.2,59059,1,0
+M01816,Baraka Express,Restaurant,Nukus,Karakalpakstan,1641,33.2,199993,0,3
+M01817,Shams Market,Cash,Nukus,Karakalpakstan,5231,29.1,210615,0,9
+M01818,Oltin Market,Cash,Termez,Surxondaryo,9420,15.1,52785,0,9
+M01819,Shams Bozor,ATM,Nukus,Karakalpakstan,7482,13.3,261175,0,2
+M01820,Nur Service,Transport,Termez,Surxondaryo,5291,20.4,211191,0,5
+M01821,Yulduz Service,Clothing,Qarshi,Qashqadaryo,1598,8.4,94756,0,0
+M01822,Mehr Plus,Restaurant,Samarkand,Samarkand,4615,25.7,196540,0,3
+M01823,Zafar Trade,Fuel,Tashkent,Tashkent City,3490,14.0,36230,0,9
+M01824,Oltin Center,Cash,Guliston,Sirdaryo,3197,26.2,497093,0,4
+M01825,Zafar Bozor,Cash,Fergana,Fergana,4828,21.8,112943,0,1
+M01826,Shams Trade,Online Shopping,Urgench,Xorazm,3005,39.6,295632,0,7
+M01827,Nur Center,ATM,Fergana,Fergana,3990,8.0,66833,0,9
+M01828,Nur Plus,Telecom,Namangan,Namangan,5330,16.8,30422,1,3
+M01829,Nur Express,Fuel,Samarkand,Samarkand,1298,10.6,156829,0,6
+M01830,Fayz Center,Online Shopping,Jizzakh,Jizzakh,2124,23.2,59585,1,6
+M01831,Fayz Plus,Pharmacy,Samarkand,Samarkand,5448,7.1,64983,1,8
+M01832,Zafar Service,Telecom,Andijan,Andijan,3079,11.9,130463,0,9
+M01833,Mehr Trade,Transport,Andijan,Andijan,3386,23.5,210079,0,6
+M01834,Fayz Center,Utilities,Bukhara,Bukhara,3847,34.3,143271,0,7
+M01835,Zafar Shop,Transport,Guliston,Sirdaryo,5024,39.6,250601,0,0
+M01836,Kumush Trade,Utilities,Fergana,Fergana,1627,22.1,91632,1,3
+M01837,Kumush Bozor,Transport,Qarshi,Qashqadaryo,8772,22.8,319680,1,7
+M01838,Oltin Store,Fuel,Andijan,Andijan,3285,18.4,207892,0,9
+M01839,Baxt Market,Cash,Fergana,Fergana,2056,2.8,45131,0,7
+M01840,Kumush Center,Fuel,Jizzakh,Jizzakh,7882,8.9,178913,1,3
+M01841,Zafar Plus,Restaurant,Guliston,Sirdaryo,5527,11.9,109829,0,1
+M01842,Fayz Bozor,Utilities,Namangan,Namangan,4783,21.3,56801,0,5
+M01843,Zafar Center,ATM,Fergana,Fergana,4335,0.2,169994,0,0
+M01844,Mehr Express,Fuel,Andijan,Andijan,2149,28.4,150529,0,7
+M01845,Baraka Express,Electronics,Tashkent,Tashkent City,3753,4.5,182625,0,3
+M01846,Kumush Store,Fuel,Termez,Surxondaryo,8108,14.6,44444,0,6
+M01847,Yulduz Plus,Telecom,Jizzakh,Jizzakh,4541,35.3,18520,0,0
+M01848,Baraka Express,Pharmacy,Nukus,Karakalpakstan,7010,26.7,81186,0,2
+M01849,Baraka Plus,Telecom,Guliston,Sirdaryo,2078,14.9,85402,0,0
+M01850,Zafar Shop,Electronics,Urgench,Xorazm,3712,20.5,156204,1,3
+M01851,Nur Market,Online Shopping,Guliston,Sirdaryo,6127,36.5,12278,0,8
+M01852,Yulduz Service,Electronics,Tashkent,Tashkent City,1077,18.8,176958,0,3
+M01853,Yulduz Trade,Clothing,Bukhara,Bukhara,4988,9.5,205322,0,8
+M01854,Kumush Store,Pharmacy,Namangan,Namangan,4227,19.7,216079,0,5
+M01855,Mehr Express,Restaurant,Fergana,Fergana,9014,33.8,208607,1,4
+M01856,Yulduz Service,Clothing,Guliston,Sirdaryo,4688,15.9,44450,1,6
+M01857,Zafar Center,ATM,Andijan,Andijan,1473,1.7,53092,0,4
+M01858,Nur Trade,Electronics,Bukhara,Bukhara,8814,7.6,90969,0,5
+M01859,Baraka Bozor,Fuel,Nukus,Karakalpakstan,7301,4.9,94458,0,3
+M01860,Baxt Store,Online Shopping,Nukus,Karakalpakstan,5489,15.9,50089,0,9
+M01861,Yulduz Bozor,Fuel,Namangan,Namangan,1341,15.1,123334,0,1
+M01862,Oltin Service,Online Shopping,Termez,Surxondaryo,3177,8.2,155531,0,8
+M01863,Mehr Service,Grocery,Tashkent,Tashkent City,5191,13.8,141670,0,6
+M01864,Fayz Trade,Fuel,Namangan,Namangan,1770,19.8,121913,1,5
+M01865,Nur Express,Telecom,Bukhara,Bukhara,4150,12.4,149479,0,3
+M01866,Fayz Service,ATM,Tashkent,Tashkent City,3887,9.9,89856,0,2
+M01867,Shams Bozor,Transport,Samarkand,Samarkand,2954,4.3,168659,0,2
+M01868,Baxt Bozor,Restaurant,Jizzakh,Jizzakh,3007,7.0,153289,0,3
+M01869,Zafar Plus,Telecom,Nukus,Karakalpakstan,9866,22.2,58995,0,0
+M01870,Shams Express,Grocery,Guliston,Sirdaryo,8277,33.0,484999,0,1
+M01871,Baxt Service,Restaurant,Bukhara,Bukhara,5710,23.3,376271,0,5
+M01872,Oltin Center,Fuel,Guliston,Sirdaryo,9351,22.7,194245,0,7
+M01873,Oltin Bozor,ATM,Fergana,Fergana,9226,21.0,277216,1,9
+M01874,Mehr Plus,ATM,Samarkand,Samarkand,2210,30.0,143805,1,3
+M01875,Mehr Trade,Grocery,Bukhara,Bukhara,5994,19.9,85294,1,9
+M01876,Oltin Trade,Clothing,Nukus,Karakalpakstan,6959,18.0,276725,0,7
+M01877,Fayz Express,Cash,Termez,Surxondaryo,9660,13.6,142422,0,1
+M01878,Kumush Express,Pharmacy,Urgench,Xorazm,8763,38.0,200913,0,2
+M01879,Zafar Plus,Clothing,Guliston,Sirdaryo,9560,3.9,391074,0,4
+M01880,Zafar Service,Pharmacy,Jizzakh,Jizzakh,5855,35.4,33106,0,1
+M01881,Zafar Plus,Telecom,Fergana,Fergana,1614,34.7,165512,0,4
+M01882,Fayz Service,Fuel,Tashkent,Tashkent City,2655,27.9,55778,0,1
+M01883,Kumush Store,Online Shopping,Samarkand,Samarkand,3465,15.0,100613,1,3
+M01884,Kumush Center,Electronics,Guliston,Sirdaryo,9682,11.1,62205,1,3
+M01885,Shams Plus,Telecom,Samarkand,Samarkand,9179,8.8,293092,0,2
+M01886,Shams Service,Online Shopping,Samarkand,Samarkand,3028,6.7,167631,1,1
+M01887,Zafar Express,ATM,Urgench,Xorazm,3908,36.6,121074,0,7
+M01888,Nur Store,Online Shopping,Fergana,Fergana,2812,44.5,33443,0,0
+M01889,Yulduz Store,Utilities,Andijan,Andijan,5365,11.3,75388,0,3
+M01890,Shams Bozor,Grocery,Nukus,Karakalpakstan,9422,11.5,79043,1,7
+M01891,Zafar Express,Telecom,Termez,Surxondaryo,2975,44.0,147244,0,7
+M01892,Baxt Service,Electronics,Guliston,Sirdaryo,9500,44.5,81823,0,3
+M01893,Yulduz Bozor,Grocery,Termez,Surxondaryo,8511,35.4,89396,1,0
+M01894,Fayz Shop,Online Shopping,Fergana,Fergana,9246,11.7,16416,0,7
+M01895,Kumush Market,Transport,Bukhara,Bukhara,4056,28.1,242342,0,8
+M01896,Baraka Market,ATM,Andijan,Andijan,4452,8.3,44745,0,1
+M01897,Baxt Market,Utilities,Namangan,Namangan,6287,11.8,65890,0,7
+M01898,Baxt Plus,Pharmacy,Termez,Surxondaryo,5458,5.6,174740,0,5
+M01899,Baxt Store,Utilities,Termez,Surxondaryo,5397,13.0,231361,1,3
+M01900,Zafar Center,Clothing,Tashkent,Tashkent City,7218,9.6,116389,1,9
+M01901,Nur Express,Telecom,Tashkent,Tashkent City,6789,33.9,153634,0,7
+M01902,Shams Express,Restaurant,Guliston,Sirdaryo,5893,22.1,245994,0,2
+M01903,Mehr Market,Clothing,Nukus,Karakalpakstan,6879,20.7,14155,1,5
+M01904,Baxt Store,Telecom,Guliston,Sirdaryo,4308,4.4,231698,0,2
+M01905,Yulduz Center,Clothing,Samarkand,Samarkand,2723,14.6,20348,0,2
+M01906,Mehr Plus,Electronics,Andijan,Andijan,7092,1.3,88417,0,7
+M01907,Kumush Plus,Clothing,Fergana,Fergana,3167,10.1,159810,0,3
+M01908,Nur Shop,Telecom,Bukhara,Bukhara,9035,13.9,52433,0,3
+M01909,Zafar Store,Online Shopping,Nukus,Karakalpakstan,3871,19.4,97279,0,5
+M01910,Kumush Center,Restaurant,Namangan,Namangan,1769,8.1,8980,0,2
+M01911,Yulduz Center,Online Shopping,Fergana,Fergana,8144,7.0,40251,1,5
+M01912,Fayz Market,Utilities,Nukus,Karakalpakstan,7663,19.2,59818,0,1
+M01913,Nur Express,Transport,Andijan,Andijan,4722,22.5,51390,1,2
+M01914,Fayz Center,Restaurant,Termez,Surxondaryo,8436,14.0,100527,0,3
+M01915,Baxt Center,Utilities,Bukhara,Bukhara,6639,26.4,449684,1,8
+M01916,Baxt Service,Electronics,Namangan,Namangan,6208,10.8,224286,1,2
+M01917,Baxt Bozor,Pharmacy,Nukus,Karakalpakstan,4309,10.8,231406,1,9
+M01918,Baraka Trade,Fuel,Namangan,Namangan,9251,44.7,163964,1,2
+M01919,Kumush Bozor,Telecom,Nukus,Karakalpakstan,1014,23.4,36269,0,6
+M01920,Kumush Store,Cash,Bukhara,Bukhara,4066,14.0,293017,0,7
+M01921,Yulduz Trade,ATM,Nukus,Karakalpakstan,5866,14.9,153528,1,6
+M01922,Baraka Bozor,Clothing,Nukus,Karakalpakstan,7312,21.3,172534,0,4
+M01923,Zafar Bozor,Telecom,Fergana,Fergana,4239,3.0,216811,1,7
+M01924,Zafar Express,Electronics,Fergana,Fergana,3832,34.0,170814,0,7
+M01925,Zafar Bozor,Electronics,Nukus,Karakalpakstan,8514,8.7,152488,0,2
+M01926,Shams Shop,Restaurant,Andijan,Andijan,8883,9.9,59065,0,3
+M01927,Zafar Center,Pharmacy,Andijan,Andijan,8487,31.5,50168,1,2
+M01928,Zafar Trade,Electronics,Fergana,Fergana,4928,38.2,50466,0,1
+M01929,Fayz Market,Electronics,Namangan,Namangan,6874,30.5,11077,0,0
+M01930,Yulduz Service,Fuel,Namangan,Namangan,9756,30.3,75656,0,3
+M01931,Zafar Center,Fuel,Termez,Surxondaryo,1900,21.6,175187,1,0
+M01932,Yulduz Bozor,Restaurant,Urgench,Xorazm,4406,14.2,278852,1,4
+M01933,Fayz Trade,Transport,Fergana,Fergana,6850,20.8,63564,1,2
+M01934,Nur Trade,Grocery,Urgench,Xorazm,1383,4.9,104719,1,1
+M01935,Baraka Service,Grocery,Samarkand,Samarkand,5014,21.4,75794,1,1
+M01936,Yulduz Service,Cash,Jizzakh,Jizzakh,9049,37.8,136421,1,2
+M01937,Shams Express,Electronics,Bukhara,Bukhara,9555,21.1,38151,0,3
+M01938,Baxt Market,Grocery,Nukus,Karakalpakstan,3132,14.8,74697,0,4
+M01939,Baraka Plus,Transport,Nukus,Karakalpakstan,5648,24.1,60156,0,2
+M01940,Mehr Express,Telecom,Andijan,Andijan,4722,25.0,190079,0,8
+M01941,Baraka Service,Fuel,Tashkent,Tashkent City,3369,11.5,29164,1,8
+M01942,Kumush Trade,Electronics,Urgench,Xorazm,8697,67.1,154440,0,2
+M01943,Kumush Market,Cash,Samarkand,Samarkand,6412,28.2,240111,0,9
+M01944,Oltin Market,Pharmacy,Jizzakh,Jizzakh,1545,9.1,35964,0,2
+M01945,Zafar Center,Transport,Samarkand,Samarkand,5924,15.6,69503,0,2
+M01946,Kumush Shop,Utilities,Qarshi,Qashqadaryo,1000,12.8,58549,1,2
+M01947,Nur Express,Transport,Jizzakh,Jizzakh,4264,25.7,418349,1,1
+M01948,Kumush Service,Restaurant,Qarshi,Qashqadaryo,1508,19.5,349928,0,3
+M01949,Shams Shop,Telecom,Andijan,Andijan,7251,18.3,247270,1,2
+M01950,Baxt Plus,Online Shopping,Qarshi,Qashqadaryo,9440,14.9,164397,0,0
+M01951,Nur Center,Utilities,Jizzakh,Jizzakh,5498,16.4,241367,0,0
+M01952,Baraka Express,Cash,Qarshi,Qashqadaryo,1575,22.9,191845,1,0
+M01953,Yulduz Plus,Online Shopping,Andijan,Andijan,5072,23.3,428749,1,5
+M01954,Oltin Express,Clothing,Bukhara,Bukhara,4983,14.8,124063,1,6
+M01955,Nur Service,ATM,Termez,Surxondaryo,9707,5.7,16615,1,8
+M01956,Oltin Store,Electronics,Bukhara,Bukhara,6413,10.2,80887,1,4
+M01957,Zafar Service,Electronics,Fergana,Fergana,5799,44.2,185591,0,3
+M01958,Baxt Center,Online Shopping,Samarkand,Samarkand,4156,1.0,92454,1,8
+M01959,Yulduz Bozor,Pharmacy,Bukhara,Bukhara,5459,20.0,311073,0,7
+M01960,Zafar Shop,Clothing,Jizzakh,Jizzakh,8913,7.7,61446,1,7
+M01961,Mehr Express,Telecom,Jizzakh,Jizzakh,8316,23.3,246601,1,9
+M01962,Shams Store,Electronics,Urgench,Xorazm,8416,1.5,37210,0,7
+M01963,Yulduz Bozor,Clothing,Jizzakh,Jizzakh,7705,10.0,156971,0,0
+M01964,Zafar Market,Pharmacy,Urgench,Xorazm,6756,25.4,62765,1,2
+M01965,Shams Bozor,Electronics,Termez,Surxondaryo,2227,46.6,41171,0,5
+M01966,Mehr Market,Telecom,Urgench,Xorazm,9229,24.8,114545,0,3
+M01967,Zafar Express,Grocery,Qarshi,Qashqadaryo,5583,55.5,45386,0,2
+M01968,Baxt Center,ATM,Urgench,Xorazm,1005,10.7,222277,1,1
+M01969,Shams Market,Clothing,Nukus,Karakalpakstan,3915,1.0,89941,0,6
+M01970,Baxt Center,Cash,Termez,Surxondaryo,8688,44.7,129305,1,9
+M01971,Nur Express,Pharmacy,Samarkand,Samarkand,6787,21.5,114923,0,0
+M01972,Yulduz Service,Transport,Andijan,Andijan,6226,24.7,188409,0,2
+M01973,Kumush Trade,Utilities,Nukus,Karakalpakstan,4353,40.3,68809,1,0
+M01974,Shams Center,Utilities,Fergana,Fergana,8314,28.0,293929,0,9
+M01975,Yulduz Express,Online Shopping,Termez,Surxondaryo,6737,5.0,615764,0,0
+M01976,Baraka Service,Clothing,Guliston,Sirdaryo,2661,4.6,49464,1,3
+M01977,Baraka Express,Clothing,Nukus,Karakalpakstan,5390,17.3,429581,1,7
+M01978,Oltin Center,Online Shopping,Urgench,Xorazm,8171,21.2,77208,1,2
+M01979,Baraka Trade,Online Shopping,Guliston,Sirdaryo,5361,17.0,80109,0,3
+M01980,Yulduz Trade,Telecom,Namangan,Namangan,8783,15.4,236184,0,3
+M01981,Zafar Shop,Restaurant,Qarshi,Qashqadaryo,9612,4.7,49542,1,8
+M01982,Oltin Shop,Telecom,Samarkand,Samarkand,2827,12.6,193800,0,9
+M01983,Shams Store,Electronics,Samarkand,Samarkand,9187,18.7,186466,0,2
+M01984,Baxt Trade,Telecom,Fergana,Fergana,8707,11.9,113244,1,3
+M01985,Shams Center,Electronics,Tashkent,Tashkent City,9860,14.3,109798,1,2
+M01986,Shams Service,Online Shopping,Fergana,Fergana,7478,6.8,78168,0,1
+M01987,Baraka Shop,Grocery,Bukhara,Bukhara,6821,7.1,214010,0,1
+M01988,Zafar Bozor,Telecom,Termez,Surxondaryo,5526,2.5,87967,1,9
+M01989,Baxt Center,ATM,Fergana,Fergana,7410,5.6,292251,0,8
+M01990,Zafar Bozor,Restaurant,Urgench,Xorazm,8712,8.5,299748,0,6
+M01991,Kumush Store,Pharmacy,Guliston,Sirdaryo,2727,8.8,37460,1,7
+M01992,Mehr Shop,ATM,Jizzakh,Jizzakh,4401,24.2,41645,1,9
+M01993,Mehr Store,Electronics,Guliston,Sirdaryo,1615,19.5,103401,0,0
+M01994,Fayz Service,Transport,Fergana,Fergana,5620,4.3,56540,0,7
+M01995,Oltin Service,Online Shopping,Urgench,Xorazm,3150,1.2,69146,1,7
+M01996,Fayz Market,Transport,Guliston,Sirdaryo,3729,15.4,62418,0,5
+M01997,Nur Center,Telecom,Bukhara,Bukhara,4089,13.3,560400,0,7
+M01998,Yulduz Market,Restaurant,Jizzakh,Jizzakh,1492,39.0,299926,0,2
+M01999,Shams Express,ATM,Guliston,Sirdaryo,1735,14.2,61162,1,0
+M02000,Shams Center,Transport,Andijan,Andijan,7687,6.0,25640,1,2
+M02001,Baraka Trade,Online Shopping,Guliston,Sirdaryo,4931,18.3,76036,1,1
+M02002,Shams Plus,Grocery,Andijan,Andijan,3720,42.1,43018,0,9
+M02003,Shams Center,ATM,Qarshi,Qashqadaryo,4731,13.2,211503,0,6
+M02004,Nur Bozor,Utilities,Tashkent,Tashkent City,2071,25.4,125834,0,1
+M02005,Oltin Trade,Online Shopping,Tashkent,Tashkent City,6491,15.3,75673,1,2
+M02006,Zafar Shop,Fuel,Urgench,Xorazm,9316,34.7,112045,1,0
+M02007,Fayz Bozor,Utilities,Namangan,Namangan,8882,8.3,47630,1,0
+M02008,Nur Trade,Electronics,Urgench,Xorazm,2885,35.2,99510,0,0
+M02009,Baxt Trade,Pharmacy,Nukus,Karakalpakstan,9105,20.7,442549,0,7
+M02010,Baraka Trade,Pharmacy,Samarkand,Samarkand,3131,41.2,69251,1,9
+M02011,Zafar Service,Restaurant,Namangan,Namangan,6797,11.5,129877,1,7
+M02012,Baxt Express,Restaurant,Bukhara,Bukhara,3328,57.0,64091,0,0
+M02013,Yulduz Express,Pharmacy,Qarshi,Qashqadaryo,9160,18.8,63259,1,0
+M02014,Zafar Center,Transport,Samarkand,Samarkand,6897,37.2,232788,1,6
+M02015,Baxt Plus,Telecom,Fergana,Fergana,2996,20.0,44528,1,1
+M02016,Oltin Market,Pharmacy,Urgench,Xorazm,4029,16.9,103614,0,0
+M02017,Baxt Service,Electronics,Guliston,Sirdaryo,5935,35.2,59397,0,1
+M02018,Zafar Shop,ATM,Termez,Surxondaryo,1095,18.3,360021,1,7
+M02019,Baxt Market,Fuel,Nukus,Karakalpakstan,9032,22.5,68925,0,6
+M02020,Mehr Market,Fuel,Fergana,Fergana,5986,13.9,43383,1,6
+M02021,Kumush Express,Clothing,Tashkent,Tashkent City,9421,25.1,105412,0,2
+M02022,Shams Bozor,Clothing,Jizzakh,Jizzakh,7241,30.8,105720,1,3
+M02023,Shams Store,Pharmacy,Tashkent,Tashkent City,9955,36.1,288036,1,2
+M02024,Baraka Bozor,Fuel,Guliston,Sirdaryo,5703,25.2,77361,0,9
+M02025,Baxt Express,Transport,Samarkand,Samarkand,8285,22.1,168232,1,4
+M02026,Shams Service,Telecom,Guliston,Sirdaryo,7075,32.0,53846,0,1
+M02027,Kumush Center,Electronics,Namangan,Namangan,1606,45.7,286127,0,2
+M02028,Baxt Service,ATM,Tashkent,Tashkent City,6190,28.3,242997,0,5
+M02029,Shams Plus,Grocery,Termez,Surxondaryo,8091,2.5,186944,0,6
+M02030,Baxt Service,Electronics,Guliston,Sirdaryo,9418,4.5,233698,0,1
+M02031,Kumush Market,Electronics,Termez,Surxondaryo,2067,19.4,147501,0,0
+M02032,Shams Market,Electronics,Namangan,Namangan,6629,9.7,131445,1,3
+M02033,Kumush Plus,Fuel,Jizzakh,Jizzakh,8296,21.7,47860,1,5
+M02034,Oltin Market,Utilities,Qarshi,Qashqadaryo,4404,18.1,70099,0,8
+M02035,Mehr Store,Transport,Tashkent,Tashkent City,2470,44.8,235591,1,1
+M02036,Baxt Market,Utilities,Bukhara,Bukhara,9488,30.1,228578,0,7
+M02037,Zafar Plus,Clothing,Termez,Surxondaryo,7610,16.1,244176,1,0
+M02038,Yulduz Center,Telecom,Tashkent,Tashkent City,4187,45.4,85041,1,7
+M02039,Oltin Trade,Transport,Fergana,Fergana,8669,0.8,459186,1,3
+M02040,Nur Market,Online Shopping,Namangan,Namangan,1718,9.0,104609,0,0
+M02041,Shams Store,Clothing,Namangan,Namangan,2236,23.3,173230,0,8
+M02042,Nur Store,Telecom,Fergana,Fergana,3167,29.6,1106922,0,7
+M02043,Oltin Express,Telecom,Qarshi,Qashqadaryo,1221,13.6,79557,1,2
+M02044,Baxt Trade,Restaurant,Fergana,Fergana,7603,8.9,213229,1,6
+M02045,Nur Store,Grocery,Samarkand,Samarkand,7861,30.2,35794,0,1
+M02046,Fayz Plus,Cash,Termez,Surxondaryo,4845,11.1,89201,0,9
+M02047,Baraka Plus,Transport,Tashkent,Tashkent City,6142,29.3,193182,1,5
+M02048,Zafar Express,Transport,Nukus,Karakalpakstan,8961,12.9,73165,0,9
+M02049,Baraka Market,Grocery,Nukus,Karakalpakstan,4133,10.1,123741,0,5
+M02050,Baraka Plus,Cash,Fergana,Fergana,5185,18.1,143806,0,4
+M02051,Baxt Bozor,Utilities,Qarshi,Qashqadaryo,4472,30.9,136444,0,5
+M02052,Mehr Market,Electronics,Jizzakh,Jizzakh,1363,10.1,20557,0,1
+M02053,Shams Shop,ATM,Fergana,Fergana,1813,32.0,721606,0,6
+M02054,Kumush Service,Online Shopping,Termez,Surxondaryo,4419,7.1,49422,0,1
+M02055,Baraka Trade,Telecom,Urgench,Xorazm,7806,4.2,63028,0,5
+M02056,Yulduz Market,Grocery,Nukus,Karakalpakstan,8607,7.9,32748,0,1
+M02057,Nur Plus,Grocery,Bukhara,Bukhara,9095,17.2,52677,0,1
+M02058,Yulduz Plus,Electronics,Termez,Surxondaryo,3564,15.0,113370,1,1
+M02059,Yulduz Center,Electronics,Andijan,Andijan,2536,6.0,263668,0,5
+M02060,Baxt Trade,Online Shopping,Samarkand,Samarkand,6742,31.5,71675,1,2
+M02061,Baxt Bozor,Restaurant,Qarshi,Qashqadaryo,5983,21.4,130025,0,2
+M02062,Baraka Center,Fuel,Namangan,Namangan,1782,23.5,150665,1,3
+M02063,Nur Center,Grocery,Andijan,Andijan,7870,24.6,47232,0,4
+M02064,Shams Center,Telecom,Nukus,Karakalpakstan,7228,21.4,26261,0,9
+M02065,Nur Plus,Transport,Urgench,Xorazm,3861,26.2,53664,1,1
+M02066,Zafar Shop,ATM,Qarshi,Qashqadaryo,2337,8.4,335820,0,5
+M02067,Kumush Plus,Online Shopping,Tashkent,Tashkent City,9494,13.7,60594,0,5
+M02068,Baxt Express,Restaurant,Samarkand,Samarkand,6399,24.1,63714,0,4
+M02069,Shams Store,Transport,Urgench,Xorazm,3683,28.3,150158,1,7
+M02070,Zafar Market,Fuel,Guliston,Sirdaryo,7102,18.6,189391,0,7
+M02071,Shams Center,Restaurant,Urgench,Xorazm,9806,26.1,45466,1,9
+M02072,Fayz Express,Fuel,Bukhara,Bukhara,7330,28.9,204456,0,9
+M02073,Oltin Plus,Fuel,Termez,Surxondaryo,1962,33.3,167631,1,8
+M02074,Kumush Plus,ATM,Samarkand,Samarkand,4647,22.0,71130,0,3
+M02075,Mehr Trade,Electronics,Fergana,Fergana,1504,24.6,25229,0,1
+M02076,Nur Center,Electronics,Namangan,Namangan,4729,28.4,212970,0,5
+M02077,Yulduz Market,Clothing,Bukhara,Bukhara,5400,14.5,149086,0,4
+M02078,Baraka Market,Restaurant,Andijan,Andijan,9587,5.9,130130,0,4
+M02079,Mehr Express,Fuel,Samarkand,Samarkand,1207,40.6,37049,0,0
+M02080,Fayz Bozor,Utilities,Guliston,Sirdaryo,9812,39.4,690439,1,8
+M02081,Baraka Plus,ATM,Jizzakh,Jizzakh,8135,11.6,49843,1,3
+M02082,Shams Bozor,ATM,Jizzakh,Jizzakh,3727,8.8,72262,0,5
+M02083,Nur Service,Grocery,Guliston,Sirdaryo,7545,34.7,243905,0,5
+M02084,Kumush Express,Transport,Jizzakh,Jizzakh,8122,39.1,121151,1,9
+M02085,Oltin Plus,Pharmacy,Samarkand,Samarkand,1087,43.8,131491,1,7
+M02086,Baraka Trade,ATM,Nukus,Karakalpakstan,9068,16.5,42971,0,2
+M02087,Oltin Service,Cash,Andijan,Andijan,1803,10.3,40415,0,2
+M02088,Baraka Bozor,Clothing,Tashkent,Tashkent City,5981,5.7,153520,0,2
+M02089,Zafar Center,Cash,Bukhara,Bukhara,5117,21.3,81580,0,4
+M02090,Oltin Service,Electronics,Termez,Surxondaryo,4816,8.6,518516,0,5
+M02091,Baraka Bozor,Electronics,Bukhara,Bukhara,9744,17.5,44486,1,8
+M02092,Oltin Trade,Telecom,Qarshi,Qashqadaryo,1541,21.3,82483,0,2
+M02093,Nur Bozor,Transport,Termez,Surxondaryo,8437,3.0,133051,0,6
+M02094,Shams Store,Cash,Tashkent,Tashkent City,8410,17.0,80193,0,3
+M02095,Fayz Market,Utilities,Guliston,Sirdaryo,4231,12.9,60733,1,5
+M02096,Fayz Bozor,ATM,Nukus,Karakalpakstan,2427,34.1,121878,0,0
+M02097,Mehr Trade,Fuel,Andijan,Andijan,3821,26.3,580374,0,4
+M02098,Yulduz Store,Cash,Tashkent,Tashkent City,7619,38.8,68568,0,6
+M02099,Kumush Bozor,Telecom,Jizzakh,Jizzakh,7555,7.6,31639,0,5
+M02100,Oltin Express,Utilities,Jizzakh,Jizzakh,6421,16.2,179388,1,0
+M02101,Baraka Store,Cash,Jizzakh,Jizzakh,3736,27.2,86355,0,3
+M02102,Nur Plus,Pharmacy,Fergana,Fergana,9288,12.7,50731,0,3
+M02103,Baxt Plus,ATM,Termez,Surxondaryo,7325,17.9,190457,1,0
+M02104,Nur Trade,Restaurant,Urgench,Xorazm,1550,20.5,169104,1,3
+M02105,Kumush Express,ATM,Urgench,Xorazm,1377,7.4,67248,1,5
+M02106,Zafar Center,Cash,Nukus,Karakalpakstan,7329,26.0,30669,0,4
+M02107,Oltin Shop,Transport,Samarkand,Samarkand,8422,32.3,242665,1,8
+M02108,Baxt Center,Telecom,Andijan,Andijan,7247,19.3,67399,0,5
+M02109,Nur Store,Transport,Urgench,Xorazm,2666,34.1,144076,0,9
+M02110,Kumush Service,Utilities,Guliston,Sirdaryo,8587,15.4,104863,0,7
+M02111,Nur Bozor,Fuel,Samarkand,Samarkand,4270,8.1,175340,0,0
+M02112,Zafar Trade,Pharmacy,Jizzakh,Jizzakh,7350,13.2,141317,0,6
+M02113,Kumush Shop,Utilities,Termez,Surxondaryo,7426,12.5,335474,0,2
+M02114,Yulduz Express,Utilities,Andijan,Andijan,3425,18.8,199159,1,3
+M02115,Zafar Plus,Utilities,Guliston,Sirdaryo,2966,8.5,24390,0,7
+M02116,Zafar Plus,Clothing,Tashkent,Tashkent City,7652,2.5,88766,0,8
+M02117,Baxt Market,Pharmacy,Namangan,Namangan,9977,9.3,132663,1,5
+M02118,Shams Market,Transport,Tashkent,Tashkent City,6461,13.5,85903,1,4
+M02119,Yulduz Bozor,ATM,Nukus,Karakalpakstan,4094,20.7,306196,1,8
+M02120,Yulduz Service,Online Shopping,Urgench,Xorazm,4272,32.0,171512,0,6
+M02121,Oltin Service,Fuel,Nukus,Karakalpakstan,6074,51.9,26065,0,3
+M02122,Fayz Center,Grocery,Andijan,Andijan,8056,17.4,88784,0,2
+M02123,Oltin Express,ATM,Bukhara,Bukhara,8736,32.4,121763,0,5
+M02124,Zafar Store,Restaurant,Andijan,Andijan,8281,31.4,63065,0,0
+M02125,Nur Market,Transport,Tashkent,Tashkent City,9760,11.3,206070,1,9
+M02126,Mehr Shop,Online Shopping,Qarshi,Qashqadaryo,5402,12.2,186316,1,9
+M02127,Nur Store,Grocery,Urgench,Xorazm,9139,9.3,163057,1,6
+M02128,Mehr Plus,Clothing,Termez,Surxondaryo,7093,16.2,214569,0,2
+M02129,Zafar Store,Clothing,Jizzakh,Jizzakh,9216,9.2,349275,0,2
+M02130,Nur Express,Grocery,Nukus,Karakalpakstan,1410,15.0,232274,1,6
+M02131,Baraka Plus,Online Shopping,Namangan,Namangan,7545,8.2,228487,0,7
+M02132,Mehr Store,Electronics,Fergana,Fergana,9644,39.1,118169,0,6
+M02133,Baxt Shop,Online Shopping,Termez,Surxondaryo,1909,41.4,75428,0,1
+M02134,Nur Plus,Online Shopping,Termez,Surxondaryo,9618,19.5,616432,0,9
+M02135,Mehr Express,Clothing,Qarshi,Qashqadaryo,3175,33.6,167100,0,1
+M02136,Shams Shop,Pharmacy,Bukhara,Bukhara,5238,52.3,55460,1,0
+M02137,Yulduz Trade,Fuel,Namangan,Namangan,7085,20.7,112754,0,3
+M02138,Yulduz Plus,Grocery,Samarkand,Samarkand,1784,9.7,90728,0,2
+M02139,Baxt Plus,Fuel,Namangan,Namangan,6880,25.9,232660,0,4
+M02140,Oltin Store,Restaurant,Andijan,Andijan,7459,12.0,93400,0,5
+M02141,Fayz Service,Cash,Jizzakh,Jizzakh,6714,11.7,34975,1,6
+M02142,Shams Market,Fuel,Andijan,Andijan,3424,13.8,191665,0,2
+M02143,Mehr Bozor,Clothing,Andijan,Andijan,2128,12.1,78293,0,7
+M02144,Zafar Trade,Telecom,Qarshi,Qashqadaryo,6855,22.2,18954,0,2
+M02145,Kumush Market,Clothing,Guliston,Sirdaryo,3339,13.8,247763,0,6
+M02146,Yulduz Center,Cash,Namangan,Namangan,2317,15.5,41999,0,6
+M02147,Shams Center,Fuel,Urgench,Xorazm,6631,9.7,54396,1,7
+M02148,Zafar Center,Utilities,Guliston,Sirdaryo,3640,11.0,127953,1,7
+M02149,Yulduz Trade,Clothing,Jizzakh,Jizzakh,5219,17.6,134249,0,9
+M02150,Baxt Shop,Online Shopping,Bukhara,Bukhara,8805,6.0,77728,1,2
+M02151,Mehr Shop,Cash,Bukhara,Bukhara,6714,16.0,160710,0,0
+M02152,Zafar Trade,Restaurant,Urgench,Xorazm,3264,22.9,234602,1,0
+M02153,Baraka Service,Telecom,Andijan,Andijan,3242,4.3,57459,0,8
+M02154,Mehr Store,Pharmacy,Nukus,Karakalpakstan,9526,11.1,127149,0,8
+M02155,Mehr Trade,Online Shopping,Samarkand,Samarkand,5807,13.7,133190,0,5
+M02156,Mehr Plus,Online Shopping,Samarkand,Samarkand,4673,3.7,312461,1,8
+M02157,Baraka Shop,Cash,Andijan,Andijan,1244,16.9,142049,1,3
+M02158,Nur Store,Pharmacy,Termez,Surxondaryo,4534,14.0,27412,1,3
+M02159,Fayz Express,Cash,Guliston,Sirdaryo,1418,34.6,758559,0,1
+M02160,Fayz Plus,Cash,Tashkent,Tashkent City,3755,20.3,130541,1,3
+M02161,Kumush Express,ATM,Qarshi,Qashqadaryo,3733,51.8,146366,0,9
+M02162,Baxt Express,Clothing,Guliston,Sirdaryo,2772,27.3,109457,0,8
+M02163,Nur Store,ATM,Andijan,Andijan,1111,20.3,148236,0,6
+M02164,Shams Center,Restaurant,Jizzakh,Jizzakh,9162,28.5,167446,0,6
+M02165,Kumush Trade,Transport,Namangan,Namangan,4626,22.5,220945,0,6
+M02166,Kumush Store,Restaurant,Fergana,Fergana,5635,5.9,105179,0,1
+M02167,Fayz Bozor,ATM,Bukhara,Bukhara,3839,14.9,17598,1,1
+M02168,Mehr Store,Clothing,Urgench,Xorazm,4912,24.4,83639,0,0
+M02169,Baxt Express,Utilities,Samarkand,Samarkand,5487,23.2,100056,0,8
+M02170,Oltin Market,Online Shopping,Fergana,Fergana,2401,17.4,68478,0,6
+M02171,Yulduz Express,Cash,Bukhara,Bukhara,1845,10.2,49750,1,4
+M02172,Mehr Shop,Fuel,Bukhara,Bukhara,3989,8.4,80735,1,3
+M02173,Baxt Shop,ATM,Andijan,Andijan,5057,2.0,234969,1,1
+M02174,Zafar Express,Fuel,Samarkand,Samarkand,9727,11.4,152340,1,1
+M02175,Baraka Express,Telecom,Nukus,Karakalpakstan,2514,13.1,40092,1,0
+M02176,Nur Bozor,Grocery,Namangan,Namangan,2553,23.5,29116,0,8
+M02177,Shams Market,Grocery,Andijan,Andijan,4926,16.7,28805,0,9
+M02178,Shams Plus,Pharmacy,Bukhara,Bukhara,9131,18.2,143611,0,0
+M02179,Shams Shop,Cash,Samarkand,Samarkand,2793,4.7,35340,0,0
+M02180,Baraka Service,Clothing,Termez,Surxondaryo,5758,6.0,110040,0,0
+M02181,Kumush Service,Telecom,Namangan,Namangan,6958,4.1,198566,1,8
+M02182,Oltin Shop,Clothing,Fergana,Fergana,9771,13.6,161658,0,9
+M02183,Nur Center,Cash,Nukus,Karakalpakstan,2757,12.3,89193,0,1
+M02184,Fayz Plus,Electronics,Namangan,Namangan,4641,29.4,408060,1,8
+M02185,Baraka Shop,Pharmacy,Samarkand,Samarkand,1305,14.3,72088,1,6
+M02186,Yulduz Center,Clothing,Fergana,Fergana,4364,13.8,130746,0,6
+M02187,Zafar Bozor,Transport,Tashkent,Tashkent City,9824,23.6,86332,0,2
+M02188,Oltin Center,Telecom,Namangan,Namangan,6516,27.9,100170,0,6
+M02189,Kumush Trade,ATM,Urgench,Xorazm,7254,17.5,226279,0,5
+M02190,Zafar Shop,Grocery,Samarkand,Samarkand,6497,14.4,196785,1,4
+M02191,Zafar Center,Restaurant,Bukhara,Bukhara,7977,23.5,27444,0,0
+M02192,Fayz Shop,Clothing,Jizzakh,Jizzakh,2459,27.2,51491,0,2
+M02193,Nur Shop,Clothing,Namangan,Namangan,1457,14.8,227186,1,8
+M02194,Zafar Service,Telecom,Nukus,Karakalpakstan,6839,2.3,41103,0,3
+M02195,Nur Service,ATM,Samarkand,Samarkand,6930,22.1,52006,0,2
+M02196,Mehr Trade,Cash,Nukus,Karakalpakstan,5114,10.1,154280,1,9
+M02197,Yulduz Express,Pharmacy,Bukhara,Bukhara,5778,22.2,254878,0,7
+M02198,Shams Bozor,Transport,Andijan,Andijan,1626,9.8,230506,0,9
+M02199,Oltin Plus,Transport,Jizzakh,Jizzakh,9278,24.0,32272,1,8
+M02200,Nur Bozor,Transport,Fergana,Fergana,2717,24.7,94212,0,0
+M02201,Zafar Service,Telecom,Guliston,Sirdaryo,7264,24.7,86359,1,4
+M02202,Mehr Shop,Cash,Guliston,Sirdaryo,4240,25.1,72411,0,1
+M02203,Yulduz Plus,Pharmacy,Andijan,Andijan,2852,25.9,33207,1,9
+M02204,Mehr Center,Transport,Namangan,Namangan,1549,18.1,349666,0,5
+M02205,Oltin Center,Clothing,Bukhara,Bukhara,2448,31.2,106846,0,6
+M02206,Nur Service,Pharmacy,Qarshi,Qashqadaryo,7306,24.4,53607,0,8
+M02207,Baxt Service,Cash,Termez,Surxondaryo,3040,29.2,155996,0,2
+M02208,Kumush Trade,Restaurant,Urgench,Xorazm,6459,44.9,102203,1,2
+M02209,Nur Bozor,Online Shopping,Bukhara,Bukhara,6469,22.9,228981,0,4
+M02210,Mehr Market,Restaurant,Qarshi,Qashqadaryo,2441,2.6,79021,0,7
+M02211,Baxt Center,Cash,Termez,Surxondaryo,5000,9.7,82672,0,2
+M02212,Nur Trade,Grocery,Nukus,Karakalpakstan,5463,33.3,119692,0,2
+M02213,Zafar Bozor,ATM,Termez,Surxondaryo,9613,49.0,203638,0,7
+M02214,Fayz Shop,ATM,Nukus,Karakalpakstan,8690,34.3,53610,0,0
+M02215,Baraka Center,Grocery,Urgench,Xorazm,7764,9.3,38351,0,8
+M02216,Oltin Trade,Cash,Namangan,Namangan,4013,33.5,176985,0,8
+M02217,Oltin Center,ATM,Namangan,Namangan,2073,14.7,147431,1,1
+M02218,Oltin Service,Electronics,Qarshi,Qashqadaryo,3620,24.0,122683,0,6
+M02219,Zafar Market,Restaurant,Namangan,Namangan,9553,20.5,125919,0,2
+M02220,Baxt Center,Grocery,Fergana,Fergana,4447,14.4,120779,0,2
+M02221,Mehr Market,Cash,Namangan,Namangan,7815,12.9,347100,0,0
+M02222,Fayz Bozor,Cash,Bukhara,Bukhara,2007,33.0,139452,0,7
+M02223,Shams Center,Telecom,Qarshi,Qashqadaryo,1250,32.1,100962,0,6
+M02224,Fayz Center,ATM,Namangan,Namangan,5076,41.3,51494,1,2
+M02225,Oltin Express,Electronics,Guliston,Sirdaryo,9121,13.9,86798,0,6
+M02226,Oltin Bozor,Grocery,Urgench,Xorazm,8453,2.6,184080,0,0
+M02227,Baraka Store,Transport,Nukus,Karakalpakstan,6906,45.7,213784,0,2
+M02228,Nur Trade,Electronics,Bukhara,Bukhara,2724,16.8,36672,1,3
+M02229,Mehr Bozor,ATM,Andijan,Andijan,4313,39.0,240119,0,6
+M02230,Baraka Shop,ATM,Nukus,Karakalpakstan,3031,16.3,107280,0,6
+M02231,Fayz Trade,Cash,Fergana,Fergana,1502,31.4,776264,0,4
+M02232,Kumush Bozor,Telecom,Andijan,Andijan,2086,15.0,312812,1,3
+M02233,Baraka Store,Fuel,Andijan,Andijan,8231,27.2,101902,0,6
+M02234,Yulduz Center,Clothing,Nukus,Karakalpakstan,1399,23.1,46255,0,4
+M02235,Shams Bozor,Online Shopping,Samarkand,Samarkand,2917,50.3,51509,1,8
+M02236,Yulduz Express,Utilities,Tashkent,Tashkent City,4340,18.8,76509,0,5
+M02237,Fayz Store,Fuel,Nukus,Karakalpakstan,5242,26.5,493050,0,1
+M02238,Oltin Express,Grocery,Termez,Surxondaryo,9064,6.5,91332,1,8
+M02239,Mehr Center,Grocery,Qarshi,Qashqadaryo,9597,28.9,138932,0,6
+M02240,Yulduz Service,Pharmacy,Tashkent,Tashkent City,9838,7.0,104050,0,8
+M02241,Shams Store,Restaurant,Nukus,Karakalpakstan,7839,11.4,99697,1,5
+M02242,Baxt Service,Cash,Fergana,Fergana,1889,8.0,83359,1,8
+M02243,Fayz Plus,Utilities,Urgench,Xorazm,6002,15.7,375110,0,4
+M02244,Oltin Express,Online Shopping,Termez,Surxondaryo,7910,28.1,232493,1,3
+M02245,Yulduz Store,Restaurant,Termez,Surxondaryo,4397,21.0,37162,0,3
+M02246,Baraka Trade,Fuel,Tashkent,Tashkent City,8791,8.2,30990,0,8
+M02247,Nur Market,Online Shopping,Nukus,Karakalpakstan,6941,14.1,223084,1,9
+M02248,Shams Trade,Utilities,Guliston,Sirdaryo,6567,16.6,275853,0,2
+M02249,Kumush Center,Cash,Guliston,Sirdaryo,6405,6.7,55658,1,0
+M02250,Nur Express,Pharmacy,Urgench,Xorazm,3548,17.8,82659,0,0
+M02251,Baraka Plus,Online Shopping,Qarshi,Qashqadaryo,3205,27.0,281481,0,6
+M02252,Nur Market,Fuel,Urgench,Xorazm,1897,9.3,194795,0,5
+M02253,Kumush Trade,Electronics,Andijan,Andijan,8213,9.2,117286,1,8
+M02254,Kumush Shop,Online Shopping,Nukus,Karakalpakstan,8511,36.7,185143,0,9
+M02255,Mehr Service,ATM,Andijan,Andijan,2074,28.1,96165,1,9
+M02256,Shams Shop,Restaurant,Samarkand,Samarkand,2690,18.2,84977,0,7
+M02257,Kumush Express,Utilities,Tashkent,Tashkent City,2903,41.7,276056,0,7
+M02258,Oltin Bozor,Online Shopping,Namangan,Namangan,6562,17.7,69192,0,5
+M02259,Kumush Trade,Transport,Termez,Surxondaryo,2294,25.8,80920,0,4
+M02260,Oltin Center,Utilities,Termez,Surxondaryo,1424,18.8,458337,0,0
+M02261,Baxt Market,Cash,Termez,Surxondaryo,6472,25.9,59257,0,0
+M02262,Nur Shop,Fuel,Fergana,Fergana,1309,42.4,446940,0,0
+M02263,Oltin Market,Fuel,Bukhara,Bukhara,1325,45.7,135807,1,6
+M02264,Shams Plus,ATM,Jizzakh,Jizzakh,1466,10.1,118385,1,6
+M02265,Baraka Store,Grocery,Urgench,Xorazm,9611,32.3,178945,1,7
+M02266,Baxt Service,Online Shopping,Bukhara,Bukhara,9715,4.4,230717,0,4
+M02267,Yulduz Service,Electronics,Termez,Surxondaryo,6619,14.4,350892,0,3
+M02268,Baraka Trade,Pharmacy,Bukhara,Bukhara,4944,1.7,98558,0,6
+M02269,Kumush Bozor,Electronics,Tashkent,Tashkent City,9103,28.1,168403,1,4
+M02270,Oltin Market,Pharmacy,Tashkent,Tashkent City,1808,21.4,82501,0,9
+M02271,Yulduz Service,Fuel,Namangan,Namangan,2105,16.5,76130,1,1
+M02272,Baxt Shop,Telecom,Bukhara,Bukhara,5396,10.4,129960,0,0
+M02273,Nur Bozor,Telecom,Guliston,Sirdaryo,2891,10.7,212343,0,1
+M02274,Nur Trade,Fuel,Guliston,Sirdaryo,5301,9.0,56410,1,7
+M02275,Baxt Market,Restaurant,Tashkent,Tashkent City,7783,25.5,32846,0,7
+M02276,Shams Center,Electronics,Guliston,Sirdaryo,1141,36.4,52027,0,2
+M02277,Nur Bozor,Transport,Guliston,Sirdaryo,8596,7.3,80293,1,2
+M02278,Oltin Trade,Grocery,Guliston,Sirdaryo,9006,21.5,329773,0,3
+M02279,Shams Shop,Restaurant,Urgench,Xorazm,3420,41.9,60017,1,6
+M02280,Oltin Plus,Transport,Samarkand,Samarkand,8947,12.5,175267,0,2
+M02281,Baraka Service,Clothing,Termez,Surxondaryo,7505,3.9,291875,0,3
+M02282,Fayz Service,Grocery,Urgench,Xorazm,3688,5.3,63603,1,3
+M02283,Fayz Market,Pharmacy,Fergana,Fergana,8600,12.2,349636,1,4
+M02284,Shams Service,ATM,Samarkand,Samarkand,9988,42.6,186800,0,1
+M02285,Oltin Plus,Restaurant,Namangan,Namangan,3711,37.4,54284,0,5
+M02286,Fayz Market,Online Shopping,Fergana,Fergana,7651,21.0,85942,0,9
+M02287,Fayz Market,Cash,Samarkand,Samarkand,4145,19.5,62463,1,7
+M02288,Yulduz Shop,Telecom,Guliston,Sirdaryo,6218,17.4,95717,0,6
+M02289,Baraka Market,Restaurant,Tashkent,Tashkent City,4675,23.2,161598,0,3
+M02290,Baxt Trade,Cash,Fergana,Fergana,1226,8.3,69773,0,8
+M02291,Kumush Trade,Fuel,Fergana,Fergana,7843,21.0,157814,0,1
+M02292,Baraka Service,Utilities,Nukus,Karakalpakstan,1038,29.4,135359,0,0
+M02293,Baraka Shop,Clothing,Jizzakh,Jizzakh,4200,19.3,50201,1,3
+M02294,Mehr Service,ATM,Samarkand,Samarkand,6801,17.8,158412,1,5
+M02295,Mehr Bozor,Utilities,Samarkand,Samarkand,1960,22.5,277638,0,7
+M02296,Baxt Service,Pharmacy,Tashkent,Tashkent City,3500,34.2,97070,1,6
+M02297,Yulduz Bozor,Telecom,Bukhara,Bukhara,6039,44.9,211853,1,1
+M02298,Shams Bozor,Restaurant,Tashkent,Tashkent City,3769,34.9,51859,1,6
+M02299,Yulduz Shop,Clothing,Samarkand,Samarkand,1486,11.2,403181,0,0
+M02300,Oltin Center,ATM,Qarshi,Qashqadaryo,6171,9.0,191110,1,2
+M02301,Kumush Service,Pharmacy,Qarshi,Qashqadaryo,6023,6.7,206879,0,1
+M02302,Fayz Bozor,Electronics,Termez,Surxondaryo,1060,26.3,69400,1,7
+M02303,Oltin Express,ATM,Urgench,Xorazm,3686,60.0,207326,0,9
+M02304,Kumush Shop,Online Shopping,Urgench,Xorazm,5925,27.8,164103,0,0
+M02305,Yulduz Center,Pharmacy,Jizzakh,Jizzakh,7197,11.7,213581,0,2
+M02306,Kumush Shop,Restaurant,Urgench,Xorazm,3216,39.4,333826,0,6
+M02307,Yulduz Service,Fuel,Bukhara,Bukhara,2650,11.0,79932,0,7
+M02308,Kumush Express,Clothing,Guliston,Sirdaryo,3652,8.4,333764,1,2
+M02309,Mehr Market,Fuel,Termez,Surxondaryo,7728,7.2,217396,0,9
+M02310,Oltin Plus,Electronics,Samarkand,Samarkand,3485,16.3,46269,1,0
+M02311,Yulduz Center,ATM,Nukus,Karakalpakstan,9355,28.3,444073,0,4
+M02312,Shams Plus,Online Shopping,Jizzakh,Jizzakh,1540,24.8,77766,0,0
+M02313,Zafar Express,Fuel,Guliston,Sirdaryo,7688,14.4,140138,1,3
+M02314,Mehr Center,Telecom,Guliston,Sirdaryo,9634,15.7,145077,1,3
+M02315,Oltin Bozor,Telecom,Termez,Surxondaryo,3704,36.0,55534,0,5
+M02316,Shams Trade,ATM,Fergana,Fergana,3619,5.8,238674,0,6
+M02317,Mehr Express,Online Shopping,Samarkand,Samarkand,5893,5.4,84176,0,9
+M02318,Yulduz Plus,Utilities,Qarshi,Qashqadaryo,6968,16.1,43104,0,7
+M02319,Zafar Bozor,Restaurant,Namangan,Namangan,8548,14.7,62076,1,2
+M02320,Baraka Market,Pharmacy,Namangan,Namangan,9097,26.1,28033,0,6
+M02321,Zafar Shop,Grocery,Termez,Surxondaryo,8092,11.0,41169,0,7
+M02322,Mehr Trade,Online Shopping,Bukhara,Bukhara,4327,8.7,264048,1,0
+M02323,Fayz Trade,Cash,Termez,Surxondaryo,1498,14.7,35122,0,3
+M02324,Nur Bozor,Online Shopping,Nukus,Karakalpakstan,5501,14.7,157435,0,7
+M02325,Fayz Service,Utilities,Andijan,Andijan,1553,1.9,75063,0,3
+M02326,Baxt Express,Restaurant,Namangan,Namangan,7890,10.2,283996,0,8
+M02327,Baxt Market,Cash,Namangan,Namangan,1996,42.8,117641,1,1
+M02328,Mehr Express,Online Shopping,Urgench,Xorazm,1861,27.9,45653,0,0
+M02329,Shams Center,Telecom,Namangan,Namangan,5129,23.9,190980,0,5
+M02330,Shams Service,Clothing,Qarshi,Qashqadaryo,6361,18.0,88046,0,8
+M02331,Baxt Market,Fuel,Namangan,Namangan,2622,13.6,204366,0,0
+M02332,Baraka Service,ATM,Termez,Surxondaryo,6238,16.3,155002,1,5
+M02333,Zafar Market,Telecom,Samarkand,Samarkand,7307,12.5,51357,0,6
+M02334,Yulduz Market,Cash,Guliston,Sirdaryo,2338,34.7,107728,0,7
+M02335,Fayz Store,Utilities,Andijan,Andijan,9078,10.0,75696,1,8
+M02336,Zafar Shop,ATM,Bukhara,Bukhara,2674,11.8,97153,0,0
+M02337,Oltin Store,Transport,Samarkand,Samarkand,1198,31.6,106965,0,2
+M02338,Fayz Express,Pharmacy,Termez,Surxondaryo,9295,15.7,33371,0,9
+M02339,Yulduz Bozor,Pharmacy,Bukhara,Bukhara,7691,46.1,151587,0,4
+M02340,Baraka Plus,Grocery,Namangan,Namangan,7725,29.7,91630,0,5
+M02341,Fayz Center,Telecom,Bukhara,Bukhara,1337,9.2,43004,0,4
+M02342,Fayz Store,Pharmacy,Namangan,Namangan,5347,39.8,47068,0,7
+M02343,Baxt Trade,Fuel,Bukhara,Bukhara,1698,14.7,29709,0,7
+M02344,Yulduz Trade,Online Shopping,Qarshi,Qashqadaryo,8033,26.3,567697,0,3
+M02345,Mehr Market,Clothing,Fergana,Fergana,4896,17.9,116141,0,8
+M02346,Oltin Market,Grocery,Samarkand,Samarkand,8898,8.6,160449,1,4
+M02347,Oltin Plus,Pharmacy,Qarshi,Qashqadaryo,9994,49.2,377219,1,3
+M02348,Nur Market,Electronics,Guliston,Sirdaryo,3771,13.9,1059536,0,9
+M02349,Oltin Center,Utilities,Jizzakh,Jizzakh,3671,10.3,67548,0,6
+M02350,Fayz Express,Electronics,Namangan,Namangan,9805,11.6,78562,0,6
+M02351,Kumush Market,Telecom,Fergana,Fergana,5608,26.5,53305,1,0
+M02352,Nur Shop,ATM,Nukus,Karakalpakstan,7429,19.9,105641,1,9
+M02353,Kumush Trade,Pharmacy,Tashkent,Tashkent City,9796,33.1,28070,0,5
+M02354,Baraka Center,Utilities,Fergana,Fergana,4713,2.0,339527,0,6
+M02355,Oltin Trade,Cash,Namangan,Namangan,6664,13.7,178068,0,4
+M02356,Mehr Shop,Grocery,Jizzakh,Jizzakh,7983,19.7,101152,1,4
+M02357,Nur Trade,Fuel,Fergana,Fergana,4276,23.6,37078,1,0
+M02358,Fayz Center,Transport,Andijan,Andijan,6979,13.1,377648,1,7
+M02359,Oltin Trade,Utilities,Termez,Surxondaryo,3946,9.3,83899,0,8
+M02360,Oltin Plus,Restaurant,Bukhara,Bukhara,7994,30.4,479513,0,4
+M02361,Baraka Bozor,Grocery,Bukhara,Bukhara,3536,18.7,94050,0,4
+M02362,Kumush Center,Transport,Qarshi,Qashqadaryo,5370,12.1,126887,0,1
+M02363,Oltin Market,Clothing,Urgench,Xorazm,1741,5.6,44080,0,8
+M02364,Oltin Service,Grocery,Urgench,Xorazm,8773,19.0,314430,1,7
+M02365,Oltin Service,Fuel,Termez,Surxondaryo,1934,12.3,31394,0,4
+M02366,Oltin Plus,ATM,Termez,Surxondaryo,1317,36.0,222880,0,9
+M02367,Baxt Service,Pharmacy,Termez,Surxondaryo,7575,27.7,361465,0,3
+M02368,Mehr Market,Clothing,Urgench,Xorazm,2628,28.6,31660,1,1
+M02369,Baxt Store,Pharmacy,Qarshi,Qashqadaryo,6005,28.9,252511,0,4
+M02370,Yulduz Express,Transport,Fergana,Fergana,9939,19.6,379118,0,7
+M02371,Baraka Bozor,Clothing,Bukhara,Bukhara,2162,16.9,169496,1,3
+M02372,Oltin Market,Fuel,Urgench,Xorazm,2999,12.9,191950,1,8
+M02373,Baraka Express,Grocery,Qarshi,Qashqadaryo,4624,15.0,163125,1,1
+M02374,Nur Service,Cash,Bukhara,Bukhara,8236,36.2,126611,1,4
+M02375,Fayz Express,Fuel,Namangan,Namangan,3105,15.4,52865,1,5
+M02376,Kumush Trade,ATM,Guliston,Sirdaryo,9752,9.6,114889,0,9
+M02377,Fayz Express,Electronics,Jizzakh,Jizzakh,4775,24.2,94166,0,0
+M02378,Yulduz Express,Online Shopping,Tashkent,Tashkent City,7401,10.9,538972,0,9
+M02379,Oltin Service,Pharmacy,Tashkent,Tashkent City,6612,15.6,113740,0,0
+M02380,Nur Center,Electronics,Jizzakh,Jizzakh,5224,8.1,116995,1,4
+M02381,Baxt Shop,Pharmacy,Termez,Surxondaryo,2110,4.5,139595,0,4
+M02382,Mehr Store,Online Shopping,Fergana,Fergana,4771,14.2,172147,0,5
+M02383,Fayz Market,Fuel,Jizzakh,Jizzakh,7471,48.2,64560,1,6
+M02384,Kumush Shop,ATM,Nukus,Karakalpakstan,2580,19.8,256798,0,2
+M02385,Shams Trade,Transport,Andijan,Andijan,1350,28.1,112507,1,8
+M02386,Zafar Store,Electronics,Bukhara,Bukhara,5743,6.5,215974,1,4
+M02387,Baraka Trade,Pharmacy,Namangan,Namangan,1095,12.5,58290,0,2
+M02388,Nur Express,Online Shopping,Namangan,Namangan,3890,10.2,107626,0,8
+M02389,Nur Market,Fuel,Samarkand,Samarkand,8623,42.3,394316,0,5
+M02390,Kumush Plus,Utilities,Nukus,Karakalpakstan,2984,23.3,589749,0,2
+M02391,Yulduz Shop,Grocery,Fergana,Fergana,7412,33.2,205165,0,9
+M02392,Fayz Express,Utilities,Termez,Surxondaryo,1895,4.2,49076,1,3
+M02393,Zafar Service,Restaurant,Bukhara,Bukhara,1754,26.6,27517,0,0
+M02394,Zafar Plus,Utilities,Guliston,Sirdaryo,4343,6.0,205066,0,4
+M02395,Oltin Plus,Grocery,Qarshi,Qashqadaryo,1548,16.2,586145,0,3
+M02396,Yulduz Market,Utilities,Bukhara,Bukhara,7315,13.3,88099,1,2
+M02397,Baxt Service,Grocery,Fergana,Fergana,8452,7.3,103274,0,1
+M02398,Oltin Service,Telecom,Fergana,Fergana,2208,20.4,149857,1,7
+M02399,Baxt Center,Restaurant,Samarkand,Samarkand,1809,41.3,900207,0,6
+M02400,Kumush Shop,Restaurant,Fergana,Fergana,6129,17.2,140052,1,3
+M02401,Zafar Service,Clothing,Termez,Surxondaryo,7697,4.2,141991,0,9
+M02402,Baxt Shop,ATM,Tashkent,Tashkent City,2374,22.9,89348,1,9
+M02403,Nur Store,Telecom,Guliston,Sirdaryo,6617,4.8,131448,0,6
+M02404,Baxt Bozor,Fuel,Guliston,Sirdaryo,3677,11.7,298422,1,2
+M02405,Zafar Bozor,Pharmacy,Guliston,Sirdaryo,8568,15.3,71997,0,8
+M02406,Yulduz Bozor,Grocery,Guliston,Sirdaryo,6997,13.3,259736,1,8
+M02407,Yulduz Store,ATM,Samarkand,Samarkand,5078,19.5,268885,1,7
+M02408,Nur Bozor,Utilities,Bukhara,Bukhara,5695,29.3,64154,0,7
+M02409,Fayz Store,ATM,Urgench,Xorazm,6201,42.2,228983,0,6
+M02410,Zafar Store,Fuel,Samarkand,Samarkand,4188,27.1,626517,0,6
+M02411,Baxt Store,Fuel,Termez,Surxondaryo,2238,18.1,45527,1,3
+M02412,Oltin Store,Restaurant,Samarkand,Samarkand,7257,33.0,107393,1,7
+M02413,Mehr Shop,ATM,Guliston,Sirdaryo,8961,27.4,148574,0,7
+M02414,Mehr Store,Transport,Fergana,Fergana,5991,18.2,164692,0,9
+M02415,Kumush Plus,Telecom,Bukhara,Bukhara,4245,27.0,56520,0,1
+M02416,Shams Plus,Telecom,Bukhara,Bukhara,9030,27.4,44355,0,1
+M02417,Baxt Plus,Online Shopping,Fergana,Fergana,3040,23.1,66874,0,0
+M02418,Nur Service,Cash,Bukhara,Bukhara,4766,3.0,130712,1,0
+M02419,Fayz Store,Utilities,Fergana,Fergana,1268,11.4,82916,1,6
+M02420,Fayz Service,Electronics,Urgench,Xorazm,6786,11.0,241927,0,2
+M02421,Oltin Service,Clothing,Urgench,Xorazm,5077,42.6,317367,0,9
+M02422,Mehr Store,Cash,Guliston,Sirdaryo,8238,23.4,60643,1,5
+M02423,Yulduz Market,Pharmacy,Tashkent,Tashkent City,1014,3.5,157381,1,7
+M02424,Nur Trade,Utilities,Jizzakh,Jizzakh,6967,30.7,130548,0,2
+M02425,Yulduz Express,Utilities,Fergana,Fergana,6557,31.4,923389,0,2
+M02426,Mehr Express,Cash,Urgench,Xorazm,5408,10.9,85934,0,8
+M02427,Baraka Bozor,Utilities,Nukus,Karakalpakstan,7644,21.6,167412,1,8
+M02428,Baxt Service,Transport,Nukus,Karakalpakstan,1599,22.7,594882,0,1
+M02429,Baraka Center,Pharmacy,Guliston,Sirdaryo,2007,14.3,24507,0,5
+M02430,Mehr Market,Grocery,Nukus,Karakalpakstan,8807,20.6,393276,0,4
+M02431,Oltin Store,Fuel,Urgench,Xorazm,5193,6.7,73609,1,1
+M02432,Zafar Trade,Pharmacy,Urgench,Xorazm,1618,21.3,37715,0,7
+M02433,Oltin Service,Online Shopping,Guliston,Sirdaryo,5141,25.6,155011,1,6
+M02434,Baraka Trade,Cash,Samarkand,Samarkand,5245,13.6,141922,1,4
+M02435,Oltin Center,Utilities,Termez,Surxondaryo,2227,48.5,197842,0,1
+M02436,Baraka Store,Fuel,Termez,Surxondaryo,2976,28.0,220617,0,8
+M02437,Oltin Shop,Utilities,Bukhara,Bukhara,5585,37.1,110922,0,2
+M02438,Zafar Center,ATM,Fergana,Fergana,7760,13.8,493115,0,8
+M02439,Shams Center,Clothing,Qarshi,Qashqadaryo,6925,2.6,368478,1,7
+M02440,Oltin Bozor,Fuel,Namangan,Namangan,7051,35.3,173483,1,0
+M02441,Oltin Service,Fuel,Jizzakh,Jizzakh,7329,12.6,161196,0,9
+M02442,Kumush Market,Restaurant,Qarshi,Qashqadaryo,2953,14.9,312219,0,5
+M02443,Fayz Express,Telecom,Namangan,Namangan,2154,9.8,125508,1,3
+M02444,Zafar Trade,Cash,Urgench,Xorazm,7499,45.5,45362,0,9
+M02445,Baxt Trade,Electronics,Fergana,Fergana,7555,36.1,111495,0,1
+M02446,Mehr Market,Grocery,Guliston,Sirdaryo,4092,37.6,92616,0,6
+M02447,Baraka Store,Electronics,Samarkand,Samarkand,6964,10.6,135649,0,1
+M02448,Yulduz Store,Grocery,Qarshi,Qashqadaryo,3462,21.2,47181,0,6
+M02449,Baxt Plus,Online Shopping,Samarkand,Samarkand,2361,10.4,52405,0,5
+M02450,Kumush Trade,Restaurant,Urgench,Xorazm,2090,7.6,305440,0,9
+M02451,Baraka Service,Electronics,Andijan,Andijan,2782,11.5,129181,0,0
+M02452,Shams Shop,Online Shopping,Andijan,Andijan,3949,8.2,97298,1,4
+M02453,Mehr Store,Utilities,Fergana,Fergana,3905,8.7,86659,0,7
+M02454,Oltin Trade,Grocery,Bukhara,Bukhara,9723,24.7,107926,1,4
+M02455,Mehr Center,Clothing,Nukus,Karakalpakstan,7608,40.4,140047,0,6
+M02456,Mehr Shop,Electronics,Fergana,Fergana,2527,31.4,32603,0,3
+M02457,Mehr Store,Fuel,Tashkent,Tashkent City,3951,28.3,89014,0,6
+M02458,Oltin Plus,Fuel,Qarshi,Qashqadaryo,9187,20.3,143575,0,0
+M02459,Zafar Express,Pharmacy,Urgench,Xorazm,7807,14.0,108938,0,3
+M02460,Mehr Trade,Utilities,Urgench,Xorazm,9613,41.3,30434,0,5
+M02461,Nur Shop,Clothing,Namangan,Namangan,7029,37.2,125114,0,1
+M02462,Mehr Bozor,Electronics,Termez,Surxondaryo,5817,21.4,119240,0,9
+M02463,Kumush Shop,Electronics,Jizzakh,Jizzakh,7577,8.7,70450,0,9
+M02464,Fayz Market,ATM,Namangan,Namangan,6616,19.0,58579,0,2
+M02465,Nur Plus,Fuel,Bukhara,Bukhara,1667,6.7,144085,1,8
+M02466,Kumush Store,Utilities,Guliston,Sirdaryo,4661,26.0,134089,1,8
+M02467,Oltin Trade,Fuel,Qarshi,Qashqadaryo,4983,19.6,178177,0,5
+M02468,Shams Plus,Utilities,Samarkand,Samarkand,5967,22.3,649728,0,7
+M02469,Nur Market,Utilities,Nukus,Karakalpakstan,2536,31.0,194810,0,1
+M02470,Fayz Bozor,Fuel,Jizzakh,Jizzakh,8055,19.8,68872,0,7
+M02471,Yulduz Express,Utilities,Tashkent,Tashkent City,1703,7.3,336327,0,9
+M02472,Oltin Express,Fuel,Jizzakh,Jizzakh,9414,7.5,100545,1,6
+M02473,Yulduz Shop,Pharmacy,Qarshi,Qashqadaryo,3644,18.1,100851,0,3
+M02474,Fayz Plus,Clothing,Qarshi,Qashqadaryo,5782,32.1,59788,0,4
+M02475,Nur Trade,Electronics,Tashkent,Tashkent City,6772,19.5,194741,1,8
+M02476,Baxt Shop,Telecom,Termez,Surxondaryo,4501,5.0,96880,1,4
+M02477,Oltin Service,Transport,Tashkent,Tashkent City,7522,17.7,250075,0,2
+M02478,Mehr Trade,ATM,Andijan,Andijan,1435,5.2,198147,0,7
+M02479,Mehr Express,Transport,Qarshi,Qashqadaryo,9154,16.0,63207,0,2
+M02480,Fayz Center,Clothing,Guliston,Sirdaryo,4370,15.6,57946,0,2
+M02481,Oltin Trade,Telecom,Nukus,Karakalpakstan,7475,12.8,151270,0,3
+M02482,Mehr Express,Pharmacy,Termez,Surxondaryo,1026,7.9,336026,1,1
+M02483,Baraka Trade,Utilities,Jizzakh,Jizzakh,1761,34.0,290302,0,4
+M02484,Baraka Express,Transport,Jizzakh,Jizzakh,4056,25.9,420778,1,9
+M02485,Mehr Store,Pharmacy,Nukus,Karakalpakstan,7363,23.0,142332,1,9
+M02486,Oltin Center,Telecom,Jizzakh,Jizzakh,9035,33.0,258421,1,3
+M02487,Zafar Store,Transport,Guliston,Sirdaryo,1760,41.8,311057,1,9
+M02488,Fayz Plus,Pharmacy,Andijan,Andijan,9585,13.1,625939,0,1
+M02489,Nur Center,Telecom,Tashkent,Tashkent City,8468,11.7,174657,1,0
+M02490,Oltin Market,Clothing,Samarkand,Samarkand,8850,16.6,93197,0,7
+M02491,Zafar Bozor,Electronics,Guliston,Sirdaryo,1338,11.7,319697,0,8
+M02492,Yulduz Market,Utilities,Termez,Surxondaryo,2825,17.7,44050,1,1
+M02493,Zafar Bozor,Restaurant,Bukhara,Bukhara,5951,38.5,302184,1,3
+M02494,Nur Express,Electronics,Termez,Surxondaryo,5123,29.0,372713,0,4
+M02495,Zafar Trade,Fuel,Bukhara,Bukhara,8376,31.2,287529,0,6
+M02496,Baraka Store,Fuel,Jizzakh,Jizzakh,9917,28.3,60176,1,2
+M02497,Shams Bozor,Pharmacy,Nukus,Karakalpakstan,4271,11.8,152659,0,1
+M02498,Fayz Market,Fuel,Jizzakh,Jizzakh,6867,3.6,305630,1,1
+M02499,Mehr Store,Fuel,Qarshi,Qashqadaryo,4746,13.3,194894,1,1

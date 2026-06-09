@@ -1,0 +1,17 @@
+[project]
+name = "fraud"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "imbalanced-learn>=0.14.2",
+    "jupyter>=1.1.1",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.6",
+    "optuna>=4.9.0",
+    "optuna-integration[lightgbm]>=4.9.0",
+    "pandas>=3.0.3",
+    "seaborn>=0.13.2",
+    "shap>=0.52.0",
+    "xgboost>=3.2.0",
+]
